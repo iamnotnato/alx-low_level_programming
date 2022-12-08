@@ -1,0 +1,1 @@
+These are projects that help in understanding low level programming.
