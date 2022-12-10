@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
- * A C program that displays the words "Programming is like building a multilingual puzzle"
+ * main - Entry point
+ * Return: Always 0 (Success)
+ * A program that displays text
  */
 int main(void)
 {
