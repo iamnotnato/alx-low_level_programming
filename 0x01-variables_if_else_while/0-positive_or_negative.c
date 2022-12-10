@@ -3,6 +3,7 @@
 #include <stdio.h>
 /**
  * main - Entry point
+ * Description : Display the negation of the number
  * Return: Always 0 (Success)
  */
 int main(void)
