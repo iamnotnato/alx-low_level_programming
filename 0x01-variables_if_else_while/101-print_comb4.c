@@ -12,8 +12,8 @@
  * You are not allowed to use any variables of type `char`.
  * Return: 0
  */
- int main(void)
- {
+int main(void)
+{
 int i, j, k, l;
 for (i = 0; i < 1000; i++)
 {
