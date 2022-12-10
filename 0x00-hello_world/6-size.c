@@ -2,6 +2,7 @@
 /**
  * main - Entry point
  * Return: Always 0 (Success)
+ * A program that prints the size of various types.
  */
 int main(void)
 {
