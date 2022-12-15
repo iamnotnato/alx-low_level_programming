@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * main - Prints the alphabet
+ * main - Entry point
+ * Description : A program that prints all lowercase alphabets.
  * Return: Always 0 (Success)
  */
 int main(void)
