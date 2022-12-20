@@ -1,9 +1,8 @@
 #include "main.h"
 /**
-* main - check the code
-* Description : A function that prints the alphabet, in lowercase.
-* Return: Always 0.
- */
+* print_alphabet - Print alphabet in lowercase using only `_putchar`
+* Return: 0
+*/
 void print_alphabet(void)
 {
 char letter;
