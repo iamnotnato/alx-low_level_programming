@@ -4,6 +4,7 @@
 
 * [_putchar.c](./_putchar.c) : A C function that writes a character to `stdout`.
 <br>
+
 * [main.h](./main.h) : A Header file containing prototypes for all functions written in the project.
 
 | File          | Prototype                                               |
