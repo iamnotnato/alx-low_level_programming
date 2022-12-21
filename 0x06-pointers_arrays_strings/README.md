@@ -15,8 +15,9 @@
 <h4>List of Tasks:</h4>
 
 * **0-strcat.c**
-  * [0-strcat.c](./0-strcat.c): A function that concatenates two strings.
-    * Returns a pointer to the resulting string dest.
+  * [0-strcat.c](./0-strcat.c): 
+  Required : A function that concatenates two strings.
+  Expected Results : Returns a pointer to the resulting string dest.
 
 * **1-strncat.c**
   * [1-strncat.c](./1-strncat.c): A function that concatenates two strings.
