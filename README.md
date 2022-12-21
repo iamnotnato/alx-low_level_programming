@@ -2,6 +2,8 @@ These are projects that help in understanding low level programming.
 
 <h4>Languages Used</h4>
 <img alt="medium" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img alt="medium" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+<img alt="medium" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
 
 <h4>Projects Guide: </h4>
 
