@@ -18,6 +18,7 @@
   * File : [0-strcat.c](./0-strcat.c):
   <br>
   Required : A function that concatenates two strings.
+  <br>
   Expected Results : Returns a pointer to the resulting string dest.
 
 * **1-strncat.c**
