@@ -12,6 +12,7 @@
 | `0-strcat.c`  | `char *_strcat(char *dest, char *src);`                 |
 | `1-strncat.c` | `char *_strncpy(char *dest, char *src, int n);`         |
 
+<br>
 <h4>Tasks 📓:</h4>
 
 * **0-strcat.c**
