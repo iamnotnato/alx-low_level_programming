@@ -22,5 +22,8 @@
   Expected Results : Returns a pointer to the resulting string dest.
 
 * **1-strncat.c**
-  * [1-strncat.c](./1-strncat.c): A function that concatenates two strings.
-    * Return a pointer to the resulting string dest.
+  *  File : [1-strncat.c](./1-strncat.c): 
+   <br>
+  Required : A function that concatenates two strings.
+  <br>
+  Expected Results : Returns a pointer to the resulting string dest.
