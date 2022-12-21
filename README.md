@@ -1,6 +1,13 @@
 <h4>Summary: </h4>
 These are projects that help in understanding low level programming.
 
+<table>
+  <tr>
+    <td>Emil</td>
+    <td>Tobias</td>
+    <td>Linus</td>
+  </tr>
+</table>
 <h4>Languages Used</h4>
 <textarea rows="3" cols="50">
 <img alt="medium" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
