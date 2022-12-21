@@ -2,6 +2,7 @@
 These are projects that help in understanding low level programming.
 
 <table>
+  <th>Languages Used</th>
   <tr>
     <td>Emil</td>
     <td>Tobias</td>
