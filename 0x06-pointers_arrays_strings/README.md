@@ -1,4 +1,4 @@
-<h4>Project : C - More pointers, arrays and strings.</h4>
+<h3>Project : C - More pointers, arrays and strings.</h3>
 
 ## Essentials:
 
