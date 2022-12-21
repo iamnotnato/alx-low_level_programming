@@ -1,7 +1,7 @@
 These are projects that help in understanding low level programming.
 
 <h4>Languages Used</h4>
-<img alt="medium" src="https://img.shields.io/badge/C-00599C?&style=for-the-badge&logo=c&logoColor=white">
+<img alt="medium" src="https://img.shields.io/badge/C-00599C?&style=for-the-badge&logo=C&logoColor=white">
 
 <h4>Projects Guide: </h4>
 
