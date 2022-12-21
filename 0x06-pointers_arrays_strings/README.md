@@ -15,7 +15,7 @@
 <h4>List of Tasks:</h4>
 
 * **0-strcat.c**
-  * [0-strcat.c](./0-strcat.c):
+  * File : [0-strcat.c](./0-strcat.c):
   <br>
   Required : A function that concatenates two strings.
   Expected Results : Returns a pointer to the resulting string dest.
