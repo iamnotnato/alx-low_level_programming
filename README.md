@@ -1,5 +1,5 @@
 <h4>Summary: </h4>
-These are projects that help in understanding low level programming.
+These are projects that helped me understand a bit of low-level programming.
 
 <h4>Languages Used</h4>
 <table>
