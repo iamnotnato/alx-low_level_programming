@@ -1,6 +1,6 @@
 C - More pointers, arrays and strings
 
-## Tasks :page_with_curl:
+## Tasks 📓
 
 * **0-strcat.c**
   * [0-strcat.c](./0-strcat.c): A function that concatenates two strings.
