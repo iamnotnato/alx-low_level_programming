@@ -1,10 +1,8 @@
-C - More pointers, arrays and strings
+<h4>C - More pointers, arrays and strings.</h4>
 
-## Helper File:
+## Essentials:
 
 * [_putchar.c](./_putchar.c): C function that writes a character to `stdout`.
-
-## Header File:
 
 * [main.h](./main.h): Header file containing prototypes for all functions written
 in the project.
