@@ -1,6 +1,6 @@
 <h3>Project : C - More pointers, arrays and strings.</h3>
 
-## Essentials:
+<h4>Essentials:</h4>
 
 * [_putchar.c](./_putchar.c) : A C function that writes a character to `stdout`.
 
@@ -11,7 +11,7 @@
 | `0-strcat.c`  | `char *_strcat(char *dest, char *src);`                 |
 | `1-strncat.c` | `char *_strncpy(char *dest, char *src, int n);`         |
 
-## Tasks 📓
+<h4>Tasks 📓:</h4>
 
 * **0-strcat.c**
   * [0-strcat.c](./0-strcat.c): A function that concatenates two strings.
