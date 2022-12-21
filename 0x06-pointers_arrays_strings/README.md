@@ -13,7 +13,7 @@
 | `1-strncat.c` | `char *_strncpy(char *dest, char *src, int n);`         |
 
 <br>
-<h4>Tasks 📓:</h4>
+<h4>List of Tasks:</h4>
 
 * **0-strcat.c**
   * [0-strcat.c](./0-strcat.c): A function that concatenates two strings.
