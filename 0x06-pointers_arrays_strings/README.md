@@ -10,7 +10,7 @@
 | File                 | Prototype                                                      |
 | ---------------------| ---------------------------------------------------------------|
 | `0-strcat.c`         | `char *_strcat(char *dest, char *src);`                        |
-| `1-strncat.c`        | `char *_strncpy(char *dest, char *src, int n);`                |
+| `1-strncat.c`        | `char *_strncat(char *dest, char *src, int n);`                |
 | `2-strncpy.c`        | `char *_strncpy(char *dest, char *src, int n);`                |
 | `3-strcmp.c`         | `int _strcmp(char *s1, char *s2);`                             |
 | `4-rev_array.c`      | `void reverse_array(int *a, int n);`                           |
@@ -42,7 +42,7 @@
 * **2-strncpy.c**
   *  File : [2-strncpy.c](./2-strncpy.c): 
    <br>
-  Required : char *_strncpy(char *dest, char *src, int n);
+  Required : Your function should work exactly like strncpy.
   <br>
   Expected Results : Your function should work exactly like strncpy.
   
