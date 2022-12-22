@@ -11,6 +11,17 @@
 | ------------  | ------------------------------------------------------- |
 | `0-strcat.c`  | `char *_strcat(char *dest, char *src);`                 |
 | `1-strncat.c` | `char *_strncpy(char *dest, char *src, int n);`         |
+| `1-strncat.c` | `char *_strncpy(char *dest, char *src, int n);`         |
+| `1-strncat.c` | `char *_strncpy(char *dest, char *src, int n);`         |
+| `1-strncat.c` | `char *_strncpy(char *dest, char *src, int n);`         |
+| `1-strncat.c` | `char *_strncpy(char *dest, char *src, int n);`         |
+| `1-strncat.c` | `char *_strncpy(char *dest, char *src, int n);`         |
+| `1-strncat.c` | `char *_strncpy(char *dest, char *src, int n);`         |
+| `1-strncat.c` | `char *_strncpy(char *dest, char *src, int n);`         |
+| `1-strncat.c` | `char *_strncpy(char *dest, char *src, int n);`         |
+| `1-strncat.c` | `char *_strncpy(char *dest, char *src, int n);`         |
+| `1-strncat.c` | `char *_strncpy(char *dest, char *src, int n);`         |
+| `1-strncat.c` | `char *_strncpy(char *dest, char *src, int n);`         |
 
 <h4>List of Tasks:</h4>
 
@@ -22,6 +33,83 @@
   Expected Results : Returns a pointer to the resulting string dest.
 
 * **1-strncat.c**
+  *  File : [1-strncat.c](./1-strncat.c): 
+   <br>
+  Required : A function that concatenates two strings.
+  <br>
+  Expected Results : Returns a pointer to the resulting string dest.
+  
+  * **1-strncat.c**
+  *  File : [1-strncat.c](./1-strncat.c): 
+   <br>
+  Required : A function that concatenates two strings.
+  <br>
+  Expected Results : Returns a pointer to the resulting string dest.
+  
+  * **1-strncat.c**
+  *  File : [1-strncat.c](./1-strncat.c): 
+   <br>
+  Required : A function that concatenates two strings.
+  <br>
+  Expected Results : Returns a pointer to the resulting string dest.
+  
+  * **1-strncat.c**
+  *  File : [1-strncat.c](./1-strncat.c): 
+   <br>
+  Required : A function that concatenates two strings.
+  <br>
+  Expected Results : Returns a pointer to the resulting string dest.
+  
+  * **1-strncat.c**
+  *  File : [1-strncat.c](./1-strncat.c): 
+   <br>
+  Required : A function that concatenates two strings.
+  <br>
+  Expected Results : Returns a pointer to the resulting string dest.
+  
+  * **1-strncat.c**
+  *  File : [1-strncat.c](./1-strncat.c): 
+   <br>
+  Required : A function that concatenates two strings.
+  <br>
+  Expected Results : Returns a pointer to the resulting string dest.
+  
+  * **1-strncat.c**
+  *  File : [1-strncat.c](./1-strncat.c): 
+   <br>
+  Required : A function that concatenates two strings.
+  <br>
+  Expected Results : Returns a pointer to the resulting string dest.
+  
+  * **1-strncat.c**
+  *  File : [1-strncat.c](./1-strncat.c): 
+   <br>
+  Required : A function that concatenates two strings.
+  <br>
+  Expected Results : Returns a pointer to the resulting string dest.
+  
+  * **1-strncat.c**
+  *  File : [1-strncat.c](./1-strncat.c): 
+   <br>
+  Required : A function that concatenates two strings.
+  <br>
+  Expected Results : Returns a pointer to the resulting string dest.
+  
+  * **1-strncat.c**
+  *  File : [1-strncat.c](./1-strncat.c): 
+   <br>
+  Required : A function that concatenates two strings.
+  <br>
+  Expected Results : Returns a pointer to the resulting string dest.
+  
+  * **1-strncat.c**
+  *  File : [1-strncat.c](./1-strncat.c): 
+   <br>
+  Required : A function that concatenates two strings.
+  <br>
+  Expected Results : Returns a pointer to the resulting string dest.
+  
+  * **1-strncat.c**
   *  File : [1-strncat.c](./1-strncat.c): 
    <br>
   Required : A function that concatenates two strings.
