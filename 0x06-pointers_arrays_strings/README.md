@@ -21,7 +21,7 @@
 | `1-strncat.c` | `char *_strncpy(char *dest, char *src, int n);`         |
 | `1-strncat.c` | `char *_strncpy(char *dest, char *src, int n);`         |
 | `1-strncat.c` | `char *_strncpy(char *dest, char *src, int n);`         |
-| `1-strncat.c` | `char *_strncpy(char *dest, char *src, int n);`         |
+| `104-print_buffer.c` | `void print_buffer(char *b, int size);`         |
 
 <h4>List of Tasks:</h4>
 
@@ -102,9 +102,9 @@
   <br>
   Expected Results : Returns a pointer to the resulting string dest.
 
-* **1-strncat.c**
-  *  File : [1-strncat.c](./1-strncat.c): 
+* **104-print_buffer.c**
+  *  File : [104-print_buffer.c](./104-print_buffer.c): 
    <br>
-  Required : A function that concatenates two strings.
+  Required : The function must print the content of size bytes of the buffer pointed by b
   <br>
-  Expected Results : Returns a pointer to the resulting string dest.
+  Expected Results : The output should look like the example they provided and formatted exactly the same way.
