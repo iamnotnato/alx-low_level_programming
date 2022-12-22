@@ -7,21 +7,21 @@
 
 <h4>Prototypes Required:</h4>
 
-| File          | Prototype                                               |
-| ------------  | ------------------------------------------------------- |
-| `0-strcat.c`  | `char *_strcat(char *dest, char *src);`                 |
-| `1-strncat.c` | `char *_strncpy(char *dest, char *src, int n);`         |
-| `1-strncat.c` | `char *_strncpy(char *dest, char *src, int n);`         |
-| `1-strncat.c` | `char *_strncpy(char *dest, char *src, int n);`         |
-| `4-rev_array.c` | `void reverse_array(int *a, int n);`         |
-| `5-string_toupper.c` | `char *string_toupper(char *);`         |
-| `6-cap_string.c` | `char *cap_string(char *);`         |
-| `7-leet.c` | `char *leet(char *);`         |
-| `100-rot13.c` | `char *rot13(char *);`         |
-| `101-print_number.c` | `void print_number(int n);`                      |
-| `102-magic.c`        | `N/A`                                            |
+| File                 | Prototype                                                      |
+| ---------------------| ---------------------------------------------------------------|
+| `0-strcat.c`         | `char *_strcat(char *dest, char *src);`                        |
+| `1-strncat.c`        | `char *_strncpy(char *dest, char *src, int n);`                |
+| `2-strncpy.c`        | `char *_strncpy(char *dest, char *src, int n);`                |
+| `3-strcmp.c`         | `int _strcmp(char *s1, char *s2);`                             |
+| `4-rev_array.c`      | `void reverse_array(int *a, int n);`                           |
+| `5-string_toupper.c` | `char *string_toupper(char *);`                                |
+| `6-cap_string.c`     | `char *cap_string(char *);`                                    |
+| `7-leet.c`           | `char *leet(char *);`                                          |
+| `100-rot13.c`        | `char *rot13(char *);`                                         |
+| `101-print_number.c` | `void print_number(int n);`                                    |
+| `102-magic.c`        | `N/A`                                                          |
 | `103-infinite_add.c` | `char *infinite_add(char *n1, char *n2, char *r, int size_r);` |
-| `104-print_buffer.c` | `void print_buffer(char *b, int size);`         |
+| `104-print_buffer.c` | `void print_buffer(char *b, int size);`                        |
 
 <h4>List of Tasks:</h4>
 
@@ -39,26 +39,19 @@
   <br>
   Expected Results : Returns a pointer to the resulting string dest.
   
-  * **0-strcat.c**
-  * File : [0-strcat.c](./0-strcat.c):
-  <br>
-  Required : A function that concatenates two strings.
-  <br>
-  Expected Results : Returns a pointer to the resulting string dest.
-
-* **1-strncat.c**
-  *  File : [1-strncat.c](./1-strncat.c): 
+* **2-strncpy.c**
+  *  File : [2-strncpy.c](./2-strncpy.c): 
    <br>
-  Required : A function that concatenates two strings.
+  Required : char *_strncpy(char *dest, char *src, int n);
   <br>
-  Expected Results : Returns a pointer to the resulting string dest.
+  Expected Results : Your function should work exactly like strncpy.
   
-    * **0-strcat.c**
-  * File : [0-strcat.c](./0-strcat.c):
+    * **3-strcmp.c**
+  * File : [3-strcmp.c](./3-strcmp.c):
   <br>
-  Required : A function that concatenates two strings.
+  Required : A function that compares two strings.
   <br>
-  Expected Results : Returns a pointer to the resulting string dest.
+  Expected Results : Your function should work exactly like strcmp.
 
 * **4-rev_array.c**
   *  File : [4-rev_array.c](./4-rev_array.c): 
