@@ -10,6 +10,13 @@ These are projects that helped me understand a bit of low-level programming.
   </tr>
 </table>
 
+<h4>Integrated Development Environment:</h4>
+<table>
+  <tr>
+<td><img alt="medium" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white"></td>
+  </tr>
+</table>
+
 <h4>Projects Guide: </h4>
 
 * [0x00. C - Hello, World](./0x00-hello_world)
