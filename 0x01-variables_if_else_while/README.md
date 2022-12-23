@@ -1,117 +1,94 @@
-<h3>Project : C - More pointers, arrays and strings.</h3>
-
-<h4>Essentials:</h4>
-
-* [_putchar.c](./_putchar.c) : A C function that writes a character to `stdout`.
-* [main.h](./main.h) : A Header file containing prototypes for all functions written in the project.
-
-<h4>Prototypes Required:</h4>
-
-| File                 | Prototype                                                      |
-| ---------------------| ---------------------------------------------------------------|
-| `0-strcat.c`         | `char *_strcat(char *dest, char *src);`                        |
-| `1-strncat.c`        | `char *_strncat(char *dest, char *src, int n);`                |
-| `2-strncpy.c`        | `char *_strncpy(char *dest, char *src, int n);`                |
-| `3-strcmp.c`         | `int _strcmp(char *s1, char *s2);`                             |
-| `4-rev_array.c`      | `void reverse_array(int *a, int n);`                           |
-| `5-string_toupper.c` | `char *string_toupper(char *);`                                |
-| `6-cap_string.c`     | `char *cap_string(char *);`                                    |
-| `7-leet.c`           | `char *leet(char *);`                                          |
-| `100-rot13.c`        | `char *rot13(char *);`                                         |
-| `101-print_number.c` | `void print_number(int n);`                                    |
-| `102-magic.c`        | `N/A`                                                          |
-| `103-infinite_add.c` | `char *infinite_add(char *n1, char *n2, char *r, int size_r);` |
-| `104-print_buffer.c` | `void print_buffer(char *b, int size);`                        |
+<h3>Project : 0x01-variables_if_else_while</h3>
 
 <h4>List of Tasks:</h4>
 
-* **0. strcat**
-  * File : [0-strcat.c](./0-strcat.c)
+* **0. Positive anything is better than negative nothing**
+  * File : [0-positive_or_negative.c](./0-positive_or_negative.c)
   <br>
-  Required : A function that concatenates two strings.
+  Required : Complete the source code in order to print whether the number stored in the variable n is positive or negative.
   <br>
-  Expected Results : Returns a pointer to the resulting string dest.
+  Expected Results : The variable n will store a different value every time you will run this program
 
-* **1. strncat**
-  *  File : [1-strncat.c](./1-strncat.c)
+* **1. The last digit*
+  *  File : [1-last_digit.c](./1-last_digit.c)
    <br>
-  Required : A function that concatenates two strings.
+  Required : Complete the source code in order to print the last digit of the number stored in the variable n.
   <br>
-  Expected Results : Returns a pointer to the resulting string dest.
+  Expected Results : The variable n will store a different value every time you run this program
   
-* **2. strncpy**
-  *  File : [2-strncpy.c](./2-strncpy.c)
+* **2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**
+  *  File : [2-print_alphabet.c](./2-print_alphabet.c)
    <br>
-  Required : Your function should work exactly like strncpy.
+  Required : A program that prints the alphabet in lowercase, followed by a new line.
   <br>
-  Expected Results : Your function should work exactly like strncpy.
+  Expected Results : You can only use the putchar function (every other function (printf, puts, etc…) is forbidden).
   
-* **3. strcmp**
-  * File : [3-strcmp.c](./3-strcmp.c)
+* **3. alphABET**
+  * File : [3-print_alphabets.c](./3-print_alphabets.c)
   <br>
-  Required : A function that compares two strings.
+  Required : A program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
   <br>
-  Expected Results : Your function should work exactly like strcmp.
+  Expected Results : You can only use the putchar function (every other function (printf, puts, etc…) is forbidden)
 
-* **4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy**
-  *  File : [4-rev_array.c](./4-rev_array.c)
+* **4. When I was having that alphabet soup, I never thought that it would pay off**
+  *  File : [4-print_alphabt.c](./4-print_alphabt.c)
    <br>
-  Required : A function that reverses the content of an array of integers.
+  Required : A program that prints the alphabet in lowercase, followed by a new line.
   <br>
-  Expected Results : Where n is the number of elements of the array.
+  Expected Results : You can only use the putchar function (every other function (printf, puts, etc…) is forbidden)
   
-* **5. Always look up**
-  * File : [5-string_toupper.c](./5-string_toupper.c)
+* **5. Numbers**
+  * File : [5-print_numbers.c](./5-print_numbers.c)
   <br>
-  Required : A function that changes all lowercase letters of a string to uppercase.
+  Required : A program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
   <br>
-  Expected Results : A function that changes all lowercase letters of a string to uppercase.
+  Expected Results : All your code should be in the main function
 
-* **6. Expect the best. Prepare for the worst. Capitalize on what comes**
-  *  File : [6-cap_string.c](./6-cap_string.c)
+* **6. Numberz**
+  *  File : [6-print_numberz.c](./6-print_numberz.c)
    <br>
-  Required : Write a function that capitalizes all words of a string.
+  Required : A program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
   <br>
-  Expected Results : Separators of words: space, tabulation, new line, ,, ;, ., !, ?, ", (, ), {, and }
+  Expected Results : You can only use the putchar function (every other function (printf, puts, etc…) is forbidden).
   
-* **7. Mozart composed his music not for the elite, but for everybody**
-  * File : [7-leet.c](./7-leet.c)
+* **7. Smile in the mirror**
+  * File : [7-print_tebahpla.c](./7-print_tebahpla.c)
   <br>
-  Required : A function that encodes a string into 1337.
+  Required : A program that prints the lowercase alphabet in reverse, followed by a new line.
   <br>
-  Expected Results : You are not allowed to use any ternary operation.
+  Expected Results : You can only use the putchar function (every other function (printf, puts, etc…) is forbidden).
 
-* **8. rot13**
-  *  File : [100-rot13.c](./100-rot13.c)
+* **8. Hexadecimal**
+  *  File : [8-print_base16.c](./8-print_base16.c)
    <br>
-  Required : A function that encodes a string using rot13.
+  Required : A program that prints all the numbers of base 16 in lowercase, followed by a new line.
   <br>
-  Expected Results : You can only use if statement once in your code.
+  Expected Results : You can only use the putchar function (every other function (printf, puts, etc…) is forbidden).
   
-* **9. Numbers have life; they're not just symbols on paper**
-  * File : [101-print_number.c](./101-print_number.c)
+* **9. Patience, persistence and perspiration make an unbeatable combination for success**
+  * File : [9-print_comb.c](./9-print_comb.c)
   <br>
-  Required : A function that prints an integer.
+  Required : A program that prints all possible combinations of single-digit numbers.
   <br>
-  Expected Results : You can only use _putchar function to print.
+  Expected Results : Numbers should be printed in ascending order
 
-* **10. A dream doesn't become reality through magic; it takes sweat, determination and hard work**
-  *  File : [102-magic.c](./102-magic.c)
+* **10. Inventing is a combination of brains and materials. The more brains you use, the less material you need**
+  *  File : [100-print_comb3.c](./100-print_comb3.c)
    <br>
-  Required : You are not allowed to code anything else than the line of expected line of code at the expected line.
+  Required : A program that prints all possible different combinations of two digits.
   <br>
-  Expected Results : Add one line to the code provided, so that the program prints a[2] = 98, followed by a new line.
+  Expected Results : ou can only use the putchar function (every other function (printf, puts, etc…) is forbidden).
   
-* **11. It is the addition of strangeness to beauty that constitutes the romantic character in art**
+* **11. The success combination in business is: Do what you do better... and: do more of what you do...**
   * File : [103-infinite_add.c](./103-infinite_add.c)
   <br>
-  Required : The function returns a pointer to the result
+  Required : A program that prints all possible different combinations of three digits.
   <br>
-  Expected Results : RIf the result can not be stored in r the function must return 0.
+  Expected Results : Print only the smallest combination of three digits
 
-* **12. Noise is a buffer, more effective than cubicles or booth walls**
-  *  File : [104-print_buffer.c](./104-print_buffer.c)
+* **12. Software is eating the World**
+  *  File : [102-print_comb5.c](./102-print_comb5.c)
    <br>
-  Required : The function must print the content of size bytes of the buffer pointed by b
+  Required : A program that prints all possible combinations of two two-digit numbers.
   <br>
-  Expected Results : The output should look like the example they provided and formatted exactly the same way.
+  Expected Results : The combinations of numbers should be printed in ascending order
