@@ -46,7 +46,7 @@
   <br>
   Expected Results : Your function should work exactly like strncpy.
   
-    * **3. strcmp**
+* **3. strcmp**
   * File : [3-strcmp.c](./3-strcmp.c):
   <br>
   Required : A function that compares two strings.
