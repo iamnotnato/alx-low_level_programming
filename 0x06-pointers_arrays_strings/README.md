@@ -60,7 +60,7 @@
   <br>
   Expected Results : Where n is the number of elements of the array.
   
-  * **5. Always look up**
+* **5. Always look up**
   * File : [5-string_toupper.c](./5-string_toupper.c):
   <br>
   Required : A function that changes all lowercase letters of a string to uppercase.
@@ -74,7 +74,7 @@
   <br>
   Expected Results : Separators of words: space, tabulation, new line, ,, ;, ., !, ?, ", (, ), {, and }
   
-  * **7. Mozart composed his music not for the elite, but for everybody**
+* **7. Mozart composed his music not for the elite, but for everybody**
   * File : [7-leet.c](./7-leet.c):
   <br>
   Required : A function that encodes a string into 1337.
@@ -88,7 +88,7 @@
   <br>
   Expected Results : You can only use if statement once in your code.
   
-  * **9. Numbers have life; they're not just symbols on paper**
+* **9. Numbers have life; they're not just symbols on paper**
   * File : [101-print_number.c](./101-print_number.c):
   <br>
   Required : A function that prints an integer.
@@ -102,7 +102,7 @@
   <br>
   Expected Results : Add one line to the code provided, so that the program prints a[2] = 98, followed by a new line.
   
-  * **11. It is the addition of strangeness to beauty that constitutes the romantic character in art**
+* **11. It is the addition of strangeness to beauty that constitutes the romantic character in art**
   * File : [103-infinite_add.c](./103-infinite_add.c):
   <br>
   Required : The function returns a pointer to the result
