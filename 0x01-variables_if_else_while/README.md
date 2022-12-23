@@ -9,7 +9,7 @@
   <br>
   Expected Results : The variable n will store a different value every time you will run this program
 
-* **1. The last digit*
+* **1. The last digit**
   *  File : [1-last_digit.c](./1-last_digit.c)
    <br>
   Required : Complete the source code in order to print the last digit of the number stored in the variable n.
