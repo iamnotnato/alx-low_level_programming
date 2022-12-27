@@ -20,7 +20,7 @@
 | `8-24_hours.c`        | `void jack_bauer(void);`                                         |
 | `9-times_table.c` | `void times_table(void);`                                    |
 | `10-add.c`        | `int add(int, int);`                                                          |
-| `103-infinite_add.c` | `char *infinite_add(char *n1, char *n2, char *r, int size_r);` |
+| `11-print_to_98.c` | `void print_to_98(int n);` |
 | `104-print_buffer.c` | `void print_buffer(char *b, int size);`                        |
 
 <h4>List of Tasks:</h4>
@@ -104,14 +104,48 @@
   Required : A function that adds two integers and returns the result.
 
   
-* **11. It is the addition of strangeness to beauty that constitutes the romantic character in art**
-  * File : [103-infinite_add.c](./103-infinite_add.c)
+* **11. 98 Battery Street, the OG**
+  * File : [11-print_to_98.c](./11-print_to_98.c)
   <br>
   Required : The function returns a pointer to the result
   <br>
-  Expected Results : RIf the result can not be stored in r the function must return 0.
-
+  Expected Results : 
+   <ul>
+  <li>Numbers must be separated by a comma, followed by a space</li>
+  <li>Numbers should be printed in order</li>
+  <li>The first printed number should be the number passed to your function</li>
+  <li>The last printed number should be 98</li>
+  </ul>
+  
 * **12. Noise is a buffer, more effective than cubicles or booth walls**
+  *  File : [104-print_buffer.c](./104-print_buffer.c)
+   <br>
+  Required : The function must print the content of size bytes of the buffer pointed by b
+  <br>
+  Expected Results : The output should look like the example they provided and formatted exactly the same way.
+  
+  * **12. Noise is a buffer, more effective than cubicles or booth walls**
+  *  File : [104-print_buffer.c](./104-print_buffer.c)
+   <br>
+  Required : The function must print the content of size bytes of the buffer pointed by b
+  <br>
+  Expected Results : The output should look like the example they provided and formatted exactly the same way.
+  
+  * **12. Noise is a buffer, more effective than cubicles or booth walls**
+  *  File : [104-print_buffer.c](./104-print_buffer.c)
+   <br>
+  Required : The function must print the content of size bytes of the buffer pointed by b
+  <br>
+  Expected Results : The output should look like the example they provided and formatted exactly the same way.
+  
+  * **12. Noise is a buffer, more effective than cubicles or booth walls**
+  *  File : [104-print_buffer.c](./104-print_buffer.c)
+   <br>
+  Required : The function must print the content of size bytes of the buffer pointed by b
+  <br>
+  Expected Results : The output should look like the example they provided and formatted exactly the same way.
+  
+  * **12. Noise is a buffer, more effective than cubicles or booth walls**
   *  File : [104-print_buffer.c](./104-print_buffer.c)
    <br>
   Required : The function must print the content of size bytes of the buffer pointed by b
