@@ -15,13 +15,13 @@
 | `3-print_numbers.c`         | `void print_numbers(void);`                             |
 | `4-print_most_numbers.c`      | `void print_most_numbers(void);`                           |
 | `5-more_numbers.c` | `void more_numbers(void);`                                |
-| `6-cap_string.c`     | `char *cap_string(char *);`                                    |
-| `7-leet.c`           | `char *leet(char *);`                                          |
-| `100-rot13.c`        | `char *rot13(char *);`                                         |
-| `101-print_number.c` | `void print_number(int n);`                                    |
-| `102-magic.c`        | `N/A`                                                          |
-| `103-infinite_add.c` | `char *infinite_add(char *n1, char *n2, char *r, int size_r);` |
-| `104-print_buffer.c` | `void print_buffer(char *b, int size);`                        |
+| `6-print_line.c`     | `void print_line(int n);`                                    |
+| `7-print_diagonal.c`           | `void print_diagonal(int n);`                                          |
+| `8-print_square.c`        | `void print_square(int size);`                                         |
+| `9-fizz_buzz.c` | `N/A`                                    |
+| `10-print_triangle.c`        | `void print_triangle(int size);`                                                          |
+| `100-prime_factor.c` | `N/A` |
+| `101-print_number.c` | `void print_number(int n);`                        |
 
 <h4>List of Tasks:</h4>
 
@@ -78,51 +78,80 @@
   <br>
   Expected Results : You can only use _putchar three times in your code
 
-* **6. Expect the best. Prepare for the worst. Capitalize on what comes**
-  *  File : [6-cap_string.c](./6-cap_string.c)
+* **6. The shortest distance between two points is a straight line**
+  *  File : [6-print_line.c](./6-print_line.c)
    <br>
-  Required : Write a function that capitalizes all words of a string.
+  Required : A function that draws a straight line in the terminal.
   <br>
-  Expected Results : Separators of words: space, tabulation, new line, ,, ;, ., !, ?, ", (, ), {, and }
+  Expected Results : 
+   <ul>
+  <li>You can only use _putchar function to print</li>
+  <li>Where n is the number of times the character _ should be printed</li>
+  <li>The line should end with a \n</li>
+  <li>If n is 0 or less, the function should only print \n</li>
+  </ul>
   
-* **7. Mozart composed his music not for the elite, but for everybody**
-  * File : [7-leet.c](./7-leet.c)
+* **7. I feel like I am diagonally parked in a parallel universe**
+  * File : [7-print_diagonal.c](./7-print_diagonal.c)
   <br>
   Required : A function that encodes a string into 1337.
   <br>
-  Expected Results : You are not allowed to use any ternary operation.
+    <ul>
+  <li>You can only use _putchar function to print</li>
+  <li>Where n is the number of times the character \ should be printed</li>
+  <li>The diagonal should end with a \n</li>
+  <li>If n is 0 or less, the function should only print \n</li>
+  </ul>
 
-* **8. rot13**
-  *  File : [100-rot13.c](./100-rot13.c)
+* **8. You are so much sunshine in every square inch**
+  *  File : [8-print_square.c](./8-print_square.c)
    <br>
-  Required : A function that encodes a string using rot13.
+  Required : A function that prints a square, followed by a new line.
   <br>
-  Expected Results : You can only use if statement once in your code.
+  Expected Results : 
+      <ul>
+  <li>You can only use _putchar function to print</li>
+  <li>Where size is the size of the square</li>
+  <li>If size is 0 or less, the function should print only a new line</li>
+  <li>Use the character # to print the square</li>
+  </ul>
   
-* **9. Numbers have life; they're not just symbols on paper**
-  * File : [101-print_number.c](./101-print_number.c)
+* **9. Fizz-Buzz**
+  * File : [9-fizz_buzz.c](./9-fizz_buzz.c)
   <br>
+  Required : A program that prints the numbers from 1 to 100, followed by a new line. But for multiples of three print Fizz instead of the number and for the multiples of five print Buzz. For numbers which are multiples of both three and five print FizzBuzz.
+  <br>
+  Expected Results : Each number or word should be separated by a space
+
+* **10. Triangles**
+  *  File : [10-print_triangle.c](./10-print_triangle.c)
+   <br>
+  Required : A function that prints a triangle, followed by a new line.
+  <br>
+  Expected Results : 
+      <ul>
+  <li>You can only use _putchar function to print</li>
+  <li>Where size is the size of the triangle</li>
+  <li>If size is 0 or less, the function should print only a new line
+  <li>Use the character # to print the triangle</li>
+  </ul>
+  
+* **11. The problem of distinguishing prime numbers from composite numbers and of resolving the latter into their prime factors is known to be one of the most important and useful in arithmetic**
+  * File : [100-prime_factor.c](./100-prime_factor.c)
+  <br>
+  Required : A program that finds and prints the largest prime factor of the number 612852475143, followed by a new line.
+  <br>
+  Expected Results : Your program will be compiled with this command: gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-prime_factor.c -o 100-prime_factor -lm
+
+* **12. Numbers have life; they're not just symbols on paper**
+  *  File : [101-print_number.c](./101-print_number.c)
+   <br>
   Required : A function that prints an integer.
   <br>
-  Expected Results : You can only use _putchar function to print.
-
-* **10. A dream doesn't become reality through magic; it takes sweat, determination and hard work**
-  *  File : [102-magic.c](./102-magic.c)
-   <br>
-  Required : You are not allowed to code anything else than the line of expected line of code at the expected line.
-  <br>
-  Expected Results : Add one line to the code provided, so that the program prints a[2] = 98, followed by a new line.
-  
-* **11. It is the addition of strangeness to beauty that constitutes the romantic character in art**
-  * File : [103-infinite_add.c](./103-infinite_add.c)
-  <br>
-  Required : The function returns a pointer to the result
-  <br>
-  Expected Results : RIf the result can not be stored in r the function must return 0.
-
-* **12. Noise is a buffer, more effective than cubicles or booth walls**
-  *  File : [104-print_buffer.c](./104-print_buffer.c)
-   <br>
-  Required : The function must print the content of size bytes of the buffer pointed by b
-  <br>
-  Expected Results : The output should look like the example they provided and formatted exactly the same way.
+  Expected Results :
+      <ul>
+  <li>You can only use _putchar function to print</li>
+  <li>You are not allowed to use long</li>
+  <li>You are not allowed to use arrays or pointers</li>
+  <li>You are not allowed to hard-code special values</li>
+  </ul>
