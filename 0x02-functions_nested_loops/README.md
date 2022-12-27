@@ -58,14 +58,15 @@
    <br>
   Required : A function that checks for alphabetic character.
   <br>
-  Expected Results : Returns 1 if c is a letter, lowercase or uppercase. Returns 0 otherwise
+  Expected Results : Returns 1 if c is a letter, lowercase or uppercase.__
+  Returns 0 otherwise
   
 * **5. Sign**
   * File : [5-sign.c](./5-sign.c)
   <br>
   Required : A function that prints the sign of a number.
   <br>
-  Expected Results : Returns 1 and prints + if n is greater than zero.\
+  Expected Results : Returns 1 and prints + if n is greater than zero.
 Returns 0 and prints 0 if n is zero
 Returns -1 and prints - if n is less than zero
 
