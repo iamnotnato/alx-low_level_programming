@@ -137,6 +137,8 @@
   <br>
   Kronecker in a lecture for the Berliner Naturforscher Versammlung (1886).
   <br>
+  <br>
+  
     * **12. Noise is a buffer, more effective than cubicles or booth walls**
   *  File : [104-print_buffer.c](./104-print_buffer.c)
    <br>
