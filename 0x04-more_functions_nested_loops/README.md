@@ -1,4 +1,4 @@
-<h3>Project : C - More pointers, arrays and strings.</h3>
+<h3>Project : 0x04-more_functions_nested_loops</h3>
 
 <h4>Essentials:</h4>
 
