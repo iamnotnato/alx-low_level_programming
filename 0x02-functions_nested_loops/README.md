@@ -58,13 +58,11 @@
    <br>
   Required : A function that checks for alphabetic character.
   <br>
-  Expected Results : Returns 1 if c is a letter, lowercase or uppercase.
-  Returns 0 otherwise
-  
+  Expected Results :  
   <ul>
-<li>Line 1</li>
-<li>Line 2</li>
-</ul>
+  <li>Returns 1 if c is a letter, lowercase or uppercase.</li>
+  <li>Returns 0 otherwise</li>
+  </ul>
   
 * **5. Sign**
   * File : [5-sign.c](./5-sign.c)
