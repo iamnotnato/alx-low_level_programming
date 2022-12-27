@@ -18,10 +18,9 @@
 | `6-puts2.c`     | `void puts2(char *str);`                                    |
 | `7-puts_half.c`           | `void puts_half(char *str);`                                          |
 | `8-print_array.c`        | `void print_array(int *a, int n);`                                         |
-| `101-print_number.c` | `void print_number(int n);`                                    |
-| `102-magic.c`        | `N/A`                                                          |
-| `103-infinite_add.c` | `char *infinite_add(char *n1, char *n2, char *r, int size_r);` |
-| `104-print_buffer.c` | `void print_buffer(char *b, int size);`                        |
+| `9-strcpy.c` | `char *_strcpy(char *dest, char *src);`                                    |
+| `100-atoi.c`        | `int _atoi(char *s);`                                                          |
+| `101-keygen.c` | `N/A` |
 
 <h4>List of Tasks:</h4>
 
@@ -86,30 +85,37 @@
     <li>The numbers should be displayed in the same order as they are stored in the array</li>
   </ul>
   
-* **9. Numbers have life; they're not just symbols on paper**
-  * File : [101-print_number.c](./101-print_number.c)
+* **9. strcpy**
+  * File : [9-strcpy.c](./9-strcpy.c)
   <br>
-  Required : A function that prints an integer.
+  Required : A function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
   <br>
-  Expected Results : You can only use _putchar function to print.
+  Expected Results : Return value: the pointer to dest
 
-* **10. A dream doesn't become reality through magic; it takes sweat, determination and hard work**
-  *  File : [102-magic.c](./102-magic.c)
+* **10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers**
+  *  File : [100-atoi.c](./100-atoi.c)
    <br>
-  Required : You are not allowed to code anything else than the line of expected line of code at the expected line.
+  Required : A function that convert a string to an integer.
   <br>
-  Expected Results : Add one line to the code provided, so that the program prints a[2] = 98, followed by a new line.
+  Expected Results : 
+    <ul>
+  <li>The number in the string can be preceded by an infinite number of characters</li>
+  <li>You need to take into account all the - and + signs before the number</li>
+  <li>If there are no numbers in the string, the function must return 0</li>
+  <li>You are not allowed to use long</li>
+  <li>You are not allowed to declare new variables of “type” array</li>
+  <li>You are not allowed to hard-code special values</li>
+  <li>We will use the -fsanitize=signed-integer-overflow gcc flag to compile your code.</li>
+  </ul>
   
-* **11. It is the addition of strangeness to beauty that constitutes the romantic character in art**
-  * File : [103-infinite_add.c](./103-infinite_add.c)
+* **11. Don't hate the hacker, hate the code**
+  * File : [101-keygen.c](./101-keygen.c)
   <br>
-  Required : The function returns a pointer to the result
+  Required : A program that generates random valid passwords for the program 101-crackme.
   <br>
-  Expected Results : RIf the result can not be stored in r the function must return 0.
+  <ul>
+  <li>You don’t have to pass the betty-style tests (you still need to pass the betty-doc tests)</li>
+  <li>man srand, rand, time</li>
+    <li>gdb and objdump can help</li>
+  </ul>
 
-* **12. Noise is a buffer, more effective than cubicles or booth walls**
-  *  File : [104-print_buffer.c](./104-print_buffer.c)
-   <br>
-  Required : The function must print the content of size bytes of the buffer pointed by b
-  <br>
-  Expected Results : The output should look like the example they provided and formatted exactly the same way.
