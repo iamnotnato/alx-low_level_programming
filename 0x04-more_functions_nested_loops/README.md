@@ -12,9 +12,9 @@
 | `0. isupper`         | `int _isupper(int c);`                        |
 | `1-isdigit.c`        | `int _isdigit(int c);`                |
 | `2-mul.c`        | `int mul(int a, int b);`                |
-| `3-strcmp.c`         | `int _strcmp(char *s1, char *s2);`                             |
-| `4-rev_array.c`      | `void reverse_array(int *a, int n);`                           |
-| `5-string_toupper.c` | `char *string_toupper(char *);`                                |
+| `3-print_numbers.c`         | `void print_numbers(void);`                             |
+| `4-print_most_numbers.c`      | `void print_most_numbers(void);`                           |
+| `5-more_numbers.c` | `void more_numbers(void);`                                |
 | `6-cap_string.c`     | `char *cap_string(char *);`                                    |
 | `7-leet.c`           | `char *leet(char *);`                                          |
 | `100-rot13.c`        | `char *rot13(char *);`                                         |
@@ -53,26 +53,30 @@
   Required : A function that multiplies two integers.
 
   
-* **3. strcmp**
-  * File : [3-strcmp.c](./3-strcmp.c)
+* **3. The numbers speak for themselves**
+  * File : [3-print_numbers.c](./3-print_numbers.c)
   <br>
-  Required : A function that compares two strings.
+  Required : A function that prints the numbers, from 0 to 9, followed by a new line.
   <br>
-  Expected Results : Your function should work exactly like strcmp.
+  Expected Results : You can only use _putchar twice in your code
 
-* **4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy**
-  *  File : [4-rev_array.c](./4-rev_array.c)
+* **4. I believe in numbers and signs**
+  *  File : [4-print_most_numbers.c](./4-print_most_numbers.c)
    <br>
-  Required : A function that reverses the content of an array of integers.
+  Required : A function that prints the numbers, from 0 to 9, followed by a new line.
   <br>
-  Expected Results : Where n is the number of elements of the array.
+  Expected Results :
+   <ul>
+  <li>Do not print 2 and 4</li>
+  <li>You can only use _putchar twice in your code</li>
+  </ul>
   
-* **5. Always look up**
-  * File : [5-string_toupper.c](./5-string_toupper.c)
+* **5. Numbers constitute the only universal language**
+  * File : [5-more_numbers.c](./5-more_numbers.c)
   <br>
-  Required : A function that changes all lowercase letters of a string to uppercase.
+  Required : A function that prints 10 times the numbers, from 0 to 14, followed by a new line.
   <br>
-  Expected Results : A function that changes all lowercase letters of a string to uppercase.
+  Expected Results : You can only use _putchar three times in your code
 
 * **6. Expect the best. Prepare for the worst. Capitalize on what comes**
   *  File : [6-cap_string.c](./6-cap_string.c)
