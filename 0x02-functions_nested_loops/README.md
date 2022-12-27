@@ -21,6 +21,10 @@
 | `9-times_table.c` | `void times_table(void);`                                    |
 | `10-add.c`        | `int add(int, int);`                                                          |
 | `11-print_to_98.c` | `void print_to_98(int n);` |
+| `100-times_table.c` | `void print_times_table(int n);`                        |
+| `101-natural.c` | `N/A`                        |
+| `104-print_buffer.c` | `void print_buffer(char *b, int size);`                        |
+| `104-print_buffer.c` | `void print_buffer(char *b, int size);`                        |
 | `104-print_buffer.c` | `void print_buffer(char *b, int size);`                        |
 
 <h4>List of Tasks:</h4>
@@ -117,26 +121,29 @@
   <li>The last printed number should be 98</li>
   </ul>
   
-* **12. Noise is a buffer, more effective than cubicles or booth walls**
+* **12. The World looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself**
+  *  File : [100-times_table.c](./100-times_table.c)
+   <br>
+  Required : A function that prints the n times table, starting with 0.
+  <br>
+  Expected Results : If n is greater than 15 or less than 0 the function should not print anything
+    
+  * **13. Nature made the natural numbers; All else is the work of women**
+  *  File : [101-natural.c](./101-natural.c)
+   <br>
+  Required : A program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
+  <br>
+  Fun Fact : “Natural numbers were created by God, everything else is the work of men.” 
+  <br>
+  Kronecker in a lecture for the Berliner Naturforscher Versammlung (1886).
+  <br>
+    * **12. Noise is a buffer, more effective than cubicles or booth walls**
   *  File : [104-print_buffer.c](./104-print_buffer.c)
    <br>
   Required : The function must print the content of size bytes of the buffer pointed by b
   <br>
   Expected Results : The output should look like the example they provided and formatted exactly the same way.
   
-  * **12. Noise is a buffer, more effective than cubicles or booth walls**
-  *  File : [104-print_buffer.c](./104-print_buffer.c)
-   <br>
-  Required : The function must print the content of size bytes of the buffer pointed by b
-  <br>
-  Expected Results : The output should look like the example they provided and formatted exactly the same way.
-  
-  * **12. Noise is a buffer, more effective than cubicles or booth walls**
-  *  File : [104-print_buffer.c](./104-print_buffer.c)
-   <br>
-  Required : The function must print the content of size bytes of the buffer pointed by b
-  <br>
-  Expected Results : The output should look like the example they provided and formatted exactly the same way.
   
   * **12. Noise is a buffer, more effective than cubicles or booth walls**
   *  File : [104-print_buffer.c](./104-print_buffer.c)
