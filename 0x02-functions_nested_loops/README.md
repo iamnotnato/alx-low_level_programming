@@ -32,7 +32,7 @@
 * **0. _putchar**
   * File : [0-putchar.c](./0-putchar.c)
   <br>
-  Required : A program that prints "_putchar", followed by a new line.
+  Required : A program that prints _putchar, followed by a new line.
   <br>
   Expected Results : The program should return 0
 
