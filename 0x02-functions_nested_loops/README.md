@@ -14,7 +14,7 @@
 | `2-print_alphabet_x10.c` | `void print_alphabet_x10(void);`                               |
 | `3-islower.c`            | `int _islower(int c);`                                         |
 | `4-isalpha.c`            | `int _isalpha(int c);`                                         |
-| `5-string_toupper.c` | `char *string_toupper(char *);`                                |
+| `5-sign.c`               | `int print_sign(int n);`                                       |
 | `6-cap_string.c`     | `char *cap_string(char *);`                                    |
 | `7-leet.c`           | `char *leet(char *);`                                          |
 | `100-rot13.c`        | `char *rot13(char *);`                                         |
@@ -63,9 +63,11 @@
 * **5. Sign**
   * File : [5-sign.c](./5-sign.c)
   <br>
-  Required : A function that changes all lowercase letters of a string to uppercase.
+  Required : A function that prints the sign of a number.
   <br>
-  Expected Results : A function that changes all lowercase letters of a string to uppercase.
+  Expected Results : Returns 1 and prints + if n is greater than zero.\
+Returns 0 and prints 0 if n is zero
+Returns -1 and prints - if n is less than zero
 
 * **6. Expect the best. Prepare for the worst. Capitalize on what comes**
   *  File : [6-cap_string.c](./6-cap_string.c)
