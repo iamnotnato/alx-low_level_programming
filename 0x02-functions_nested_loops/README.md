@@ -15,11 +15,11 @@
 | `3-islower.c`            | `int _islower(int c);`                                         |
 | `4-isalpha.c`            | `int _isalpha(int c);`                                         |
 | `5-sign.c`               | `int print_sign(int n);`                                       |
-| `6-cap_string.c`     | `char *cap_string(char *);`                                    |
-| `7-leet.c`           | `char *leet(char *);`                                          |
-| `100-rot13.c`        | `char *rot13(char *);`                                         |
-| `101-print_number.c` | `void print_number(int n);`                                    |
-| `102-magic.c`        | `N/A`                                                          |
+| `6-abs.c`     | `int _abs(int);`                                    |
+| `7-print_last_digit.c`           | `int print_last_digit(int);`                                          |
+| `8-24_hours.c`        | `void jack_bauer(void);`                                         |
+| `9-times_table.c` | `void times_table(void);`                                    |
+| `10-add.c`        | `int add(int, int);`                                                          |
 | `103-infinite_add.c` | `char *infinite_add(char *n1, char *n2, char *r, int size_r);` |
 | `104-print_buffer.c` | `void print_buffer(char *b, int size);`                        |
 
@@ -69,44 +69,40 @@
   <br>
   Required : A function that prints the sign of a number.
   <br>
-  Expected Results : Returns 1 and prints + if n is greater than zero.
-Returns 0 and prints 0 if n is zero
-Returns -1 and prints - if n is less than zero
+  Expected Results : 
+  <ul>
+  <li>Returns 1 and prints + if n is greater than zero.</li>
+  <li>Returns 0 and prints 0 if n is zero</li>
+  <li>Returns -1 and prints - if n is less than zero</li>
+  </ul>
 
-* **6. Expect the best. Prepare for the worst. Capitalize on what comes**
-  *  File : [6-cap_string.c](./6-cap_string.c)
+* **6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you**
+  *  File : [6-abs.c](./6-abs.c)
    <br>
-  Required : Write a function that capitalizes all words of a string.
-  <br>
-  Expected Results : Separators of words: space, tabulation, new line, ,, ;, ., !, ?, ", (, ), {, and }
+  Required : A function that computes the absolute value of an integer.
   
-* **7. Mozart composed his music not for the elite, but for everybody**
-  * File : [7-leet.c](./7-leet.c)
+* **7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important.**
+  * File : [7-print_last_digit.c](./7-print_last_digit.c)
   <br>
-  Required : A function that encodes a string into 1337.
+  Required : A function that prints the last digit of a number.
   <br>
-  Expected Results : You are not allowed to use any ternary operation.
+  Expected Results : Returns the value of the last digit.
 
-* **8. rot13**
-  *  File : [100-rot13.c](./100-rot13.c)
+* **8. I'm federal agent Jack Bauer, and today is the longest day of my life**
+  *  File : [8-24_hours.c](./8-24_hours.c)
    <br>
-  Required : A function that encodes a string using rot13.
-  <br>
-  Expected Results : You can only use if statement once in your code.
-  
-* **9. Numbers have life; they're not just symbols on paper**
-  * File : [101-print_number.c](./101-print_number.c)
-  <br>
-  Required : A function that prints an integer.
-  <br>
-  Expected Results : You can only use _putchar function to print.
+  Required : A function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
 
-* **10. A dream doesn't become reality through magic; it takes sweat, determination and hard work**
-  *  File : [102-magic.c](./102-magic.c)
-   <br>
-  Required : You are not allowed to code anything else than the line of expected line of code at the expected line.
+* **9. Learn your times table**
+  * File : [9-times_table.c](./9-times_table.c)
   <br>
-  Expected Results : Add one line to the code provided, so that the program prints a[2] = 98, followed by a new line.
+  Required : A function that prints the 9 times table, starting with 0.
+
+* **10. a + b**
+  *  File : [10-add.c](./10-add.c)
+   <br>
+  Required : A function that adds two integers and returns the result.
+
   
 * **11. It is the addition of strangeness to beauty that constitutes the romantic character in art**
   * File : [103-infinite_add.c](./103-infinite_add.c)
