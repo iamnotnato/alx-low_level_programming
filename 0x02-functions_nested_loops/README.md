@@ -12,8 +12,8 @@
 | `0-putchar.c`            | `N/A`                                                          |
 | `1-alphabet.c`           | `void print_alphabet(void);`                                   |
 | `2-print_alphabet_x10.c` | `void print_alphabet_x10(void);`                               |
-| `3-strcmp.c`         | `int _strcmp(char *s1, char *s2);`                             |
-| `4-rev_array.c`      | `void reverse_array(int *a, int n);`                           |
+| `3-islower.c`            | `int _islower(int c);`                                         |
+| `4-isalpha.c`            | `int _isalpha(int c);`                                         |
 | `5-string_toupper.c` | `char *string_toupper(char *);`                                |
 | `6-cap_string.c`     | `char *cap_string(char *);`                                    |
 | `7-leet.c`           | `char *leet(char *);`                                          |
@@ -46,22 +46,22 @@
   <br>
   Expected Results : You can only use _putchar twice in your code
   
-* **3. strcmp**
-  * File : [3-strcmp.c](./3-strcmp.c)
+* **3. islower**
+  * File : [3-islower.c](./3-islower.c)
   <br>
-  Required : A function that compares two strings.
+  Required : A function that checks for lowercase character.
   <br>
-  Expected Results : Your function should work exactly like strcmp.
+  Expected Results : Returns 1 if c is lowercase. Returns 0 otherwise
 
-* **4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy**
-  *  File : [4-rev_array.c](./4-rev_array.c)
+* **4. isalpha**
+  *  File : [4-isalpha.c](./4-isalpha.c)
    <br>
-  Required : A function that reverses the content of an array of integers.
+  Required : A function that checks for alphabetic character.
   <br>
-  Expected Results : Where n is the number of elements of the array.
+  Expected Results : Returns 1 if c is a letter, lowercase or uppercase. Returns 0 otherwise
   
-* **5. Always look up**
-  * File : [5-string_toupper.c](./5-string_toupper.c)
+* **5. Sign**
+  * File : [5-sign.c](./5-sign.c)
   <br>
   Required : A function that changes all lowercase letters of a string to uppercase.
   <br>
