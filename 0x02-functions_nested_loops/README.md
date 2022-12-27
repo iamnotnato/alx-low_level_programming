@@ -58,7 +58,8 @@
    <br>
   Required : A function that checks for alphabetic character.
   <br>
-  Expected Results : Returns 1 if c is a letter, lowercase or uppercase.__
+  Expected Results : Returns 1 if c is a letter, lowercase or uppercase.
+  <br>
   Returns 0 otherwise
   
 * **5. Sign**
