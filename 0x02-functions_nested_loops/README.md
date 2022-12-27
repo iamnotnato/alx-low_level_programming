@@ -1,4 +1,4 @@
-<h3>Project : C - More pointers, arrays and strings.</h3>
+<h3>Project : 0x02-functions_nested_loops</h3>
 
 <h4>Essentials:</h4>
 
@@ -7,11 +7,11 @@
 
 <h4>Prototypes Required:</h4>
 
-| File                 | Prototype                                                      |
-| ---------------------| ---------------------------------------------------------------|
-| `0-strcat.c`         | `char *_strcat(char *dest, char *src);`                        |
-| `1-strncat.c`        | `char *_strncat(char *dest, char *src, int n);`                |
-| `2-strncpy.c`        | `char *_strncpy(char *dest, char *src, int n);`                |
+| File                     | Prototype                                                      |
+| -------------------------| ---------------------------------------------------------------|
+| `0-putchar.c`            | `N/A`                                                          |
+| `1-alphabet.c`           | `void print_alphabet(void);`                                   |
+| `2-print_alphabet_x10.c` | `void print_alphabet_x10(void);`                               |
 | `3-strcmp.c`         | `int _strcmp(char *s1, char *s2);`                             |
 | `4-rev_array.c`      | `void reverse_array(int *a, int n);`                           |
 | `5-string_toupper.c` | `char *string_toupper(char *);`                                |
@@ -25,26 +25,26 @@
 
 <h4>List of Tasks:</h4>
 
-* **0. strcat**
-  * File : [0-strcat.c](./0-strcat.c)
+* **0. _putchar**
+  * File : [0-putchar.c](./0-putchar.c)
   <br>
-  Required : A function that concatenates two strings.
+  Required : A program that prints _putchar, followed by a new line.
   <br>
-  Expected Results : Returns a pointer to the resulting string dest.
+  Expected Results : The program should return 0
 
-* **1. strncat**
-  *  File : [1-strncat.c](./1-strncat.c)
+* **1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**
+  *  File : [1-alphabet.c](./1-alphabet.c)
    <br>
-  Required : A function that concatenates two strings.
+  Required : A function that prints the alphabet, in lowercase, followed by a new line.
   <br>
-  Expected Results : Returns a pointer to the resulting string dest.
+  Expected Results : You can only use _putchar twice in your code
   
-* **2. strncpy**
-  *  File : [2-strncpy.c](./2-strncpy.c)
+* **2. 10 x alphabet**
+  *  File : [2-print_alphabet_x10.c](./2-print_alphabet_x10.c)
    <br>
-  Required : Your function should work exactly like strncpy.
+  Required : A function that prints 10 times the alphabet, in lowercase, followed by a new line.
   <br>
-  Expected Results : Your function should work exactly like strncpy.
+  Expected Results : You can only use _putchar twice in your code
   
 * **3. strcmp**
   * File : [3-strcmp.c](./3-strcmp.c)
