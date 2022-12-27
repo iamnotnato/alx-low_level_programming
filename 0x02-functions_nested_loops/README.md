@@ -23,9 +23,9 @@
 | `11-print_to_98.c` | `void print_to_98(int n);` |
 | `100-times_table.c` | `void print_times_table(int n);`                        |
 | `101-natural.c` | `N/A`                        |
-| `104-print_buffer.c` | `void print_buffer(char *b, int size);`                        |
-| `104-print_buffer.c` | `void print_buffer(char *b, int size);`                        |
-| `104-print_buffer.c` | `void print_buffer(char *b, int size);`                        |
+| `102-fibonacci.c` | `N/A`                        |
+| `103-fibonacci.c` | `N/A`                        |
+| `104-fibonacci.c` | `N/A`                        |
 
 <h4>List of Tasks:</h4>
 
@@ -139,24 +139,30 @@
   <br>
   <br>
   
-    * **12. Noise is a buffer, more effective than cubicles or booth walls**
-  *  File : [104-print_buffer.c](./104-print_buffer.c)
+    * **14. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A**
+  *  File : [102-fibonacci.c](./102-fibonacci.c)
    <br>
-  Required : The function must print the content of size bytes of the buffer pointed by b
+  Required : A program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
   <br>
-  Expected Results : The output should look like the example they provided and formatted exactly the same way.
+  Expected Results : The numbers must be separated by comma, followed by a space , 
   
   
-  * **12. Noise is a buffer, more effective than cubicles or booth walls**
-  *  File : [104-print_buffer.c](./104-print_buffer.c)
+  * **15. Even Liber Abbaci**
+  *  File : [103-fibonacci.c](./103-fibonacci.c)
    <br>
-  Required : The function must print the content of size bytes of the buffer pointed by b
+  Required : A program that finds and prints the sum of the even-valued terms, followed by a new line.
   <br>
-  Expected Results : The output should look like the example they provided and formatted exactly the same way.
+
   
-  * **12. Noise is a buffer, more effective than cubicles or booth walls**
-  *  File : [104-print_buffer.c](./104-print_buffer.c)
+  * **16. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A+**
+  *  File : [104-fibonacci.c](./104-fibonacci.c)
    <br>
-  Required : The function must print the content of size bytes of the buffer pointed by b
+  Required : A program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
   <br>
-  Expected Results : The output should look like the example they provided and formatted exactly the same way.
+  Expected Results : 
+    <ul>
+  <li>Numbers must be separated by a comma, followed by a space</li>
+  <li>You are not allowed to use any other library (You can’t use GMP etc…)</li>
+  <li>You are not allowed to use long long, malloc, pointers, arrays/tables, or structures</li>
+  <li>You are not allowed to hard code any Fibonacci number (except for 1 and 2)</li>
+</ul>
