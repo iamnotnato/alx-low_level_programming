@@ -9,9 +9,9 @@
 
 | File                 | Prototype                                                      |
 | ---------------------| ---------------------------------------------------------------|
-| `0-strcat.c`         | `char *_strcat(char *dest, char *src);`                        |
-| `1-strncat.c`        | `char *_strncat(char *dest, char *src, int n);`                |
-| `2-strncpy.c`        | `char *_strncpy(char *dest, char *src, int n);`                |
+| `0. isupper`         | `int _isupper(int c);`                        |
+| `1-isdigit.c`        | `int _isdigit(int c);`                |
+| `2-mul.c`        | `int mul(int a, int b);`                |
 | `3-strcmp.c`         | `int _strcmp(char *s1, char *s2);`                             |
 | `4-rev_array.c`      | `void reverse_array(int *a, int n);`                           |
 | `5-string_toupper.c` | `char *string_toupper(char *);`                                |
@@ -25,26 +25,33 @@
 
 <h4>List of Tasks:</h4>
 
-* **0. strcat**
-  * File : [0-strcat.c](./0-strcat.c)
+* **0. isupper**
+  * File : [0-isupper.c](./0-isupper.c)
   <br>
-  Required : A function that concatenates two strings.
+  Required : A function that checks for uppercase character.
   <br>
-  Expected Results : Returns a pointer to the resulting string dest.
+  Expected Results :
+    <ul>
+  <li>Returns 1 if c is uppercase.</li>
+  <li>Returns 0 otherwise</li>
+  </ul>
 
-* **1. strncat**
-  *  File : [1-strncat.c](./1-strncat.c)
+* **1. isdigit**
+  *  File : [1-isdigit.c](./1-isdigit.c)
    <br>
-  Required : A function that concatenates two strings.
+  Required : A function that checks for a digit (0 through 9).
   <br>
-  Expected Results : Returns a pointer to the resulting string dest.
+  Expected Results : 
+  <ul>
+  <li>Returns 1 if c is uppercase.</li>
+  <li>Returns 0 otherwise</li>
+  </ul>
   
-* **2. strncpy**
-  *  File : [2-strncpy.c](./2-strncpy.c)
+* **2. Collaboration is multiplication**
+  *  File : [2-mul.c](./2-mul.c)
    <br>
-  Required : Your function should work exactly like strncpy.
-  <br>
-  Expected Results : Your function should work exactly like strncpy.
+  Required : A function that multiplies two integers.
+
   
 * **3. strcmp**
   * File : [3-strcmp.c](./3-strcmp.c)
