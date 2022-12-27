@@ -9,15 +9,15 @@
 
 | File                 | Prototype                                                      |
 | ---------------------| ---------------------------------------------------------------|
-| `0-strcat.c`         | `char *_strcat(char *dest, char *src);`                        |
-| `1-strncat.c`        | `char *_strncat(char *dest, char *src, int n);`                |
-| `2-strncpy.c`        | `char *_strncpy(char *dest, char *src, int n);`                |
-| `3-strcmp.c`         | `int _strcmp(char *s1, char *s2);`                             |
-| `4-rev_array.c`      | `void reverse_array(int *a, int n);`                           |
-| `5-string_toupper.c` | `char *string_toupper(char *);`                                |
-| `6-cap_string.c`     | `char *cap_string(char *);`                                    |
-| `7-leet.c`           | `char *leet(char *);`                                          |
-| `100-rot13.c`        | `char *rot13(char *);`                                         |
+| `0-reset_to_98.c`         | `void reset_to_98(int *n);`                        |
+| `1-swap.c`        | `void swap_int(int *a, int *b);`                |
+| `2-strlen.c`        | `int _strlen(char *s);`                |
+| `3-puts.c`         | `void _puts(char *str);`                             |
+| `4-print_rev.c`      | `void print_rev(char *s);`                           |
+| `5-rev_string.c` | `void rev_string(char *s);`                                |
+| `6-puts2.c`     | `void puts2(char *str);`                                    |
+| `7-puts_half.c`           | `void puts_half(char *str);`                                          |
+| `8-print_array.c`        | `void print_array(int *a, int n);`                                         |
 | `101-print_number.c` | `void print_number(int n);`                                    |
 | `102-magic.c`        | `N/A`                                                          |
 | `103-infinite_add.c` | `char *infinite_add(char *n1, char *n2, char *r, int size_r);` |
@@ -25,68 +25,66 @@
 
 <h4>List of Tasks:</h4>
 
-* **0. strcat**
-  * File : [0-strcat.c](./0-strcat.c)
+* **0. 98 Battery st.**
+  * File : [0-reset_to_98.c](./0-reset_to_98.c)
   <br>
-  Required : A function that concatenates two strings.
+  Required : A function that takes a pointer to an int as parameter and updates the value it points to to 98.
   <br>
-  Expected Results : Returns a pointer to the resulting string dest.
 
-* **1. strncat**
-  *  File : [1-strncat.c](./1-strncat.c)
+* **1. Don't swap horses in crossing a stream**
+  *  File : [1-swap.c](./1-swap.c)
    <br>
-  Required : A function that concatenates two strings.
-  <br>
-  Expected Results : Returns a pointer to the resulting string dest.
+  Required : A function that swaps the values of two integers.
   
-* **2. strncpy**
-  *  File : [2-strncpy.c](./2-strncpy.c)
+* **2. This report, by its very length, defends itself against the risk of being read**
+  *  File : [2-strlen.c](./2-strlen.c)
    <br>
-  Required : Your function should work exactly like strncpy.
-  <br>
-  Expected Results : Your function should work exactly like strncpy.
+  Required : A function that returns the length of a string.
   
-* **3. strcmp**
-  * File : [3-strcmp.c](./3-strcmp.c)
+* **3. I do not fear computers. I fear the lack of them**
+  * File : [3-puts.c](./3-puts.c)
   <br>
-  Required : A function that compares two strings.
-  <br>
-  Expected Results : Your function should work exactly like strcmp.
+  Required : A function that prints a string, followed by a new line, to stdout.
 
-* **4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy**
-  *  File : [4-rev_array.c](./4-rev_array.c)
-   <br>
-  Required : A function that reverses the content of an array of integers.
-  <br>
-  Expected Results : Where n is the number of elements of the array.
-  
-* **5. Always look up**
-  * File : [5-string_toupper.c](./5-string_toupper.c)
-  <br>
-  Required : A function that changes all lowercase letters of a string to uppercase.
-  <br>
-  Expected Results : A function that changes all lowercase letters of a string to uppercase.
 
-* **6. Expect the best. Prepare for the worst. Capitalize on what comes**
-  *  File : [6-cap_string.c](./6-cap_string.c)
+* **4. I can only go one way. I've not got a reverse gear**
+  *  File : [4-print_rev.c](./4-print_rev.c)
    <br>
-  Required : Write a function that capitalizes all words of a string.
-  <br>
-  Expected Results : Separators of words: space, tabulation, new line, ,, ;, ., !, ?, ", (, ), {, and }
+  Required : A function that prints a string, in reverse, followed by a new line.
   
-* **7. Mozart composed his music not for the elite, but for everybody**
-  * File : [7-leet.c](./7-leet.c)
+* **5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes**
+  * File : [5-rev_string.c](./5-rev_string.c)
   <br>
-  Required : A function that encodes a string into 1337.
-  <br>
-  Expected Results : You are not allowed to use any ternary operation.
+  Required : A function that reverses a string.
 
-* **8. rot13**
-  *  File : [100-rot13.c](./100-rot13.c)
+* **6. Half the lies they tell about me aren't true**
+  *  File : [6-puts2.c](./6-puts2.c)
    <br>
-  Required : A function that encodes a string using rot13.
+  Required : A function that prints every other character of a string, starting with the first character, followed by a new line.
+
+  
+* **7. Winning is only half of it. Having fun is the other half**
+  * File : [7-puts_half.c](./7-puts_half.c)
   <br>
-  Expected Results : You can only use if statement once in your code.
+  Required : A function that prints half of a string, followed by a new line.
+  <br>
+  Expected Results : 
+    <ul>
+  <li>The function should print the second half of the string</li>
+  <li>If the number of characters is odd, the function should print the last n characters of the string, where n = (length_of_the_string - 1) / 2</li>
+  </ul>
+
+* **8. Arrays are not pointers**
+  *  File : [8-print_array.c](./8-print_array.c)
+   <br>
+  Required : A function that prints n elements of an array of integers, followed by a new line.
+  <br>
+  Expected Results : 
+    <ul>
+  <li>where n is the number of elements of the array to be printed</li>
+  <li>Numbers must be separated by comma, followed by a space</li>
+    <li>The numbers should be displayed in the same order as they are stored in the array</li>
+  </ul>
   
 * **9. Numbers have life; they're not just symbols on paper**
   * File : [101-print_number.c](./101-print_number.c)
