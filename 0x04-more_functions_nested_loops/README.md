@@ -117,7 +117,9 @@
 * **11. The problem of distinguishing prime numbers from composite numbers and of resolving the latter into their prime factors is known to be one of the most important and useful in arithmetic**
   * File : [100-prime_factor.c](./100-prime_factor.c)
     * Required : A program that finds and prints the largest prime factor of the number 612852475143, followed by a new line.
-    * Expected Results : Your program will be compiled with this command: gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-prime_factor.c -o 100-prime_factor -lm
+    * Expected Results : Your program will be compiled with this command:
+    <br> 
+    *gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-prime_factor.c -o 100-prime_factor -lm*
 <br><br>
 
 * **12. Numbers have life; they're not just symbols on paper**
