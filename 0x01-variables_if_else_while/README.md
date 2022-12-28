@@ -3,7 +3,7 @@
 <h4>List of Tasks:</h4>
 
 * **0. Positive anything is better than negative nothing**
-* File : [0-positive_or_negative.c](./0-positive_or_negative.c)
+  * File : [0-positive_or_negative.c](./0-positive_or_negative.c)
 <br>
 Required : Complete the source code in order to print whether the number stored in the variable n is positive or negative.
 <br>
