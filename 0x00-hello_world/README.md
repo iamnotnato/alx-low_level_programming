@@ -10,10 +10,8 @@
 
 * **1. Compiler**
   *  File : [1-compiler](./1-compiler)
-<br>
-Required : A script that compiles a C file but does not link.
-<br>
-Expected Results : The output file should be named the same as the C file, but with the extension .o instead of .c.
+     * Required : A script that compiles a C file but does not link.
+     * Expected Results : The output file should be named the same as the C file, but with the extension .o instead of .c.
 <br><br>
 
 * **2. Assembler**
