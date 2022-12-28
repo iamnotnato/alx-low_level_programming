@@ -2,7 +2,7 @@
   <a href="https://github.com/iamnotnato/alx-low_level_programming">
     <img src="https://github.com/iamnotnato/alx-low_level_programming/blob/master/images/logo.png" alt="Logo" width="400">
   </a>
-</div>
+
 <h4>Summary: </h4>
 These are projects that helped me understand a bit of low-level programming.
 
@@ -21,6 +21,7 @@ These are projects that helped me understand a bit of low-level programming.
 <td><img alt="medium" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white"></td>
   </tr>
 </table>
+</div>
 
 ![Alt](https://repobeats.axiom.co/api/embed/50a392e676820ce03006d38197b98899827faf15.svg "Repobeats analytics image")
 
