@@ -71,7 +71,7 @@
   <li>Returns 1 if c is a letter, lowercase or uppercase.</li>
   <li>Returns 0 otherwise</li>
   </ul>
-  <br><br>
+  <br>
   
 * **5. Sign**
   * File : [5-sign.c](./5-sign.c)
