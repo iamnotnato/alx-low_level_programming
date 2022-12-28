@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/iamnotnato/alx-low_level_programming">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Ffree-png-kndad&psig=AOvVaw2oJb5Rc191J56-9rbqH8Zb&ust=1672312570064000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiF6PeXnPwCFQAAAAAdAAAAABAE" alt="Logo" width="400">
+    <img src="images/logo.png" alt="Logo" width="400">
   </a>
 </div>
 <h4>Summary: </h4>
