@@ -124,7 +124,7 @@
   * File : [101-print_number.c](./101-print_number.c)
   * Required : A function that prints an integer.
   * Expected Results :
-    *You can only use _putchar function to print</li>**
+    * *You can only use _putchar function to print.*
     * *You are not allowed to use long.*
     * *You are not allowed to use arrays or pointers.*
     * *You are not allowed to hard-code special values.*
