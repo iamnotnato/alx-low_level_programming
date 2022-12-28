@@ -57,10 +57,8 @@
   * File : [4-isalpha.c](./4-isalpha.c)
     * Required : A function that checks for alphabetic character.
     * Expected Results :  
-      * <ul>
-      * <li>Returns 1 if c is a letter, lowercase or uppercase.</li>
-      * <li>Returns 0 otherwise</li>
-      * </ul>
+      * Returns 1 if c is a letter, lowercase or uppercase.
+      * Returns 0 otherwise.
       <br>
   
 * **5. Sign**
