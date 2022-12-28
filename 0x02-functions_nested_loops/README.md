@@ -67,98 +67,77 @@
     * Expected Results : 
       * *Returns 1 and prints + if n is greater than zero.*
       * *Returns 0 and prints 0 if n is zero.*
-      * *Returns -1 and prints - if n is less than zero.*
-     
+      * *Returns -1 and prints - if n is less than zero.*     
   <br><br>
 
 * **6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you**
-  *  File : [6-abs.c](./6-abs.c)
-   <br>
-  Required : A function that computes the absolute value of an integer.
+  * File : [6-abs.c](./6-abs.c)
+    * Required : A function that computes the absolute value of an integer.
   <br><br>
   
 * **7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important.**
   * File : [7-print_last_digit.c](./7-print_last_digit.c)
-  <br>
-  Required : A function that prints the last digit of a number.
-  <br>
-  Expected Results : Returns the value of the last digit.
+    * Required : A function that prints the last digit of a number.
+    * Expected Results : Returns the value of the last digit.
   <br><br>
 
 * **8. I'm federal agent Jack Bauer, and today is the longest day of my life**
-  *  File : [8-24_hours.c](./8-24_hours.c)
-   <br>
-  Required : A function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
+  * File : [8-24_hours.c](./8-24_hours.c)
+    * Required : A function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
   <br><br>
 
 * **9. Learn your times table**
   * File : [9-times_table.c](./9-times_table.c)
-  <br>
-  Required : A function that prints the 9 times table, starting with 0.
+    * Required : A function that prints the 9 times table, starting with 0.
   <br><br>
 
 * **10. a + b**
-  *  File : [10-add.c](./10-add.c)
-   <br>
-  Required : A function that adds two integers and returns the result.
+  * File : [10-add.c](./10-add.c)
+    * Required : A function that adds two integers and returns the result.
   <br><br>
 
   
 * **11. 98 Battery Street, the OG**
   * File : [11-print_to_98.c](./11-print_to_98.c)
-  <br>
-  Required : The function returns a pointer to the result
-  <br>
-  Expected Results : 
-   <ul>
-  <li>Numbers must be separated by a comma, followed by a space</li>
-  <li>Numbers should be printed in order</li>
-  <li>The first printed number should be the number passed to your function</li>
-  <li>The last printed number should be 98</li>
-  </ul>
+    * Required : The function returns a pointer to the result
+    * Expected Results : 
+      * *Numbers must be separated by a comma, followed by a space.*
+      * *Numbers should be printed in order.*
+      * *The first printed number should be the number passed to your function.*
+      * *The last printed number should be 98*
   <br><br>
   
 * **12. The World looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself**
-  *  File : [100-times_table.c](./100-times_table.c)
-   <br>
-  Required : A function that prints the n times table, starting with 0.
-  <br>
-  Expected Results : If n is greater than 15 or less than 0 the function should not print anything
+  * File : [100-times_table.c](./100-times_table.c)
+    * Required : A function that prints the n times table, starting with 0.
+    * Expected Results : If n is greater than 15 or less than 0 the function should not print anything.
   <br><br>
     
   * **13. Nature made the natural numbers; All else is the work of women**
-  *  File : [101-natural.c](./101-natural.c)
-   <br>
-  Required : A program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
-  <br>
-  Fun Fact : “Natural numbers were created by God, everything else is the work of men.” 
-  <br>
-  Kronecker in a lecture for the Berliner Naturforscher Versammlung (1886).
+    * File : [101-natural.c](./101-natural.c)
+      * Required : A program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
+    <br> 
+    * *Fun Fact : “Natural numbers were created by God, everything else is the work of men.” *
+      <br>
+      *Kronecker in a lecture for the Berliner Naturforscher Versammlung (1886).*
   <br><br>
   
     * **14. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A**
-  *  File : [102-fibonacci.c](./102-fibonacci.c)
-   <br>
-  Required : A program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
-  <br>
-  Expected Results : The numbers must be separated by comma, followed by a space.
+      * File : [102-fibonacci.c](./102-fibonacci.c)
+        * Required : A program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
+        * Expected Results : The numbers must be separated by comma, followed by a space.
   <br><br>  
   
   * **15. Even Liber Abbaci**
-  *  File : [103-fibonacci.c](./103-fibonacci.c)
-   <br>
-  Required : A program that finds and prints the sum of the even-valued terms, followed by a new line.
+     * File : [103-fibonacci.c](./103-fibonacci.c)
+       * Required : A program that finds and prints the sum of the even-valued terms, followed by a new line.
   <br><br>
   
   * **16. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A+**
-  *  File : [104-fibonacci.c](./104-fibonacci.c)
-   <br>
-  Required : A program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
-  <br>
-  Expected Results : 
-    <ul>
-  <li>Numbers must be separated by a comma, followed by a space</li>
-  <li>You are not allowed to use any other library (You can’t use GMP etc…)</li>
-  <li>You are not allowed to use long long, malloc, pointers, arrays/tables, or structures</li>
-  <li>You are not allowed to hard code any Fibonacci number (except for 1 and 2)</li>
-</ul>
+    * File : [104-fibonacci.c](./104-fibonacci.c)
+      * Required : A program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
+      * Expected Results : 
+        * *Numbers must be separated by a comma, followed by a space*
+        * *You are not allowed to use any other library (You can’t use GMP etc…)*
+        * *You are not allowed to use long long, malloc, pointers, arrays/tables, or structures*
+        * *You are not allowed to hard code any Fibonacci number (except for 1 and 2)*
