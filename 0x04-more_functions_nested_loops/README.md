@@ -119,7 +119,7 @@
     * Required : A program that finds and prints the largest prime factor of the number 612852475143, followed by a new line.
     * Expected Results : Your program will be compiled with this command:
         
-    * *gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-prime_factor.c -o 100-prime_factor -lm*
+    * **gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-prime_factor.c -o 100-prime_factor -lm**
 <br><br>
 
 * **12. Numbers have life; they're not just symbols on paper**
