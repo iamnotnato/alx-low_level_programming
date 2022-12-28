@@ -113,27 +113,24 @@
     * Expected Results : If n is greater than 15 or less than 0 the function should not print anything.
   <br><br>
     
-  * **13. Nature made the natural numbers; All else is the work of women**
-    * File : [101-natural.c](./101-natural.c)
+ * **13. Nature made the natural numbers; All else is the work of women**
+   * File : [101-natural.c](./101-natural.c)
       * Required : A program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
-    <br> 
-    * *Fun Fact : “Natural numbers were created by God, everything else is the work of men.”*
-      *Kronecker in a lecture for the Berliner Naturforscher Versammlung (1886).*
   <br><br>
   
-    * **14. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A**
-      * File : [102-fibonacci.c](./102-fibonacci.c)
+ * **14. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A**
+   * File : [102-fibonacci.c](./102-fibonacci.c)
         * Required : A program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
         * Expected Results : The numbers must be separated by comma, followed by a space.
   <br><br>  
   
-  * **15. Even Liber Abbaci**
-     * File : [103-fibonacci.c](./103-fibonacci.c)
+* **15. Even Liber Abbaci**
+  * File : [103-fibonacci.c](./103-fibonacci.c)
        * Required : A program that finds and prints the sum of the even-valued terms, followed by a new line.
   <br><br>
   
-  * **16. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A+**
-    * File : [104-fibonacci.c](./104-fibonacci.c)
+* **16. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A+**
+  * File : [104-fibonacci.c](./104-fibonacci.c)
       * Required : A program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
       * Expected Results : 
         * *Numbers must be separated by a comma, followed by a space*
