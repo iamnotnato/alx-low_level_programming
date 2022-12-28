@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <a href="https://github.com/iamnotnato/alx-low_level_programming">
     <img src="https://github.com/iamnotnato/alx-low_level_programming/blob/master/images/logo.png" alt="Logo" width="400">
   </a>
