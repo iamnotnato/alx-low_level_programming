@@ -63,10 +63,8 @@
   
 * **5. Sign**
   * File : [5-sign.c](./5-sign.c)
-  <br>
-  Required : A function that prints the sign of a number.
-  <br>
-  Expected Results : 
+    * Required : A function that prints the sign of a number.
+    * Expected Results : 
   <ul>
   <li>Returns 1 and prints + if n is greater than zero.</li>
   <li>Returns 0 and prints 0 if n is zero</li>
