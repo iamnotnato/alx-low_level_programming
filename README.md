@@ -1,7 +1,6 @@
 <div align="center">
   <a href="https://github.com/iamnotnato/alx-low_level_programming">
-    <img src="https://raw.githubusercontent.com/iamnotnato/alx-low_level_programming
-/images/logo.png" alt="Logo" width="400">
+    <img src="https://github.com/iamnotnato/alx-low_level_programming/blob/master/images/logo.png" alt="Logo" width="400">
   </a>
 </div>
 <h4>Summary: </h4>
