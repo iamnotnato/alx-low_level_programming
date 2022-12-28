@@ -1,5 +1,6 @@
 <div>
-  <h3>alx-low_level_programming</h3>
+  <h3>ALX low-level programming.</h3>
+  <br>
   <a href="https://github.com/iamnotnato/alx-low_level_programming">
     <img src="https://github.com/iamnotnato/alx-low_level_programming/blob/master/images/logo.png" alt="Logo" width="400">
   </a>
