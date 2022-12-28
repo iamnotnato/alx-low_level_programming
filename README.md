@@ -5,8 +5,6 @@
   </a>
 </div>
 
-<br>
-
 <h4>Summary: </h4>
 These are projects that helped me understand a bit of low-level programming.
 
