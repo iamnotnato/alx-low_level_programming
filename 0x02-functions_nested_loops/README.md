@@ -31,42 +31,32 @@
 
 * **0. _putchar**
   * File : [0-putchar.c](./0-putchar.c)
-  <br>
-  Required : A program that prints _putchar, followed by a new line.
-  <br>
-  Expected Results : The program should return 0
+    * Required : A program that prints _putchar, followed by a new line.
+    * Expected Results : The program should return 0
   <br><br>
 
 * **1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**
-  *  File : [1-alphabet.c](./1-alphabet.c)
-   <br>
-  Required : A function that prints the alphabet, in lowercase, followed by a new line.
-  <br>
-  Expected Results : You can only use _putchar twice in your code
+  * File : [1-alphabet.c](./1-alphabet.c)
+    * Required : A function that prints the alphabet, in lowercase, followed by a new line.
+    * Expected Results : You can only use _putchar twice in your code
   <br><br>
   
 * **2. 10 x alphabet**
-  *  File : [2-print_alphabet_x10.c](./2-print_alphabet_x10.c)
-   <br>
-  Required : A function that prints 10 times the alphabet, in lowercase, followed by a new line.
-  <br>
-  Expected Results : You can only use _putchar twice in your code
+  * File : [2-print_alphabet_x10.c](./2-print_alphabet_x10.c)
+    * Required : A function that prints 10 times the alphabet, in lowercase, followed by a new line.
+    * Expected Results : You can only use _putchar twice in your code
   <br><br>
   
 * **3. islower**
   * File : [3-islower.c](./3-islower.c)
-  <br>
-  Required : A function that checks for lowercase character.
-  <br>
-  Expected Results : Returns 1 if c is lowercase. Returns 0 otherwise
+    * Required : A function that checks for lowercase character.
+    * Expected Results : Returns 1 if c is lowercase. Returns 0 otherwise
   <br><br>
 
 * **4. isalpha**
-  *  File : [4-isalpha.c](./4-isalpha.c)
-   <br>
-  Required : A function that checks for alphabetic character.
-  <br>
-  Expected Results :  
+  * File : [4-isalpha.c](./4-isalpha.c)
+    * Required : A function that checks for alphabetic character.
+    * Expected Results :  
   <ul>
   <li>Returns 1 if c is a letter, lowercase or uppercase.</li>
   <li>Returns 0 otherwise</li>
