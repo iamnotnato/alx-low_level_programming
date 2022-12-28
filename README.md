@@ -17,6 +17,8 @@ These are projects that helped me understand a bit of low-level programming.
   </tr>
 </table>
 
+![Alt](https://repobeats.axiom.co/api/embed/50a392e676820ce03006d38197b98899827faf15.svg "Repobeats analytics image")
+
 <h4>Projects Guide: </h4>
 
 * [0x00. C - Hello, World](./0x00-hello_world)
