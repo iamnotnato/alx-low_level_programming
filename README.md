@@ -3,7 +3,7 @@
   <br>
   <br>
   <a href="https://github.com/iamnotnato/alx-low_level_programming">
-    <img src="https://github.com/iamnotnato/alx-low_level_programming/blob/master/images/icon.png" alt="Logo" width="400">
+    <img src="https://github.com/iamnotnato/alx-low_level_programming/blob/master/images/icon.png" alt="Logo" width="250" height="250">
   </a>
 </div>
 
