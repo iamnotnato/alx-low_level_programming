@@ -1,3 +1,8 @@
+<div align="center">
+  <a href="https://github.com/iamnotnato/alx-low_level_programming">
+    <img src="docs/book/assets/zenml_logo.png" alt="Logo" width="400">
+  </a>
+
 <h4>Summary: </h4>
 These are projects that helped me understand a bit of low-level programming.
 
