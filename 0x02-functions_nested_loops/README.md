@@ -117,8 +117,7 @@
     * File : [101-natural.c](./101-natural.c)
       * Required : A program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
     <br> 
-    * *Fun Fact : “Natural numbers were created by God, everything else is the work of men.” *
-      <br>
+    * *Fun Fact : “Natural numbers were created by God, everything else is the work of men.”*
       *Kronecker in a lecture for the Berliner Naturforscher Versammlung (1886).*
   <br><br>
   
