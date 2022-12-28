@@ -1,7 +1,7 @@
 <div>
   <h4>Project : alx-low_level_programming</h4>
   <a href="https://github.com/iamnotnato/alx-low_level_programming">
-    <img src="https://github.com/iamnotnato/alx-low_level_programming/blob/master/images/icon.png" alt="Logo" width="150" height="150">
+    <img src="https://github.com/iamnotnato/alx-low_level_programming/blob/master/images/icon.png" alt="Logo" width="100" height="100">
   </a>
 </div>
 
