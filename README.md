@@ -21,7 +21,7 @@ These are projects that helped me understand a bit of low-level programming.
 <td><img alt="medium" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white"></td>
   </tr>
 </table>
-</div>
+
 
 ![Alt](https://repobeats.axiom.co/api/embed/50a392e676820ce03006d38197b98899827faf15.svg "Repobeats analytics image")
 
@@ -35,3 +35,4 @@ These are projects that helped me understand a bit of low-level programming.
 * [0x05. C - More pointers, arrays and strings](./0x05-pointers_arrays_strings)
 * [0x06. C - Even more pointers, arrays and strings](./0x06-pointers_arrays_strings)
 
+</div>
