@@ -29,13 +29,20 @@
 * **4. Hello, puts**
   * File : [4-puts.c](./4-puts.c)
     * Required : A C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
-    * Expected Results : You are not allowed to use printf
+    * Expected Results :
+      * Use the function puts.
+      * You are not allowed to use printf.
+      * Your program should end with the value 0.
 <br><br>
 
 * **5. Hello, printf**
   * File : [5-printf.c](./5-printf.c)
     * Required : a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
-    * Expected Results : You are not allowed to use the function puts
+    * Expected Results : 
+      * Use the function printf.
+      * You are not allowed to use the function puts.
+      * Your program should return 0.
+      * Your program should compile without warning when using the -Wall gcc option.
 <br><br>
 
 * **6. Size is not grandeur, and territory does not make a nation**
@@ -53,5 +60,8 @@
 * **8. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity**
   * File : [101-quote.c](./101-quote.c)
     * Required :  A C program that prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error.
-    * Expected Results : You are not allowed to use any functions listed in the NAME section of the man (3) printf or man (3) puts
+    * Expected Results : 
+      * You are not allowed to use any functions listed in the NAME section of the man (3) printf or man (3) puts.
+      * Your program should return 1.
+      * Your program should compile without any warnings when using the -Wall gcc option.
 <br><br>
