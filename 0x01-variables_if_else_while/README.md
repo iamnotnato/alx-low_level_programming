@@ -34,6 +34,8 @@
   * File : [4-print_alphabt.c](./4-print_alphabt.c)
     * Required : A program that prints the alphabet in lowercase, followed by a new line.
     * Expected Results : You can only use the putchar function (every other function (printf, puts, etc…) is forbidden)
+
+💡*Fun Fact : Quote by Vanna White: “When I was having that alphabet soup, I never thought that it would pay off.”*
 <br><br>
 
 * **5. Numbers**
@@ -52,6 +54,8 @@
   * File : [7-print_tebahpla.c](./7-print_tebahpla.c)
     * Required : A program that prints the lowercase alphabet in reverse, followed by a new line.
     * Expected Results : You can only use the putchar function (every other function (printf, puts, etc…) is forbidden).
+
+💡*Fun Fact : Quote by Yoko Ono : “Smile in the mirror. Do that every morning and you’ll start to see a big difference in your life.”*
 <br><br>
 
 * **8. Hexadecimal**
@@ -64,21 +68,30 @@
   * File : [9-print_comb.c](./9-print_comb.c)
     * Required : A program that prints all possible combinations of single-digit numbers.
     * Expected Results : Numbers should be printed in ascending order.
+
+💡*Fun Fact : Quote by Napoleon Hill: “Patience, persistence and perspiration make an unbeatable combination for success.”*
 <br><br>
 
 * **10. Inventing is a combination of brains and materials. The more brains you use, the less material you need**
   * File : [100-print_comb3.c](./100-print_comb3.c)
     * Required : A program that prints all possible different combinations of two digits.
     * Expected Results : ou can only use the putchar function (every other function (printf, puts, etc…) is forbidden).
+
+💡*Fun Fact : Quote by Charles Kettering: “Inventing is a combination of brains and materials. The more brains you use, the less material you need.”*
 <br><br>
 
 * **11. The success combination in business is: Do what you do better... and: do more of what you do...**
   * File : [103-infinite_add.c](./103-infinite_add.c)
     * Required : A program that prints all possible different combinations of three digits.
     * Expected Results : Print only the smallest combination of three digits.
+
+💡*Fun Fact : Quote by David Joseph Schwartz: “The success combination in business is: Do what you do better... and: do more of what you do.”*
 <br><br>
 
 * **12. Software is eating the World**
   * File : [102-print_comb5.c](./102-print_comb5.c)
     * Required : A program that prints all possible combinations of two two-digit numbers.
     * Expected Results : The combinations of numbers should be printed in ascending order.
+
+💡*Fun Fact : Quote by Marc Andreessen: “Software is eating the World”*
+
