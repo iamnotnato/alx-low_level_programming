@@ -6,6 +6,8 @@
   * File : [0-positive_or_negative.c](./0-positive_or_negative.c)
     * Required : Complete the source code in order to print whether the number stored in the variable n is positive or negative.
     * Expected Results : The variable n will store a different value every time you will run this program.
+        
+💡*Fun Fact : Quote by Elbert Hubbard: “Positive anything is better than negative nothing.”*
 <br><br>
 
 * **1. The last digit**
