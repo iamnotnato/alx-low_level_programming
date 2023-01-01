@@ -20,6 +20,8 @@
   * File : [2-print_alphabet.c](./2-print_alphabet.c)
     * Required : A program that prints the alphabet in lowercase, followed by a new line.
     * Expected Results : You can only use the putchar function (every other function (printf, puts, etc…) is forbidden).
+
+💡*Fun Fact : Quote by Roz Chast: I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game.*
 <br><br>
 
 * **3. alphABET**
