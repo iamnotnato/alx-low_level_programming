@@ -50,7 +50,7 @@
     * Required : A C program that prints the size of various types on the computer it is compiled and run on.
     * Expected Results : The output should be the same as the example provided.
     
-💡*Fun Fact :Size is not grandeur, and territory does not make a nation is a quote made by Thomas Henry Huxley*
+💡*Fun Fact : Size is not grandeur, and territory does not make a nation is a quote made by Thomas Henry Huxley*
 <br><br>
 
 * **7. Intel**
@@ -67,6 +67,7 @@
       * Your program should return 1.
       * Your program should compile without any warnings when using the -Wall gcc option.
      
-💡*Fun Fact :UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity was a quote made by Dennis Ritchie.
-He is most well-known for creating the C programming language and, with long-time colleague Ken Thompson, the Unix operating system and B programming language.*
+💡*Fun Fact : UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity was a quote made by Dennis Ritchie.*
+<br>
+💡*He is most well-known for creating the C programming language and, with long-time colleague Ken Thompson, the Unix operating system and B programming language.*
 <br><br>
