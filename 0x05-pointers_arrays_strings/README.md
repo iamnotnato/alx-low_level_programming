@@ -92,8 +92,8 @@
       * The numbers should be displayed in the same order as they are stored in the array.*
 
 💡*Fun Fact :Van der Linden discusses in his book Deep C Secrets is how “arrays are not pointers“.*
-   * **This can be dangerous because it sets the wrong tone, and is really a half-truth.** 
-   * **It’s a bit of a chicken and egg problem. Arrays look like pointers, and pointers can refer to array objects.**
+   💡* **This can be dangerous because it sets the wrong tone, and is really a half-truth.** 
+   💡* **It’s a bit of a chicken and egg problem. Arrays look like pointers, and pointers can refer to array objects.**
    <br><br>
    
 * **9. strcpy**
