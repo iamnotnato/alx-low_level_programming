@@ -9,6 +9,7 @@
 <h4>Essentials:</h4>
 
 * [main.h](./main.h) : A Header file containing prototypes for all functions written in the project.
+* [_putchar.c](./_putchar.c) : A C function that writes a character to `stdout`.
 
 <h4>Prototypes Required:</h4>
 
