@@ -18,7 +18,7 @@
 | `1-memcpy.c`        | `char *_memcpy(char *dest, char *src, unsigned int n);`                |
 | `2-strchr.c`        | `char *_strchr(char *s, char c);`                |
 | `3-strspn.c`         | `unsigned int _strspn(char *s, char *accept);`                             |
-| `4-rev_array.c`      | `void reverse_array(int *a, int n);`                           |
+| `4-strpbrk.c`      | `char *_strpbrk(char *s, char *accept);`                           |
 | `5-string_toupper.c` | `char *string_toupper(char *);`                                |
 | `6-cap_string.c`     | `char *cap_string(char *);`                                    |
 | `7-leet.c`           | `char *leet(char *);`                                          |
@@ -55,10 +55,12 @@
     * Expected Results : Returns the number of bytes in the initial segment of s which consist only of bytes from accept
  <br><br>
 
-* **4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy**
-  * File : [4-rev_array.c](./4-rev_array.c)
-    * Required : A function that reverses the content of an array of integers.
-    * Expected Results : Where n is the number of elements of the array.
+* **4. strpbrk**
+  * File : [4-strpbrk.c](./4-strpbrk.c)
+    * Required : A function that searches a string for any of a set of bytes.
+    * Expected Results : 
+      * **The _strpbrk() function locates the first occurrence in the string s of any of the bytes in the string accept.**
+      * **Returns a pointer to the byte in s that matches one of the bytes in accept, or NULL if no such byte is found**
  <br><br>
   
 * **5. Always look up**
