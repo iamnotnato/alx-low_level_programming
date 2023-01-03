@@ -80,10 +80,15 @@
 💡*Fun Fact : “Chess is mental torture” is what Garry Kasparov said in the context of his 1990s match vs Nigel Short.*
  <br><br>
 
-* **7. Mozart composed his music not for the elite, but for everybody**
-  * File : [7-leet.c](./7-leet.c)
-    * Required : A function that encodes a string into 1337.
-    * Expected Results : You are not allowed to use any ternary operation.
+* **7. The line of life is a ragged diagonal between duty and desire**
+  * File : [8-print_diagsums.c](./8-print_diagsums.c)
+    * Required : A function that prints the sum of the two diagonals of a square matrix of integers.
+    * Note : 
+    * **The following example we are casting an int[][] into an int*.**
+    * **This is not something you should do.** 
+    * The goal here is to make sure you understand how an array of array is stored in memory.**
+
+💡*Fun Fact : Quote by William R. Alger: The line of life is a ragged diagonal between duty and desire.*
  <br><br>
 
 * **8. rot13**
