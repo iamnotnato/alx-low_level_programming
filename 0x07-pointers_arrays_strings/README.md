@@ -84,9 +84,9 @@
   * File : [8-print_diagsums.c](./8-print_diagsums.c)
     * Required : A function that prints the sum of the two diagonals of a square matrix of integers.
     * Note : 
-    * **The following example we are casting an int[][] into an int*.**
-    * **This is not something you should do.** 
-    * The goal here is to make sure you understand how an array of array is stored in memory.**
+      * **The following example we are casting an int[][] into an int*.**
+      * **This is not something you should do.** 
+      * **The goal here is to make sure you understand how an array of array is stored in memory.**
 
 💡*Fun Fact : Quote by William R. Alger: The line of life is a ragged diagonal between duty and desire.*
  <br><br>
