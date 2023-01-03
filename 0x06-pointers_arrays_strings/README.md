@@ -53,51 +53,69 @@
   * File : [4-rev_array.c](./4-rev_array.c)
     * Required : A function that reverses the content of an array of integers.
     * Expected Results : Where n is the number of elements of the array.
+    
+💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
  <br><br>
   
 * **5. Always look up**
   * File : [5-string_toupper.c](./5-string_toupper.c)
     * Required : A function that changes all lowercase letters of a string to uppercase.
     * Expected Results : A function that changes all lowercase letters of a string to uppercase.
+
+💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
  <br><br>
 
 * **6. Expect the best. Prepare for the worst. Capitalize on what comes**
   * File : [6-cap_string.c](./6-cap_string.c)
     * Required : Write a function that capitalizes all words of a string.
     * Expected Results : Separators of words: space, tabulation, new line, ,, ;, ., !, ?, ", (, ), {, and }
+    
+💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
  <br><br>
   
 * **7. Mozart composed his music not for the elite, but for everybody**
   * File : [7-leet.c](./7-leet.c)
     * Required : A function that encodes a string into 1337.
     * Expected Results : You are not allowed to use any ternary operation.
+    
+💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
  <br><br>
 
 * **8. rot13**
   * File : [100-rot13.c](./100-rot13.c)
     * Required : A function that encodes a string using rot13.
     * Expected Results : You can only use if statement once in your code.
+    
+💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
  <br><br>
   
 * **9. Numbers have life; they're not just symbols on paper**
   * File : [101-print_number.c](./101-print_number.c)
     * Required : A function that prints an integer.
     * Expected Results : You can only use _putchar function to print.
+    
+💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
  <br><br>
 
 * **10. A dream doesn't become reality through magic; it takes sweat, determination and hard work**
   * File : [102-magic.c](./102-magic.c)
     * Required : You are not allowed to code anything else than the line of expected line of code at the expected line.
     * Expected Results : Add one line to the code provided, so that the program prints a[2] = 98, followed by a new line.
+    
+💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
  <br><br>
   
 * **11. It is the addition of strangeness to beauty that constitutes the romantic character in art**
   * File : [103-infinite_add.c](./103-infinite_add.c)
     * Required : The function returns a pointer to the result
     * Expected Results : RIf the result can not be stored in r the function must return 0.
+    
+💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
  <br><br>
 
 * **12. Noise is a buffer, more effective than cubicles or booth walls**
   * File : [104-print_buffer.c](./104-print_buffer.c)
     * Required : The function must print the content of size bytes of the buffer pointed by b
     * Expected Results : The output should look like the example they provided and formatted exactly the same way.
+    
+💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
