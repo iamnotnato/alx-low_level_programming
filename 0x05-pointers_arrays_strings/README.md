@@ -116,7 +116,7 @@
       * *You are not allowed to hard-code special values.*
       * *We will use the -fsanitize=signed-integer-overflow gcc flag to compile your code..*
 
-💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
+💡*Fun Fact : Quote by Simon Sinek : "Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers."*
    <br><br>
    
 * **11. Don't hate the hacker, hate the code**
@@ -127,5 +127,5 @@
       * *man srand, rand, time.*
       * *gdb and objdump can help.*
 
-💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
+💡*Fun Fact : Don't Hate The Hacker Hate The Code - Hacking Security Notebook is a book by by Wanda Franks *
  <br><br>
