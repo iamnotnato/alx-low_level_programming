@@ -15,7 +15,7 @@
 | File                 | Prototype                                                      |
 | ---------------------| ---------------------------------------------------------------|
 | `0. memset`         | `char *_memset(char *s, char b, unsigned int n);`                        |
-| `1-strncat.c`        | `char *_strncat(char *dest, char *src, int n);`                |
+| `1-memcpy.c`        | `char *_memcpy(char *dest, char *src, unsigned int n);`                |
 | `2-strncpy.c`        | `char *_strncpy(char *dest, char *src, int n);`                |
 | `3-strcmp.c`         | `int _strcmp(char *s1, char *s2);`                             |
 | `4-rev_array.c`      | `void reverse_array(int *a, int n);`                           |
@@ -35,10 +35,12 @@
       *Returns a pointer to the memory area s.
  <br><br>
 
-* **1. strncat**
-  * File : [1-strncat.c](./1-strncat.c)
-    * Required : A function that concatenates two strings.
-    * Expected Results : Returns a pointer to the resulting string dest.
+* **1. memcpy**
+  * File : [1-memcpy.c](./1-memcpy.c)
+    * Required : A function that copies memory area.
+    * Expected Results :
+      *The _memcpy() function copies n bytes from memory area src to memory area dest.
+      *Returns a pointer to dest.
  <br><br>
   
 * **2. strncpy**
