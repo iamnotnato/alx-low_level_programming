@@ -1,4 +1,4 @@
-<h3>Project : C - More pointers, arrays and strings.</h3>
+<h3>Project : 0x06-pointers_arrays_strings</h3>
 
 <h4>Essentials:</h4>
 
