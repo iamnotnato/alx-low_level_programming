@@ -109,7 +109,7 @@
     * Required : The function returns a pointer to the result
     * Expected Results : RIf the result can not be stored in r the function must return 0.
     
-💡* **Fun Fact : Walter Horatio Pater (4 August 1839 – 30 July 1894) was an English essayist and literary critic.**
+💡* Fun Fact : Walter Horatio Pater (4 August 1839 – 30 July 1894) was an English essayist and literary critic.*
    * **It is the addition of strangeness to beauty that constitutes the romantic character in art.**
  <br><br>
 
