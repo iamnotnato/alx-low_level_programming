@@ -14,7 +14,7 @@
 
 | File                 | Prototype                                                      |
 | ---------------------| ---------------------------------------------------------------|
-| `0-strcat.c`         | `char *_strcat(char *dest, char *src);`                        |
+| `0. memset`         | `char *_memset(char *s, char b, unsigned int n);`                        |
 | `1-strncat.c`        | `char *_strncat(char *dest, char *src, int n);`                |
 | `2-strncpy.c`        | `char *_strncpy(char *dest, char *src, int n);`                |
 | `3-strcmp.c`         | `int _strcmp(char *s1, char *s2);`                             |
@@ -27,10 +27,12 @@
 
 <h4>List of Tasks:</h4>
 
-* **0. strcat**
-  * File : [0-strcat.c](./0-strcat.c)
-    * Required : A function that concatenates two strings.
-    * Expected Results : Returns a pointer to the resulting string dest.
+* **0. memset**
+  * File : [0-memset.c](./0-memset.c)
+    * Required : A function that fills memory with a constant byte.
+    * Expected Results :
+      *The _memset() function fills the first n bytes of the memory area pointed to by s with the constant byte b.
+      *Returns a pointer to the memory area s.
  <br><br>
 
 * **1. strncat**
