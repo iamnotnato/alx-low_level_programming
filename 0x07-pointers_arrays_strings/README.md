@@ -1,13 +1,13 @@
 <h3>Project : C - 0x07-pointers_arrays_strings.</h3>
 
-<h4>Notes: <h4>
+<h4>Notes: </h4>
+
 * **ltrace is a program that simply runs the specified command until it exits. 
   **It intercepts and records the dynamic library calls which are called by the executed process and the signals which are received by that process. 
   **It can also intercept and print the system calls executed by the program.**
 
 <h4>Essentials:</h4>
 
-* [_putchar.c](./_putchar.c) : A C function that writes a character to `stdout`.
 * [main.h](./main.h) : A Header file containing prototypes for all functions written in the project.
 
 <h4>Prototypes Required:</h4>
