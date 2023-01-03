@@ -117,7 +117,7 @@
       For numbers which are multiples of both three and five print FizzBuzz.
     * Expected Results : Each number or word should be separated by a space
     
-💡*Fun Fact : Fizz buzz is a group word game for children to teach them about division.
+💡* **Fun Fact : Fizz buzz is a group word game for children to teach them about division.**
    * **Players take turns to count incrementally, replacing any number divisible by three with the word "fizz", and any number divisible by five with the word "buzz".**
 <br><br>
 
