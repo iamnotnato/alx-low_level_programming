@@ -86,7 +86,9 @@
     
 💡*There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important. ~Jim Rohn*
 
-<img align="center" src="https://github.com/iamnotnato/alx-low_level_programming/blob/master/0x02-functions_nested_loops/images/important.jpg">
+<div align="center">
+<img src="https://github.com/iamnotnato/alx-low_level_programming/blob/master/0x02-functions_nested_loops/images/important.jpg">
+ </div>
   <br><br>
 
 * **8. I'm federal agent Jack Bauer, and today is the longest day of my life**
