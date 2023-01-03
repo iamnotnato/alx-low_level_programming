@@ -46,8 +46,7 @@
 * **2. 10 x alphabet**
   * File : [2-print_alphabet_x10.c](./2-print_alphabet_x10.c)
     * Required : A function that prints 10 times the alphabet, in lowercase, followed by a new line.
-    * Expected Results : You can only use _putchar twice in your code
-    
+    * Expected Results : You can only use _putchar twice in your code    
   <br><br>
   
 * **3. islower**
@@ -86,6 +85,8 @@
     * Expected Results : Returns the value of the last digit.
     
 💡*There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important. ~Jim Rohn*
+
+<img src="https://github.com/iamnotnato/Hello-C/blob/master/Truth-table-2.png" width="600">
   <br><br>
 
 * **8. I'm federal agent Jack Bauer, and today is the longest day of my life**
