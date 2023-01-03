@@ -40,7 +40,7 @@
     * Required : A function that prints the alphabet, in lowercase, followed by a new line.
     * Expected Results : You can only use _putchar twice in your code
     
-💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
+💡*Fun Fact : Quote by Roz Chast "I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game."*
   <br><br>
   
 * **2. 10 x alphabet**
@@ -48,7 +48,6 @@
     * Required : A function that prints 10 times the alphabet, in lowercase, followed by a new line.
     * Expected Results : You can only use _putchar twice in your code
     
-💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
   <br><br>
   
 * **3. islower**
@@ -78,7 +77,7 @@
   * File : [6-abs.c](./6-abs.c)
     * Required : A function that computes the absolute value of an integer.
     
-💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
+💡*Fun Fact : Quote by Charles Dudley Warner: There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you.*
   <br><br>
   
 * **7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important.**
@@ -86,7 +85,7 @@
     * Required : A function that prints the last digit of a number.
     * Expected Results : Returns the value of the last digit.
     
-💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
+💡*There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important. ~Jim Rohn*
   <br><br>
 
 * **8. I'm federal agent Jack Bauer, and today is the longest day of my life**
