@@ -24,6 +24,8 @@
   * File : [main.h](./main.h)
     * Required : This program prints the largest of three integers.
     * Expected Results : Fix the code in 2-largest_number.c so that it correctly prints out the largest of three numbers, no matter the case.
+    
+💡*Fun Fact : Pill with imprint b 972 1 0 is Blue, Elliptical/Oval and has been identified as Amphetamine and Dextroamphetamine 10 mg.*
   <br>
     
 * **3. Leap year**
