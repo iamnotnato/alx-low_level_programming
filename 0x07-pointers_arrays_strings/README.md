@@ -1,13 +1,13 @@
 <h3>Project : C - 0x07-pointers_arrays_strings.</h3>
 
-<h4>Notes: <h4>
-* **ltrace is a program that simply runs the specified command until it exits. 
-  **It intercepts and records the dynamic library calls which are called by the executed process and the signals which are received by that process. 
-  **It can also intercept and print the system calls executed by the program.**
+<h4>Notes: </h4>
+
+* **ltrace is a program that simply runs the specified command until it exits.**
+* **It intercepts and records the dynamic library calls which are called by the executed process and the signals which are received by that process.** 
+* **It can also intercept and print the system calls executed by the program.**
 
 <h4>Essentials:</h4>
 
-* [_putchar.c](./_putchar.c) : A C function that writes a character to `stdout`.
 * [main.h](./main.h) : A Header file containing prototypes for all functions written in the project.
 
 <h4>Prototypes Required:</h4>
@@ -15,7 +15,7 @@
 | File                 | Prototype                                                      |
 | ---------------------| ---------------------------------------------------------------|
 | `0. memset`         | `char *_memset(char *s, char b, unsigned int n);`                        |
-| `1-strncat.c`        | `char *_strncat(char *dest, char *src, int n);`                |
+| `1-memcpy.c`        | `char *_memcpy(char *dest, char *src, unsigned int n);`                |
 | `2-strncpy.c`        | `char *_strncpy(char *dest, char *src, int n);`                |
 | `3-strcmp.c`         | `int _strcmp(char *s1, char *s2);`                             |
 | `4-rev_array.c`      | `void reverse_array(int *a, int n);`                           |
@@ -30,15 +30,17 @@
 * **0. memset**
   * File : [0-memset.c](./0-memset.c)
     * Required : A function that fills memory with a constant byte.
-    * Expected Results :
-      *The _memset() function fills the first n bytes of the memory area pointed to by s with the constant byte b.
-      *Returns a pointer to the memory area s.
+    * Expected Results:
+      * **The _memset() function fills the first n bytes of the memory area pointed to by s with the constant byte b.**
+      * **Returns a pointer to the memory area s.**
  <br><br>
 
-* **1. strncat**
-  * File : [1-strncat.c](./1-strncat.c)
-    * Required : A function that concatenates two strings.
-    * Expected Results : Returns a pointer to the resulting string dest.
+* **1. memcpy**
+  * File : [1-memcpy.c](./1-memcpy.c)
+    * Required : A function that copies memory area.
+    * Expected Results :
+      * **The _memcpy() function copies n bytes from memory area src to memory area dest.**
+      * **Returns a pointer to dest.**
  <br><br>
   
 * **2. strncpy**
