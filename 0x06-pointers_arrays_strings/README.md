@@ -84,7 +84,7 @@
     * Required : A function that encodes a string using rot13.
     * Expected Results : You can only use if statement once in your code.
     
-💡*Fun Fact : ROT13 is a simple letter substitution cipher that replaces a letter with the 13th letter after it in the alphabet.
+💡*Fun Fact : ROT13 is a simple letter substitution cipher that replaces a letter with the 13th letter after it in the alphabet.*
    * **ROT13 is a special case of the Caesar cipher which was developed in ancient Rome.**
  <br><br>
   
@@ -93,7 +93,7 @@
     * Required : A function that prints an integer.
     * Expected Results : You can only use _putchar function to print.
     
-💡*Fun Fact : Quote by Shakuntala Devi : Numbers have life; they're not just symbols on paper.**
+💡*Fun Fact : Quote by Shakuntala Devi : Numbers have life; they're not just symbols on paper.*
  <br><br>
 
 * **10. A dream doesn't become reality through magic; it takes sweat, determination and hard work**
