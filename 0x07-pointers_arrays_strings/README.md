@@ -16,7 +16,7 @@
 | ---------------------| ---------------------------------------------------------------|
 | `0. memset`         | `char *_memset(char *s, char b, unsigned int n);`                        |
 | `1-memcpy.c`        | `char *_memcpy(char *dest, char *src, unsigned int n);`                |
-| `2-strncpy.c`        | `char *_strncpy(char *dest, char *src, int n);`                |
+| `2-strchr.c`        | `char *_strchr(char *s, char c);`                |
 | `3-strcmp.c`         | `int _strcmp(char *s1, char *s2);`                             |
 | `4-rev_array.c`      | `void reverse_array(int *a, int n);`                           |
 | `5-string_toupper.c` | `char *string_toupper(char *);`                                |
@@ -43,10 +43,10 @@
       * **Returns a pointer to dest.**
  <br><br>
   
-* **2. strncpy**
-  * File : [2-strncpy.c](./2-strncpy.c)
-    * Required : Your function should work exactly like strncpy.
-    * Expected Results : Your function should work exactly like strncpy.
+* **2. strchr**
+  * File : [2-strchr.c](./2-strchr.c)
+    * Required : A function that locates a character in a string.
+    * Expected Results : Returns a pointer to the first occurrence of the character c in the string s, or NULL if the character is not found
  <br><br>
   
 * **3. strcmp**
