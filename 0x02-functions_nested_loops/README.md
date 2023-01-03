@@ -93,14 +93,13 @@
   * File : [8-24_hours.c](./8-24_hours.c)
     * Required : A function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
     
-💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
+💡*Fun Fact : A great memorable quote from the 24, Day 1 show by Jack Bauer: "I'm federal agent Jack Bauer. This is the longest day of my life."*
   <br><br>
 
 * **9. Learn your times table**
   * File : [9-times_table.c](./9-times_table.c)
     * Required : A function that prints the 9 times table, starting with 0.
     
-💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
   <br><br>
 
 * **10. a + b**
