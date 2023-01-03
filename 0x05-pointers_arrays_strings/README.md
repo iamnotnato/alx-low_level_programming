@@ -28,49 +28,49 @@
   * File : [0-reset_to_98.c](./0-reset_to_98.c)
     * Required : A function that takes a pointer to an int as parameter and updates the value it points to to 98.
 
-💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
+💡**Fun Fact : 98 Battery St is located in San Francisco, CA**
   <br><br>
   
 * **1. Don't swap horses in crossing a stream**
   * File : [1-swap.c](./1-swap.c)
     * Required : A function that swaps the values of two integers.
 
-💡*Fun Fact : “Don't change horses” is a phrase used to urge voters to stick with the incumbent president during times of turmoil and conflict.*
+💡**Fun Fact : “Don't change horses” is a phrase used to urge voters to stick with the incumbent president during times of turmoil and conflict.**
    <br><br>
    
 * **2. This report, by its very length, defends itself against the risk of being read**
   * File : [2-strlen.c](./2-strlen.c)
     * Required : A function that returns the length of a string.
 
-💡*Fun Fact : Quote by Winston S. Churchill — 'This paper, by its very length, defends itself from ever being read.'*
+💡**Fun Fact : Quote by Winston S. Churchill — 'This paper, by its very length, defends itself from ever being read.'**
    <br><br>
    
 * **3. I do not fear computers. I fear the lack of them**
   * File : [3-puts.c](./3-puts.c)
     * Required : A function that prints a string, followed by a new line, to stdout.
 
-💡*Fun Fact : Quote by  Isaac Asimov — "I do not fear computers. I fear the lack of them."*
+💡**Fun Fact : Quote by  Isaac Asimov — "I do not fear computers. I fear the lack of them."**
  <br><br>
 
 * **4. I can only go one way. I've not got a reverse gear**
   * File : [4-print_rev.c](./4-print_rev.c)
     * Required : A function that prints a string, in reverse, followed by a new line.
 
-💡*Fun Fact : Quote by Tony Blair (2004). — "I can only go one way. I've not got a reverse gear."*
+💡**Fun Fact : Quote by Tony Blair (2004). — "I can only go one way. I've not got a reverse gear."**
    <br><br>
 
 * **5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes**
   * File : [5-rev_string.c](./5-rev_string.c)
     * Required : A function that reverses a string.
 
-💡*Fun Fact : “A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes.” — Quote by Helmut Jahn.*
+💡**Fun Fact : “A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes.” — Quote by Helmut Jahn.**
  <br><br>
  
 * **6. Half the lies they tell about me aren't true**
   * File : [6-puts2.c](./6-puts2.c)
     * Required : A function that prints every other character of a string, starting with the first character, followed by a new line.
 
-💡*Fun Fact : "Half the lies they tell about me aren't true." - Quote by Yogi Berra*
+💡**Fun Fact : "Half the lies they tell about me aren't true." - Quote by Yogi Berra**
  <br><br>
   
 * **7. Winning is only half of it. Having fun is the other half**
@@ -80,7 +80,7 @@
       * *The function should print the second half of the string.*
       * *If the number of characters is odd, the function should print the last n characters of the string, where n = (length_of_the_string - 1) / 2.*
 
-💡*Fun Fact : Quote by Bum Phillips: “Winning is only half of it. Having fun is the other half.”*
+💡**Fun Fact : Quote by Bum Phillips: “Winning is only half of it. Having fun is the other half.”**
  <br><br>
  
 * **8. Arrays are not pointers**
@@ -91,7 +91,7 @@
       * Numbers must be separated by comma, followed by a space.*
       * The numbers should be displayed in the same order as they are stored in the array.*
 
-💡*Fun Fact :Van der Linden discusses in his book Deep C Secrets is how “arrays are not pointers“.*
+💡**Fun Fact :Van der Linden discusses in his book Deep C Secrets is how “arrays are not pointers“.**
 
  💡**This can be dangerous because it sets the wrong tone, and is really a half-truth.** 
  
@@ -114,9 +114,9 @@
       * *You are not allowed to use long.*
       * *You are not allowed to declare new variables of “type” array.*
       * *You are not allowed to hard-code special values.*
-      * *We will use the -fsanitize=signed-integer-overflow gcc flag to compile your code..*
+      * *We will use the -fsanitize=signed-integer-overflow gcc flag to compile your code.*
 
-💡*Fun Fact : Quote by Simon Sinek : "Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers."*
+💡**Fun Fact : Quote by Simon Sinek : "Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers."**
    <br><br>
    
 * **11. Don't hate the hacker, hate the code**
@@ -127,5 +127,5 @@
       * *man srand, rand, time.*
       * *gdb and objdump can help.*
 
-💡*Fun Fact : Don't Hate The Hacker Hate The Code - Hacking Security Notebook is a book by by Wanda Franks *
+💡**Fun Fact : Don't Hate The Hacker Hate The Code - Hacking Security Notebook is a book by by Wanda Franks.**
  <br><br>
