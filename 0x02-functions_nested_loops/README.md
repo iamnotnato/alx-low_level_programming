@@ -100,18 +100,14 @@
 
 * **9. Learn your times table**
   * File : [9-times_table.c](./9-times_table.c)
-    * Required : A function that prints the 9 times table, starting with 0.
-    
+    * Required : A function that prints the 9 times table, starting with 0.    
   <br><br>
 
 * **10. a + b**
   * File : [10-add.c](./10-add.c)
-    * Required : A function that adds two integers and returns the result.
-    
-💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
+    * Required : A function that adds two integers and returns the result.    
   <br><br>
-
-  
+    
 * **11. 98 Battery Street, the OG**
   * File : [11-print_to_98.c](./11-print_to_98.c)
     * Required : The function returns a pointer to the result
@@ -129,14 +125,14 @@
     * Required : A function that prints the n times table, starting with 0.
     * Expected Results : If n is greater than 15 or less than 0 the function should not print anything.
     
-💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
+💡*Fun Fact : Quote by Ralph Waldo Emerson : “The world looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself.”*
   <br><br>
     
  * **13. Nature made the natural numbers; All else is the work of women**
    * File : [101-natural.c](./101-natural.c)
       * Required : A program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
       
-💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
+💡*Fun Fact : “Natural numbers were created by God, everything else is the work of men.” Kronecker in a lecture for the Berliner Naturforscher Versammlung (1886).*
   <br><br>
   
  * **14. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A**
@@ -144,14 +140,14 @@
         * Required : A program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
         * Expected Results : The numbers must be separated by comma, followed by a space.
         
-💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
+💡*Fun Fact : I think it goes back to my high school days. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A. – Kevin Mitnick*
   <br><br>  
   
 * **15. Even Liber Abbaci**
   * File : [103-fibonacci.c](./103-fibonacci.c)
        * Required : A program that finds and prints the sum of the even-valued terms, followed by a new line.
        
-💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
+💡*Fun Fact : Liber Abaci (also spelled as Liber Abbaci; "The Book of Calculation") is a historic 1202 Latin manuscript on arithmetic by Leonardo of Pisa, posthumously known as Fibonacci.*
   <br><br>
   
 * **16. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A+**
@@ -163,5 +159,5 @@
         * *You are not allowed to use long long, malloc, pointers, arrays/tables, or structures*
         * *You are not allowed to hard code any Fibonacci number (except for 1 and 2)*
         
-💡*Fun Fact : 98 Battery St is located in San Francisco, CA*
+💡*Fun Fact : I think it goes back to my high school days. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A. – Kevin Mitnick*
   <br><br>
