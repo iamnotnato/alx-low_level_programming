@@ -19,7 +19,7 @@
 | `2-strchr.c`        | `char *_strchr(char *s, char c);`                |
 | `3-strspn.c`         | `unsigned int _strspn(char *s, char *accept);`                             |
 | `4-strpbrk.c`      | `char *_strpbrk(char *s, char *accept);`                           |
-| `5-string_toupper.c` | `char *string_toupper(char *);`                                |
+| `5-strstr.c` | `char *_strstr(char *haystack, char *needle);`                                |
 | `6-cap_string.c`     | `char *cap_string(char *);`                                    |
 | `7-leet.c`           | `char *leet(char *);`                                          |
 | `100-rot13.c`        | `char *rot13(char *);`                                         |
@@ -63,10 +63,13 @@
       * **Returns a pointer to the byte in s that matches one of the bytes in accept, or NULL if no such byte is found**
  <br><br>
   
-* **5. Always look up**
-  * File : [5-string_toupper.c](./5-string_toupper.c)
-    * Required : A function that changes all lowercase letters of a string to uppercase.
-    * Expected Results : A function that changes all lowercase letters of a string to uppercase.
+* **5. strstr**
+  * File : [5-strstr.c](./5-strstr.c)
+    * Required : A function that locates a substring.
+    * Expected Results : 
+      * **The _strstr() function finds the first occurrence of the substring needle in the string haystack.**
+      * **The terminating null bytes (\0) are not compared.**
+      * **Returns a pointer to the beginning of the located substring, or NULL if the substring is not found.**
  <br><br>
 
 * **6. Expect the best. Prepare for the worst. Capitalize on what comes**
