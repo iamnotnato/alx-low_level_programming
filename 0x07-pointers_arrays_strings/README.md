@@ -17,7 +17,7 @@
 | `0. memset`         | `char *_memset(char *s, char b, unsigned int n);`                        |
 | `1-memcpy.c`        | `char *_memcpy(char *dest, char *src, unsigned int n);`                |
 | `2-strchr.c`        | `char *_strchr(char *s, char c);`                |
-| `3-strcmp.c`         | `int _strcmp(char *s1, char *s2);`                             |
+| `3-strspn.c`         | `unsigned int _strspn(char *s, char *accept);`                             |
 | `4-rev_array.c`      | `void reverse_array(int *a, int n);`                           |
 | `5-string_toupper.c` | `char *string_toupper(char *);`                                |
 | `6-cap_string.c`     | `char *cap_string(char *);`                                    |
@@ -49,10 +49,10 @@
     * Expected Results : Returns a pointer to the first occurrence of the character c in the string s, or NULL if the character is not found
  <br><br>
   
-* **3. strcmp**
-  * File : [3-strcmp.c](./3-strcmp.c)
-    * Required : A function that compares two strings.
-    * Expected Results : Your function should work exactly like strcmp.
+* **3. strspn**
+  * File : [3-strspn.c](./3-strspn.c)
+    * Required : A function that gets the length of a prefix substring.
+    * Expected Results : Returns the number of bytes in the initial segment of s which consist only of bytes from accept
  <br><br>
 
 * **4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy**
