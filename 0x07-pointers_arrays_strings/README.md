@@ -20,7 +20,7 @@
 | `3-strspn.c`         | `unsigned int _strspn(char *s, char *accept);`                             |
 | `4-strpbrk.c`      | `char *_strpbrk(char *s, char *accept);`                           |
 | `5-strstr.c` | `char *_strstr(char *haystack, char *needle);`                                |
-| `6-cap_string.c`     | `char *cap_string(char *);`                                    |
+| `7-print_chessboard.c`     | `void print_chessboard(char (*a)[8]);`                                    |
 | `7-leet.c`           | `char *leet(char *);`                                          |
 | `100-rot13.c`        | `char *rot13(char *);`                                         |
 | `101-crackme_password` | `N/A`                        |
@@ -72,12 +72,13 @@
       * **Returns a pointer to the beginning of the located substring, or NULL if the substring is not found.**
  <br><br>
 
-* **6. Expect the best. Prepare for the worst. Capitalize on what comes**
-  * File : [6-cap_string.c](./6-cap_string.c)
-    * Required : Write a function that capitalizes all words of a string.
-    * Expected Results : Separators of words: space, tabulation, new line, ,, ;, ., !, ?, ", (, ), {, and }
+* **6. Chess is mental torture**
+  * File : [7-print_chessboard.c](./7-print_chessboard.c)
+    * Required : A function that prints the chessboard.
+
+💡*Fun Fact : “Chess is mental torture” is what Garry Kasparov said in the context of his 1990s match vs Nigel Short.*
  <br><br>
-  
+
 * **7. Mozart composed his music not for the elite, but for everybody**
   * File : [7-leet.c](./7-leet.c)
     * Required : A function that encodes a string into 1337.
