@@ -61,7 +61,6 @@
   * File : [5-string_toupper.c](./5-string_toupper.c)
     * Required : A function that changes all lowercase letters of a string to uppercase.
     * Expected Results : A function that changes all lowercase letters of a string to uppercase.
-
  <br><br>
 
 * **6. Expect the best. Prepare for the worst. Capitalize on what comes**
@@ -85,8 +84,8 @@
     * Required : A function that encodes a string using rot13.
     * Expected Results : You can only use if statement once in your code.
     
-💡* **Fun Fact : ROT13 is a simple letter substitution cipher that replaces a letter with the 13th letter after it in the alphabet.**
-     * **ROT13 is a special case of the Caesar cipher which was developed in ancient Rome.**
+💡*Fun Fact : ROT13 is a simple letter substitution cipher that replaces a letter with the 13th letter after it in the alphabet.
+   * **ROT13 is a special case of the Caesar cipher which was developed in ancient Rome.**
  <br><br>
   
 * **9. Numbers have life; they're not just symbols on paper**
