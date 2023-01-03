@@ -23,7 +23,7 @@
 | `5-strstr.c` | `char *_strstr(char *haystack, char *needle);`                                |
 | `7-print_chessboard.c`     | `void print_chessboard(char (*a)[8]);`                                    |
 | `8-print_diagsums.c`           | `void print_diagsums(int *a, int size);`                                          |
-| `100-rot13.c`        | `char *rot13(char *);`                                         |
+| `100-set_string.c`        | `void set_string(char **s, char *to);`                                         |
 | `101-crackme_password` | `N/A`                        |
 
 <h4>List of Tasks:</h4>
@@ -91,10 +91,9 @@
 💡*Fun Fact : Quote by William R. Alger: The line of life is a ragged diagonal between duty and desire.*
  <br><br>
 
-* **8. rot13**
-  * File : [100-rot13.c](./100-rot13.c)
-    * Required : A function that encodes a string using rot13.
-    * Expected Results : You can only use if statement once in your code.
+* **8. Double pointer, double fun**
+  * File : [100-set_string.c](./100-set_string.c)
+    * Required : A function that sets the value of a pointer to a char.
  <br><br>
   
 * **9. My primary goal of hacking was the intellectual curiosity, the seduction of adventure**
