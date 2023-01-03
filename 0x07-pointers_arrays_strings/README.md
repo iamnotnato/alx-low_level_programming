@@ -30,17 +30,17 @@
 * **0. memset**
   * File : [0-memset.c](./0-memset.c)
     * Required : A function that fills memory with a constant byte.
-    * Expected Results :
-      *The _memset() function fills the first n bytes of the memory area pointed to by s with the constant byte b.
-      *Returns a pointer to the memory area s.
+    * Expected Results:
+      * **The _memset() function fills the first n bytes of the memory area pointed to by s with the constant byte b.**
+      * **Returns a pointer to the memory area s.**
  <br><br>
 
 * **1. memcpy**
   * File : [1-memcpy.c](./1-memcpy.c)
     * Required : A function that copies memory area.
     * Expected Results :
-      *The _memcpy() function copies n bytes from memory area src to memory area dest.
-      *Returns a pointer to dest.
+      * **The _memcpy() function copies n bytes from memory area src to memory area dest.**
+      * **Returns a pointer to dest.**
  <br><br>
   
 * **2. strncpy**
