@@ -44,12 +44,16 @@
 * **2. Collaboration is multiplication**
   * File : [2-mul.c](./2-mul.c)
     * Required : A function that multiplies two integers.
+    
+💡*Fun Fact : Collaboration is multiplication.” — John C. Maxwell*
     <br><br>
     
 * **3. The numbers speak for themselves**
   * File : [3-print_numbers.c](./3-print_numbers.c)
     * Required : A function that prints the numbers, from 0 to 9, followed by a new line.
     * Expected Results : You can only use _putchar twice in your code
+    
+💡*Fun Fact : The numbers (or figures) speak for themselves" is a fixed expression often used to mean "if you remain to be convinced, look at the statistics or financial accounts".*
     <br><br>
 
 * **4. I believe in numbers and signs**
@@ -58,12 +62,16 @@
     * Expected Results :
       * *Do not print 2 and 4.*
       * *You can only use _putchar twice in your code.*
+      
+💡*Fun Fact : “I believe in numbers and signs.” — Vikram Chatwal*
   <br><br>
   
 * **5. Numbers constitute the only universal language**
   * File : [5-more_numbers.c](./5-more_numbers.c)
     * Required : A function that prints 10 times the numbers, from 0 to 14, followed by a new line.
     * Expected Results : You can only use _putchar three times in your code
+    
+💡*Fun Fact : Quote by Nathanael West: “Numbers constitute the only universal language.”*
 <br><br>
 
 * **6. The shortest distance between two points is a straight line**
@@ -74,6 +82,8 @@
       * *Where n is the number of times the character _ should be printed.*
       * *The line should end with a \n.*
       * *If n is 0 or less, the function should only print \n.*
+      
+💡*Fun Fact : It was Archimedes who first articulated that the shortest path between two points is a straight line.*
  <br><br> 
  
 * **7. I feel like I am diagonally parked in a parallel universe**
@@ -84,6 +94,8 @@
       * *Where n is the number of times the character \ should be printed.*
       * *The diagonal should end with a \n.*
       * *If n is 0 or less, the function should only print \n.*
+      
+💡*Fun Fact : Diagonally-Parked in a Parallel Universe : Working Through Social Anxiety is a book by Signe A. Dayhoff*
 <br><br>
 
 * **8. You are so much sunshine in every square inch**
@@ -94,6 +106,8 @@
       * *Where size is the size of the square.*
       * *If size is 0 or less, the function should print only a new line.*
       * *Use the character # to print the square.*
+      
+💡*Fun Fact : “Some people are so much sunshine to the square inch.” ― Walt Whitman*
   <br><br>
   
 * **9. Fizz-Buzz**
@@ -102,6 +116,9 @@
       But for multiples of three print Fizz instead of the number and for the  multiples of five print Buzz. 
       For numbers which are multiples of both three and five print FizzBuzz.
     * Expected Results : Each number or word should be separated by a space
+    
+💡* **Fun Fact : Fizz buzz is a group word game for children to teach them about division.**
+   * **Players take turns to count incrementally, replacing any number divisible by three with the word "fizz", and any number divisible by five with the word "buzz".**
 <br><br>
 
 * **10. Triangles**
@@ -120,6 +137,8 @@
     * Expected Results : Your program will be compiled with this command:
         
     * **gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-prime_factor.c -o 100-prime_factor -lm**
+    
+💡*Fun Fact : The problem of distinguishing prime numbers from composite numbers and of resolving the latter into their prime factors is known to be one of the most important and useful in arithmetic. -Carl Friedrich Gauss*
 <br><br>
 
 * **12. Numbers have life; they're not just symbols on paper**
@@ -130,4 +149,6 @@
     * *You are not allowed to use long.*
     * *You are not allowed to use arrays or pointers.*
     * *You are not allowed to hard-code special values.*
+    
+💡*Fun Fact : Quote by Shakuntala Devi : Numbers have life; they're not just symbols on paper.*
     <br><br>
