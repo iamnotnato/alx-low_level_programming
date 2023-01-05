@@ -11,7 +11,7 @@
 | -----------------------| ---------------------------------------------------------------|
 | `0-puts_recursion.c`            | `void _puts_recursion(char *s);`              |
 | `1-print_rev_recursion.c`           | `void _print_rev_recursion(char *s);`        |
-| `2-strchr.c`           | `char *_strchr(char *s, char c);`                              |
+| `2-strlen_recursion.c`           | `int _strlen_recursion(char *s);`                              |
 | `3-strspn.c`           | `unsigned int _strspn(char *s, char *accept);`                 |
 | `4-strpbrk.c`          | `char *_strpbrk(char *s, char *accept);`                       |
 | `5-strstr.c`           | `char *_strstr(char *haystack, char *needle);`                 |
@@ -39,10 +39,12 @@
     **Inception (2010)**
  <br><br>
   
-* **2. strchr**
-  * File : [2-strchr.c](./2-strchr.c)
-    * Required : A function that locates a character in a string.
-    * Expected Results : Returns a pointer to the first occurrence of the character c in the string s, or NULL if the character is not found
+* **Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange**
+  * File : [2-strlen_recursion.c](./2-strlen_recursion.c)
+    * Required : A function that returns the length of a string.
+
+💡*Fun Fact : "Cobb : Well dreams, they feel real while we're in them, right? It's only when we wake up that we realize how things are actually strange. Let me ask you a question, you, you never really remember the beginning of a dream do you? You always wind up right in the middle of what's going on.*
+  **Inception (2010) - Elliot Page as Ariadne**
  <br><br>
   
 * **3. strspn**
