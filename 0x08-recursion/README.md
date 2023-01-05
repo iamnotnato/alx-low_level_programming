@@ -12,7 +12,7 @@
 | `0-puts_recursion.c`            | `void _puts_recursion(char *s);`              |
 | `1-print_rev_recursion.c`           | `void _print_rev_recursion(char *s);`        |
 | `2-strlen_recursion.c`           | `int _strlen_recursion(char *s);`                              |
-| `3-strspn.c`           | `unsigned int _strspn(char *s, char *accept);`                 |
+| `3-factorial.c`           | `int factorial(int n);`                 |
 | `4-strpbrk.c`          | `char *_strpbrk(char *s, char *accept);`                       |
 | `5-strstr.c`           | `char *_strstr(char *haystack, char *needle);`                 |
 | `7-print_chessboard.c` | `void print_chessboard(char (*a)[8]);`                         |
@@ -47,10 +47,12 @@
   **Inception (2010) - Elliot Page as Ariadne**
  <br><br>
   
-* **3. strspn**
-  * File : [3-strspn.c](./3-strspn.c)
-    * Required : A function that gets the length of a prefix substring.
-    * Expected Results : Returns the number of bytes in the initial segment of s which consist only of bytes from accept
+* **3. You mustn't be afraid to dream a little bigger, darling**
+  * File : [3-factorial.c](./3-factorial.c)
+    * Required : A function that returns the factorial of a given number.
+    * Expected Results : 
+      * **If n is lower than 0, the function should return -1 to indicate an error.**
+      * **Factorial of 0 is 1.**
  <br><br>
 
 * **4. strpbrk**
