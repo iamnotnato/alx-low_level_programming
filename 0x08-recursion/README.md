@@ -53,6 +53,8 @@
     * Expected Results : 
       * **If n is lower than 0, the function should return -1 to indicate an error.**
       * **Factorial of 0 is 1.**
+
+💡*Fun Fact : "You Mustn't Be Afraid To Dream A Little Bigger Darling" is a memorable quote uttered by Tom Hardy to Joseph Gordon Levitt from the 2010 film Inception.*
  <br><br>
 
 * **4. strpbrk**
