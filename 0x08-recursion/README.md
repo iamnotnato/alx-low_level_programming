@@ -10,7 +10,7 @@
 | File                   | Prototype                                                      |
 | -----------------------| ---------------------------------------------------------------|
 | `0-puts_recursion.c`            | `void _puts_recursion(char *s);`              |
-| `1-memcpy.c`           | `char *_memcpy(char *dest, char *src, unsigned int n);`        |
+| `1-print_rev_recursion.c`           | `void _print_rev_recursion(char *s);`        |
 | `2-strchr.c`           | `char *_strchr(char *s, char c);`                              |
 | `3-strspn.c`           | `unsigned int _strspn(char *s, char *accept);`                 |
 | `4-strpbrk.c`          | `char *_strpbrk(char *s, char *accept);`                       |
@@ -30,12 +30,13 @@
    * **A truth that she had once known,but chose to forget. ― Christopher J. Nolan, Inception: The Shooting Script**
 <br><br>
 
-* **1. memcpy**
-  * File : [1-memcpy.c](./1-memcpy.c)
-    * Required : A function that copies memory area.
-    * Expected Results :
-      * **The _memcpy() function copies n bytes from memory area src to memory area dest.**
-      * **Returns a pointer to dest.**
+* **Why is it so important to dream? Because, in my dreams we are together**
+  * File : [1-print_rev_recursion.c](./1-print_rev_recursion.c)
+    * Required : A function that prints a string in reverse.
+   
+💡*Fun Fact : "Ariadne : Why is it so important to dream?*
+    **Cobb : Because, in my dreams we are together.**
+    **Inception (2010)**
  <br><br>
   
 * **2. strchr**
