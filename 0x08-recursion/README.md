@@ -9,7 +9,7 @@
 
 | File                   | Prototype                                                      |
 | -----------------------| ---------------------------------------------------------------|
-| `0. memset`            | `char *_memset(char *s, char b, unsigned int n);`              |
+| `0-puts_recursion.c`            | `void _puts_recursion(char *s);`              |
 | `1-memcpy.c`           | `char *_memcpy(char *dest, char *src, unsigned int n);`        |
 | `2-strchr.c`           | `char *_strchr(char *s, char c);`                              |
 | `3-strspn.c`           | `unsigned int _strspn(char *s, char *accept);`                 |
@@ -22,13 +22,13 @@
 
 <h4>List of Tasks:</h4>
 
-* **0. memset**
-  * File : [0-memset.c](./0-memset.c)
-    * Required : A function that fills memory with a constant byte.
-    * Expected Results:
-      * **The _memset() function fills the first n bytes of the memory area pointed to by s with the constant byte b.**
-      * **Returns a pointer to the memory area s.**
- <br><br>
+* **0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget**
+  * File : [0-puts_recursion.c](./0-puts_recursion.c)
+    * Required : A function that prints a string, followed by a new line.
+
+💡* **Fun Fact : "She had locked something away,something deep inside.*
+   * **A truth that she had once known,but chose to forget. ― Christopher J. Nolan, Inception: The Shooting Script**
+<br><br>
 
 * **1. memcpy**
   * File : [1-memcpy.c](./1-memcpy.c)
