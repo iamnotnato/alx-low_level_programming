@@ -2,6 +2,16 @@
 
 > blockquote
 
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+I need to highlight these ==very important words==.
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+
 <h4>Essentials:</h4>
 
 * [main.h](./main.h) : A Header file containing prototypes for all functions written in the project.
