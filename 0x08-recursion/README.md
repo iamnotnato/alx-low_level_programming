@@ -1,17 +1,5 @@
 <h3>Project : 0x08-recursion</h3>
 
-> blockquote
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
-
-I need to highlight these ==very important words==.
-
-Here's a sentence with a footnote. [^1]
-
-[^1]: This is the footnote.
-
 <h4>Essentials:</h4>
 
 * [main.h](./main.h) : A Header file containing prototypes for all functions written in the project.
@@ -38,8 +26,8 @@ Here's a sentence with a footnote. [^1]
   * File : [0-puts_recursion.c](./0-puts_recursion.c)
     * Required : A function that prints a string, followed by a new line.
 
-💡*Fun Fact : "She had locked something away,something deep inside.*
-   * **A truth that she had once known,but chose to forget. ― Christopher J. Nolan, Inception: The Shooting Script**
+>💡Fun Fact : "She had locked something away,something deep inside.
+> A truth that she had once known,but chose to forget. ― Christopher J. Nolan, Inception: The Shooting Script
 <br><br>
 
 * **Why is it so important to dream? Because, in my dreams we are together**
