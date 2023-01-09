@@ -103,7 +103,6 @@
 > - "When we're asleep, we can do almost anything."
 > - -**Leonardo DiCaprio as Cobb**
 <hr>
-
   
 * **8. Inception. Now, before you bother telling me it's impossible...**
   * File : [101-wildcmp.c](./101-wildcmp.c)
@@ -112,6 +111,7 @@
       * **s2 can contain the special character *.**
       * **The special char * can replace any string (including an empty string)**
   
-💡*Fun Fact : Cobb: Inception. Now, before you bother telling me it's impossible*
-Leonardo DiCaprio as Cobb
+> 💡*Fun Fact : 
+> - **Cobb: "Inception. Now, before you bother telling me it's impossible"**
+> - **Leonardo DiCaprio as Cobb**
 
