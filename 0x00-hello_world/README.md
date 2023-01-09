@@ -52,8 +52,6 @@
     
 > 💡*Fun Fact : Size is not grandeur, and territory does not make a nation is a quote made by Thomas Henry Huxley*
 
-<br>
-
 * **7. Intel**
   * File : [100-intel](./100-intel)
     * Required : A script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
