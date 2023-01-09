@@ -89,16 +89,16 @@
   * File : [8-print_array.c](./8-print_array.c)
     * Required : A function that prints n elements of an array of integers, followed by a new line.
     * Expected Results : 
-      * Where n is the number of elements of the array to be printed.*
-      * Numbers must be separated by comma, followed by a space.*
-      * The numbers should be displayed in the same order as they are stored in the array.*
+      * **Where n is the number of elements of the array to be printed.**
+      * **Numbers must be separated by comma, followed by a space.**
+      * **The numbers should be displayed in the same order as they are stored in the array.**
 
-💡**Fun Fact :Van der Linden discusses in his book Deep C Secrets is how “arrays are not pointers“.**
+> 💡Fun Fact :
+>
+> - **Van der Linden discusses in his book Deep C Secrets is how “arrays are not pointers“.**
+> - **This can be dangerous because it sets the wrong tone, and is really a half-truth.**
+> - **It’s a bit of a chicken and egg problem. Arrays look like pointers, and pointers can refer to array objects.**
 
- 💡**This can be dangerous because it sets the wrong tone, and is really a half-truth.** 
- 
- 💡**It’s a bit of a chicken and egg problem. Arrays look like pointers, and pointers can refer to array objects.**
-   <br><br>
 <hr>
 
 * **9. strcpy**
