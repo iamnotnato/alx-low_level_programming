@@ -116,9 +116,9 @@
 
 > 💡Fun Fact :
 >
-> - Revenue was off the chart.
-> - Profits were higher than ever.
->
+> - **Fizz buzz is a group word game for children to teach them about division.**
+> - **Players take turns to count incrementally, replacing any number divisible by three with the word "fizz".**
+> - **Any number divisible by five with the word "buzz".**
 >  *Everything* is going according to **plan**.
 
 * **10. Triangles**
