@@ -1,4 +1,5 @@
 <h3>Project : 0x04-more_functions_nested_loops</h3>
+<hr>
 
 <h4>Essentials:</h4>
 
@@ -24,6 +25,7 @@
 | `101-print_number.c`        | `void print_number(int n);`                                    |
 
 <h4>List of Tasks:</h4>
+<hr>
 
 * **0. isupper**
   * File : [0-isupper.c](./0-isupper.c)
@@ -31,26 +33,32 @@
     * Expected Results :
       * *Returns 1 if c is uppercase.*
       * *Returns 0 otherwise.*
-<br><br>
+<hr>
+
 * **1. isdigit**
   * File : [1-isdigit.c](./1-isdigit.c)
     * Required : A function that checks for a digit (0 through 9).
     * Expected Results :
       * *Returns 1 if c is uppercase.*
       * *Returns 0 otherwise*
-      <br><br>      
+<hr>
+    
 * **2. Collaboration is multiplication**
   * File : [2-mul.c](./2-mul.c)
     * Required : A function that multiplies two integers.
     
 > 💡*Fun Fact : Collaboration is multiplication.” — John C. Maxwell*
-    
+
+<hr>
+
 * **3. The numbers speak for themselves**
   * File : [3-print_numbers.c](./3-print_numbers.c)
     * Required : A function that prints the numbers, from 0 to 9, followed by a new line.
     * Expected Results : You can only use _putchar twice in your code
     
 > 💡*Fun Fact : The numbers (or figures) speak for themselves" is a fixed expression often used to mean "if you remain to be convinced, look at the statistics or financial accounts".*
+
+<hr>
 
 * **4. I believe in numbers and signs**
   * File : [4-print_most_numbers.c](./4-print_most_numbers.c)
@@ -60,13 +68,17 @@
       * *You can only use _putchar twice in your code.*
       
 > 💡*Fun Fact : “I believe in numbers and signs.” — Vikram Chatwal*
-  
+
+<hr>
+
 * **5. Numbers constitute the only universal language**
   * File : [5-more_numbers.c](./5-more_numbers.c)
     * Required : A function that prints 10 times the numbers, from 0 to 14, followed by a new line.
     * Expected Results : You can only use _putchar three times in your code
     
 > 💡*Fun Fact : Quote by Nathanael West: “Numbers constitute the only universal language.”*
+
+<hr>
 
 * **6. The shortest distance between two points is a straight line**
   * File : [6-print_line.c](./6-print_line.c)
@@ -78,7 +90,9 @@
       * *If n is 0 or less, the function should only print \n.*
       
 > 💡*Fun Fact : It was Archimedes who first articulated that the shortest path between two points is a straight line.*
- 
+
+<hr>
+
 * **7. I feel like I am diagonally parked in a parallel universe**
   * File : [7-print_diagonal.c](./7-print_diagonal.c)
     * Required : A function that draws a diagonal line on the terminal.
@@ -90,6 +104,8 @@
       
 > 💡*Fun Fact : Diagonally-Parked in a Parallel Universe : Working Through Social Anxiety is a book by Signe A. Dayhoff*
 
+<hr>
+
 * **8. You are so much sunshine in every square inch**
   * File : [8-print_square.c](./8-print_square.c)
     * Required : A function that prints a square, followed by a new line.
@@ -100,7 +116,9 @@
       * *Use the character # to print the square.*
       
 > 💡*Fun Fact : “Some people are so much sunshine to the square inch.” ― Walt Whitman*
-  
+
+<hr>
+
 * **9. Fizz-Buzz**
   * File : [9-fizz_buzz.c](./9-fizz_buzz.c)
     * Required : 
@@ -115,6 +133,8 @@
 > - **Players take turns to count incrementally, replacing any number divisible by three with the word "fizz".**
 > - **Any number divisible by five with the word "buzz".**
 
+<hr>
+
 * **10. Triangles**
   * File : [10-print_triangle.c](./10-print_triangle.c)
     * Required : A function that prints a triangle, followed by a new line.
@@ -123,7 +143,7 @@
       * *Where size is the size of the triangle.*
       * *If size is 0 or less, the function should print only a new line.*
       * *Use the character # to print the triangle.*
-  <br><br>
+<hr>
   
 * **11. The problem of distinguishing prime numbers from composite numbers and of resolving the latter into their prime factors is known to be one of the most important and useful in arithmetic**
   * File : [100-prime_factor.c](./100-prime_factor.c)
@@ -133,6 +153,8 @@
     * **gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-prime_factor.c -o 100-prime_factor -lm**
     
 > 💡*Fun Fact : The problem of distinguishing prime numbers from composite numbers and of resolving the latter into their prime factors is known to be one of the most important and useful in arithmetic. -Carl Friedrich Gauss*
+
+<hr>
 
 * **12. Numbers have life; they're not just symbols on paper**
   * File : [101-print_number.c](./101-print_number.c)
