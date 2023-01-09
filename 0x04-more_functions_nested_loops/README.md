@@ -114,6 +114,13 @@
        * **Players take turns to count incrementally, replacing any number divisible by three with the word "fizz".**
        * **Any number divisible by five with the word "buzz".**
 
+> #### The quarterly results look great!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+>
+>  *Everything* is going according to **plan**.
+
 * **10. Triangles**
   * File : [10-print_triangle.c](./10-print_triangle.c)
     * Required : A function that prints a triangle, followed by a new line.
