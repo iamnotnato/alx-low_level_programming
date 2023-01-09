@@ -1,11 +1,11 @@
 <h3>Project : C - 0x07-pointers_arrays_strings.</h3>
 <hr>
 
-<h4>Notes: </h4>
+> Notes: 
 
-* **ltrace is a program that simply runs the specified command until it exits.**
-* **It intercepts and records the dynamic library calls which are called by the executed process and the signals which are received by that process.** 
-* **It can also intercept and print the system calls executed by the program.**
+> * **ltrace is a program that simply runs the specified command until it exits.**
+> * **It intercepts and records the dynamic library calls which are called by the executed process and the signals which are received by that process.** 
+> * **It can also intercept and print the system calls executed by the program.**
 
 <h4>Essentials:</h4>
 
