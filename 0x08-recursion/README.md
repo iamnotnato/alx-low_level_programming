@@ -48,10 +48,11 @@
   * File : [2-strlen_recursion.c](./2-strlen_recursion.c)
     * Required : A function that returns the length of a string.
 
-💡*Fun Fact : "Cobb : Well dreams, they feel real while we're in them, right? It's only when we wake up that we realize how things are actually strange. Let me ask you a question, you, you never really remember the beginning of a dream do you? You always wind up right in the middle of what's going on.*
-  **Inception (2010) - Elliot Page as Ariadne**
+> 💡Fun Fact :
+> * **Cobb : "Well dreams, they feel real while we're in them, right? It's only when we wake up that we realize how things are actually strange."**
+> * **"Let me ask you a question, you, you never really remember the beginning of a dream do you? You always wind up right in the middle of what's going on."**
+> - -**Inception (2010) - Elliot Page as Ariadne**
 <hr>
-
   
 * **3. You mustn't be afraid to dream a little bigger, darling**
   * File : [3-factorial.c](./3-factorial.c)
