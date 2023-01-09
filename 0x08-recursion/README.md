@@ -28,11 +28,10 @@
     * Required : A function that prints a string, followed by a new line.
 
 > 💡Fun Fact : 
-> ** "She had locked something away,something deep inside.**
+> **"She had locked something away,something deep inside.**
 > **A truth that she had once known,but chose to forget. ― Christopher J. Nolan, Inception: The Shooting Script.**
 
 <hr>
-
 
 * **Why is it so important to dream? Because, in my dreams we are together**
   * File : [1-print_rev_recursion.c](./1-print_rev_recursion.c)
