@@ -32,15 +32,13 @@
       * *Returns 1 if c is uppercase.*
       * *Returns 0 otherwise.*
 <br><br>
-
 * **1. isdigit**
   * File : [1-isdigit.c](./1-isdigit.c)
     * Required : A function that checks for a digit (0 through 9).
     * Expected Results :
       * *Returns 1 if c is uppercase.*
       * *Returns 0 otherwise*
-      <br><br>
-      
+      <br><br>      
 * **2. Collaboration is multiplication**
   * File : [2-mul.c](./2-mul.c)
     * Required : A function that multiplies two integers.
@@ -105,14 +103,16 @@
   
 * **9. Fizz-Buzz**
   * File : [9-fizz_buzz.c](./9-fizz_buzz.c)
-    * Required : A program that prints the numbers from 1 to 100, followed by a new line.
-      But for multiples of three print Fizz instead of the number and for the  multiples of five print Buzz. 
-      For numbers which are multiples of both three and five print FizzBuzz.
+    * Required : 
+      * **A program that prints the numbers from 1 to 100, followed by a new line.**
+      * **For multiples of three print Fizz instead of the number and for the  multiples of five print Buzz.**
+      * **For numbers which are multiples of both three and five print FizzBuzz.**
     * Expected Results : Each number or word should be separated by a space
     
-> 💡* **Fun Fact : Fizz buzz is a group word game for children to teach them about division.**
-   * **Players take turns to count incrementally, replacing any number divisible by three with the word "fizz".**
-   * **Any number divisible by five with the word "buzz".**
+> 💡* **Fun Fact : 
+>Fizz buzz is a group word game for children to teach them about division.**
+         * **Players take turns to count incrementally, replacing any number divisible by three with the word "fizz".**
+         * **Any number divisible by five with the word "buzz".**
 
 * **10. Triangles**
   * File : [10-print_triangle.c](./10-print_triangle.c)
