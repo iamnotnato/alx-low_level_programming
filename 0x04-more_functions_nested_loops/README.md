@@ -114,7 +114,7 @@
        * **Players take turns to count incrementally, replacing any number divisible by three with the word "fizz".**
        * **Any number divisible by five with the word "buzz".**
 
-> #### The quarterly results look great!
+> 💡Fun Fact :
 >
 > - Revenue was off the chart.
 > - Profits were higher than ever.
