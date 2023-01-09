@@ -37,37 +37,43 @@
     * Required : A function that swaps the values of two integers.
 
 > 💡**Fun Fact : “Don't change horses” is a phrase used to urge voters to stick with the incumbent president during times of turmoil and conflict.**
-   
+<hr>
+
 * **2. This report, by its very length, defends itself against the risk of being read**
   * File : [2-strlen.c](./2-strlen.c)
     * Required : A function that returns the length of a string.
 
 > 💡**Fun Fact : Quote by Winston S. Churchill — 'This paper, by its very length, defends itself from ever being read.'**
-   
+<hr>
+
 * **3. I do not fear computers. I fear the lack of them**
   * File : [3-puts.c](./3-puts.c)
     * Required : A function that prints a string, followed by a new line, to stdout.
 
 > 💡**Fun Fact : Quote by  Isaac Asimov — "I do not fear computers. I fear the lack of them."**
+<hr>
 
 * **4. I can only go one way. I've not got a reverse gear**
   * File : [4-print_rev.c](./4-print_rev.c)
     * Required : A function that prints a string, in reverse, followed by a new line.
 
 > 💡**Fun Fact : Quote by Tony Blair (2004). — "I can only go one way. I've not got a reverse gear."**
+<hr>
 
 * **5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes**
   * File : [5-rev_string.c](./5-rev_string.c)
     * Required : A function that reverses a string.
 
 > 💡**Fun Fact : “A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes.” — Quote by Helmut Jahn.**
- 
+<hr>
+
 * **6. Half the lies they tell about me aren't true**
   * File : [6-puts2.c](./6-puts2.c)
     * Required : A function that prints every other character of a string, starting with the first character, followed by a new line.
 
 > 💡**Fun Fact : "Half the lies they tell about me aren't true." - Quote by Yogi Berra**
-  
+<hr>
+
 * **7. Winning is only half of it. Having fun is the other half**
   * File : [7-puts_half.c](./7-puts_half.c)
     * Required : A function that prints half of a string, followed by a new line.
@@ -76,7 +82,8 @@
       * *If the number of characters is odd, the function should print the last n characters of the string, where n = (length_of_the_string - 1) / 2.*
 
 > 💡**Fun Fact : Quote by Bum Phillips: “Winning is only half of it. Having fun is the other half.”**
- 
+<hr>
+
 * **8. Arrays are not pointers**
   * File : [8-print_array.c](./8-print_array.c)
     * Required : A function that prints n elements of an array of integers, followed by a new line.
@@ -91,13 +98,15 @@
  
  💡**It’s a bit of a chicken and egg problem. Arrays look like pointers, and pointers can refer to array objects.**
    <br><br>
-   
+<hr>
+
 * **9. strcpy**
   * File : [9-strcpy.c](./9-strcpy.c)
     * Required : A function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
     * Expected Results : Return value: the pointer to dest
  <br><br>
- 
+<hr>
+
 * **10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers**
   * File : [100-atoi.c](./100-atoi.c)
     * Required : A function that convert a string to an integer.
@@ -112,7 +121,8 @@
 
 💡**Fun Fact : Quote by Simon Sinek : "Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers."**
    <br><br>
-   
+<hr>
+
 * **11. Don't hate the hacker, hate the code**
   * File : [101-keygen.c](./101-keygen.c)
     * Required : A program that generates random valid passwords for the program 101-crackme.*
@@ -123,3 +133,4 @@
 
 💡**Fun Fact : Don't Hate The Hacker Hate The Code - Hacking Security Notebook is a book by by Wanda Franks.**
  <br><br>
+ <hr>
