@@ -39,7 +39,7 @@
     * Required : A function that prints a string in reverse.
    
 > 💡 Fun Fact : 
-> - **Ariadne : "Why is it so important to dream?"*
+> - **Ariadne : "Why is it so important to dream?"**
 > - **Cobb : "Because, in my dreams we are together."**
 > - -**Inception (2010)**
 <hr>
