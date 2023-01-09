@@ -39,9 +39,9 @@
     * Required : A function that prints a string in reverse.
    
 > 💡 Fun Fact : 
-> **Ariadne : "Why is it so important to dream?"*
-> **Cobb : "Because, in my dreams we are together."**
-> **Inception (2010)**
+> - **Ariadne : "Why is it so important to dream?"*
+> - **Cobb : "Because, in my dreams we are together."**
+> - -**Inception (2010)**
 <hr>
   
 * **2. Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange**
