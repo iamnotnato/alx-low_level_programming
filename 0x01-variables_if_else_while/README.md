@@ -70,7 +70,7 @@
 * **10. Inventing is a combination of brains and materials. The more brains you use, the less material you need**
   * File : [100-print_comb3.c](./100-print_comb3.c)
     * Required : A program that prints all possible different combinations of two digits.
-    * Expected Results : ou can only use the putchar function (every other function (printf, puts, etc…) is forbidden).
+    * Expected Results : You can only use the putchar function (every other function (printf, puts, etc…) is forbidden).
 
 > 💡*Fun Fact : Quote by Charles Kettering: “Inventing is a combination of brains and materials. The more brains you use, the less material you need.”*
 
