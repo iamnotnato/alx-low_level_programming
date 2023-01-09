@@ -3,6 +3,7 @@
 
 <h4>List of Tasks:</h4>
 <hr>
+
 * **0. Preprocessor**
   * File : [0-preprocessor](./0-preprocessor)
     * Required : A script that runs a C file through the preprocessor and save the result into another file.
@@ -54,6 +55,7 @@
 > 💡*Fun Fact : Size is not grandeur, and territory does not make a nation is a quote made by Thomas Henry Huxley*
 
 <hr>
+
 * **7. Intel**
   * File : [100-intel](./100-intel)
     * Required : A script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
