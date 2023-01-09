@@ -110,9 +110,9 @@
     * Expected Results : Each number or word should be separated by a space
     
 > 💡**Fun Fact :**
-      > **Fizz buzz is a group word game for children to teach them about division.**
-      > * **Players take turns to count incrementally, replacing any number divisible by three with the word "fizz".**
-      > * **Any number divisible by five with the word "buzz".**
+      * **Fizz buzz is a group word game for children to teach them about division.**
+      * **Players take turns to count incrementally, replacing any number divisible by three with the word "fizz".**
+      * **Any number divisible by five with the word "buzz".**
 
 * **10. Triangles**
   * File : [10-print_triangle.c](./10-print_triangle.c)
