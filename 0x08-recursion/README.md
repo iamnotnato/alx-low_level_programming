@@ -29,7 +29,8 @@
 
 > 💡Fun Fact : 
 > * **"She had locked something away,something deep inside.**
-> * **A truth that she had once known,but chose to forget. ― Christopher J. Nolan, Inception: The Shooting Script.**
+> * **"A truth that she had once known,but chose to forget."
+> **― Christopher J. Nolan, Inception: The Shooting Script.**
 
 <hr>
 
