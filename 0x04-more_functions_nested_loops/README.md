@@ -108,18 +108,12 @@
       * **For multiples of three print Fizz instead of the number and for the  multiples of five print Buzz.**
       * **For numbers which are multiples of both three and five print FizzBuzz.**
     * Expected Results : Each number or word should be separated by a space
-    
-> 💡**Fun Fact :**
-       * **Fizz buzz is a group word game for children to teach them about division.**
-       * **Players take turns to count incrementally, replacing any number divisible by three with the word "fizz".**
-       * **Any number divisible by five with the word "buzz".**
 
 > 💡Fun Fact :
 >
 > - **Fizz buzz is a group word game for children to teach them about division.**
 > - **Players take turns to count incrementally, replacing any number divisible by three with the word "fizz".**
 > - **Any number divisible by five with the word "buzz".**
->  *Everything* is going according to **plan**.
 
 * **10. Triangles**
   * File : [10-print_triangle.c](./10-print_triangle.c)
