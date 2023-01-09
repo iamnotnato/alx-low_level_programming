@@ -1,4 +1,5 @@
 <h3>Project : 0x06-pointers_arrays_strings</h3>
+<hr>
 
 <h4>Essentials:</h4>
 
@@ -24,69 +25,74 @@
 | `104-print_buffer.c` | `void print_buffer(char *b, int size);`                        |
 
 <h4>List of Tasks:</h4>
+<hr>
 
 * **0. strcat**
   * File : [0-strcat.c](./0-strcat.c)
     * Required : A function that concatenates two strings.
     * Expected Results : Returns a pointer to the resulting string dest.
- <br><br>
+<hr>
 
 * **1. strncat**
   * File : [1-strncat.c](./1-strncat.c)
     * Required : A function that concatenates two strings.
     * Expected Results : Returns a pointer to the resulting string dest.
- <br><br>
+<hr>
   
 * **2. strncpy**
   * File : [2-strncpy.c](./2-strncpy.c)
     * Required : Your function should work exactly like strncpy.
     * Expected Results : Your function should work exactly like strncpy.
- <br><br>
+<hr>
   
 * **3. strcmp**
   * File : [3-strcmp.c](./3-strcmp.c)
     * Required : A function that compares two strings.
     * Expected Results : Your function should work exactly like strcmp.
- <br><br>
+<hr>
 
 * **4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy**
   * File : [4-rev_array.c](./4-rev_array.c)
     * Required : A function that reverses the content of an array of integers.
     * Expected Results : Where n is the number of elements of the array.
     
-💡*Fun Fact : Quote by J.D. Salinger — "I'm a kind of paranoiac in reverse. I suspect people of plotting to make me happy."*
- <br><br>
+> 💡*Fun Fact : Quote by J.D. Salinger — "I'm a kind of paranoiac in reverse. I suspect people of plotting to make me happy."*
+
+<hr>
   
 * **5. Always look up**
   * File : [5-string_toupper.c](./5-string_toupper.c)
     * Required : A function that changes all lowercase letters of a string to uppercase.
     * Expected Results : A function that changes all lowercase letters of a string to uppercase.
- <br><br>
+<hr>
 
 * **6. Expect the best. Prepare for the worst. Capitalize on what comes**
   * File : [6-cap_string.c](./6-cap_string.c)
     * Required : Write a function that capitalizes all words of a string.
     * Expected Results : Separators of words: space, tabulation, new line, ,, ;, ., !, ?, ", (, ), {, and }
     
-💡*Fun Fact : “Expect the best, prepare for the worst. Capitalize on what comes.” Zig Ziglar.*
- <br><br>
-  
+> 💡*Fun Fact : “Expect the best, prepare for the worst. Capitalize on what comes.” Zig Ziglar.*
+
+<hr>
+
 * **7. Mozart composed his music not for the elite, but for everybody**
   * File : [7-leet.c](./7-leet.c)
     * Required : A function that encodes a string into 1337.
     * Expected Results : You are not allowed to use any ternary operation.
     
-💡*Fun Fact : Mozart composed his music not for the elite, but for everybody. -Andre Rieu*
- <br><br>
+> 💡*Fun Fact : Mozart composed his music not for the elite, but for everybody. -Andre Rieu*
+
+<hr>
 
 * **8. rot13**
   * File : [100-rot13.c](./100-rot13.c)
     * Required : A function that encodes a string using rot13.
     * Expected Results : You can only use if statement once in your code.
     
-💡*Fun Fact : ROT13 is a simple letter substitution cipher that replaces a letter with the 13th letter after it in the alphabet.*
+> 💡*Fun Fact : ROT13 is a simple letter substitution cipher that replaces a letter with the 13th letter after it in the alphabet.*
    * **ROT13 is a special case of the Caesar cipher which was developed in ancient Rome.**
- <br><br>
+
+<hr>
   
 * **9. Numbers have life; they're not just symbols on paper**
   * File : [101-print_number.c](./101-print_number.c)
