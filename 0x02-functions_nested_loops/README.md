@@ -92,7 +92,6 @@
 <div align="left">
 <img src="https://github.com/iamnotnato/alx-low_level_programming/blob/master/0x02-functions_nested_loops/images/important.jpg">
  </div>
-  <br><br>
 
 <hr>
 
