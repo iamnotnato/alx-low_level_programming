@@ -34,17 +34,17 @@
 
 <hr>
 
-* **Why is it so important to dream? Because, in my dreams we are together**
+* **1. Why is it so important to dream? Because, in my dreams we are together**
   * File : [1-print_rev_recursion.c](./1-print_rev_recursion.c)
     * Required : A function that prints a string in reverse.
    
-💡*Fun Fact : "Ariadne : Why is it so important to dream?*
-    **Cobb : Because, in my dreams we are together.**
-    **Inception (2010)**
+> 💡 Fun Fact : 
+> **Ariadne : "Why is it so important to dream?"*
+> **Cobb : "Because, in my dreams we are together."**
+> **Inception (2010)**
 <hr>
-
   
-* **Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange**
+* **2. Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange**
   * File : [2-strlen_recursion.c](./2-strlen_recursion.c)
     * Required : A function that returns the length of a string.
 
