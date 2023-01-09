@@ -23,6 +23,7 @@
 | `101-keygen.c`       | `N/A`                                                          |
 
 <h4>List of Tasks:</h4>
+<hr>
 
 * **0. 98 Battery st.**
   * File : [0-reset_to_98.c](./0-reset_to_98.c)
