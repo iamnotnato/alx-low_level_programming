@@ -34,7 +34,6 @@
     * Required : A program that prints _putchar, followed by a new line.
     * Expected Results : The program should return 0
   <br><br>
-
 * **1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**
   * File : [1-alphabet.c](./1-alphabet.c)
     * Required : A function that prints the alphabet, in lowercase, followed by a new line.
@@ -46,22 +45,19 @@
   * File : [2-print_alphabet_x10.c](./2-print_alphabet_x10.c)
     * Required : A function that prints 10 times the alphabet, in lowercase, followed by a new line.
     * Expected Results : You can only use _putchar twice in your code    
-  <br><br>
-  
+  <br><br>  
 * **3. islower**
   * File : [3-islower.c](./3-islower.c)
     * Required : A function that checks for lowercase character.
     * Expected Results : Returns 1 if c is lowercase. Returns 0 otherwise
   <br><br>
-
 * **4. isalpha**
   * File : [4-isalpha.c](./4-isalpha.c)
     * Required : A function that checks for alphabetic character.
     * Expected Results :  
       * *Returns 1 if c is a letter, lowercase or uppercase.*
       * *Returns 0 otherwise.*
-      <br><br>
-  
+      <br><br>  
 * **5. Sign**
   * File : [5-sign.c](./5-sign.c)
     * Required : A function that prints the sign of a number.
@@ -70,7 +66,6 @@
       * *Returns 0 and prints 0 if n is zero.*
       * *Returns -1 and prints - if n is less than zero.*     
   <br>
-
 * **6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you**
   * File : [6-abs.c](./6-abs.c)
     * Required : A function that computes the absolute value of an integer.
