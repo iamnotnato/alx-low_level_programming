@@ -130,4 +130,4 @@
     * Required : The function must print the content of size bytes of the buffer pointed by b
     * Expected Results : The output should look like the example they provided and formatted exactly the same way.
     
-💡*Fun Fact : Margaret Heffernan Quote: “Noise is a buffer, more effective than cubicles or booth walls.”*
+> 💡*Fun Fact : Margaret Heffernan Quote: “Noise is a buffer, more effective than cubicles or booth walls.”*
