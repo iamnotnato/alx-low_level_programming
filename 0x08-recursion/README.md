@@ -30,7 +30,7 @@
 > 💡Fun Fact : 
 > - * **"She had locked something away,something deep inside."**
 > - * **"A truth that she had once known,but chose to forget."**
-> -Christopher J. Nolan, Inception (2010).
+> - -Christopher J. Nolan, Inception (2010).
 
 <hr>
 
