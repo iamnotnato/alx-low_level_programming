@@ -89,8 +89,9 @@
     * Required : A function that encodes a string using rot13.
     * Expected Results : You can only use if statement once in your code.
     
-> 💡*Fun Fact : ROT13 is a simple letter substitution cipher that replaces a letter with the 13th letter after it in the alphabet.*
-   * **ROT13 is a special case of the Caesar cipher which was developed in ancient Rome.**
+> 💡**Fun Fact :**
+> * **ROT13 is a simple letter substitution cipher that replaces a letter with the 13th letter after it in the alphabet.**
+> * **ROT13 is a special case of the Caesar cipher which was developed in ancient Rome.**
 
 <hr>
   
