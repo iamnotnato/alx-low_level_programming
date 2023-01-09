@@ -7,8 +7,7 @@
     * Required : Complete the source code in order to print whether the number stored in the variable n is positive or negative.
     * Expected Results : The variable n will store a different value every time you will run this program.
         
-💡*Fun Fact : Quote by Elbert Hubbard: “Positive anything is better than negative nothing.”*
-<br><br>
+> 💡*Fun Fact : Quote by Elbert Hubbard: “Positive anything is better than negative nothing.”*
 
 * **1. The last digit**
   * File : [1-last_digit.c](./1-last_digit.c)
@@ -21,8 +20,7 @@
     * Required : A program that prints the alphabet in lowercase, followed by a new line.
     * Expected Results : You can only use the putchar function (every other function (printf, puts, etc…) is forbidden).
 
-💡*Fun Fact : Quote by Roz Chast: I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game.*
-<br><br>
+> 💡*Fun Fact : Quote by Roz Chast: I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game.*
 
 * **3. alphABET**
   * File : [3-print_alphabets.c](./3-print_alphabets.c)
@@ -35,8 +33,7 @@
     * Required : A program that prints the alphabet in lowercase, followed by a new line.
     * Expected Results : You can only use the putchar function (every other function (printf, puts, etc…) is forbidden)
 
-💡*Fun Fact : Quote by Vanna White: “When I was having that alphabet soup, I never thought that it would pay off.”*
-<br><br>
+> 💡*Fun Fact : Quote by Vanna White: “When I was having that alphabet soup, I never thought that it would pay off.”*
 
 * **5. Numbers**
   * File : [5-print_numbers.c](./5-print_numbers.c)
@@ -55,8 +52,7 @@
     * Required : A program that prints the lowercase alphabet in reverse, followed by a new line.
     * Expected Results : You can only use the putchar function (every other function (printf, puts, etc…) is forbidden).
 
-💡*Fun Fact : Quote by Yoko Ono : “Smile in the mirror. Do that every morning and you’ll start to see a big difference in your life.”*
-<br><br>
+> 💡*Fun Fact : Quote by Yoko Ono : “Smile in the mirror. Do that every morning and you’ll start to see a big difference in your life.”*
 
 * **8. Hexadecimal**
   * File : [8-print_base16.c](./8-print_base16.c)
@@ -69,29 +65,25 @@
     * Required : A program that prints all possible combinations of single-digit numbers.
     * Expected Results : Numbers should be printed in ascending order.
 
-💡*Fun Fact : Quote by Napoleon Hill: “Patience, persistence and perspiration make an unbeatable combination for success.”*
-<br><br>
+> 💡*Fun Fact : Quote by Napoleon Hill: “Patience, persistence and perspiration make an unbeatable combination for success.”*
 
 * **10. Inventing is a combination of brains and materials. The more brains you use, the less material you need**
   * File : [100-print_comb3.c](./100-print_comb3.c)
     * Required : A program that prints all possible different combinations of two digits.
     * Expected Results : ou can only use the putchar function (every other function (printf, puts, etc…) is forbidden).
 
-💡*Fun Fact : Quote by Charles Kettering: “Inventing is a combination of brains and materials. The more brains you use, the less material you need.”*
-<br><br>
+> 💡*Fun Fact : Quote by Charles Kettering: “Inventing is a combination of brains and materials. The more brains you use, the less material you need.”*
 
 * **11. The success combination in business is: Do what you do better... and: do more of what you do...**
   * File : [103-infinite_add.c](./103-infinite_add.c)
     * Required : A program that prints all possible different combinations of three digits.
     * Expected Results : Print only the smallest combination of three digits.
 
-💡*Fun Fact : Quote by David Joseph Schwartz: “The success combination in business is: Do what you do better... and: do more of what you do.”*
-<br><br>
+> 💡*Fun Fact : Quote by David Joseph Schwartz: “The success combination in business is: Do what you do better... and: do more of what you do.”*
 
 * **12. Software is eating the World**
   * File : [102-print_comb5.c](./102-print_comb5.c)
     * Required : A program that prints all possible combinations of two two-digit numbers.
     * Expected Results : The combinations of numbers should be printed in ascending order.
 
-💡*Fun Fact : Quote by Marc Andreessen: “Software is eating the World”*
-
+> 💡*Fun Fact : Quote by Marc Andreessen: “Software is eating the World”*
