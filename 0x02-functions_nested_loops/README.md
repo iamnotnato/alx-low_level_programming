@@ -99,12 +99,10 @@
   * File : [9-times_table.c](./9-times_table.c)
     * Required : A function that prints the 9 times table, starting with 0.    
   <br><br>
-
 * **10. a + b**
   * File : [10-add.c](./10-add.c)
     * Required : A function that adds two integers and returns the result.    
-  <br><br>
-    
+  <br><br>    
 * **11. 98 Battery Street, the OG**
   * File : [11-print_to_98.c](./11-print_to_98.c)
     * Required : The function returns a pointer to the result
