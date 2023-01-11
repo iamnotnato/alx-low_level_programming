@@ -49,6 +49,10 @@
 >
 > *Cobb : "Because, in my dreams we are together."*
 >
+> *Leonardo DiCaprio as Cobb*
+>
+> *Elliot Page as Ariadne*
+> 
 > *Inception (2010)*
 <br>
   
@@ -76,9 +80,9 @@
 > 
 > *"You Mustn't Be Afraid To Dream A Little Bigger Darling".*
 >
-> *Tom Hardy.*
-> 
-> *2010 film Inception.*
+> *Tom Hardy	as Eames*
+>
+> *Inception (2010)*
 <br>
 
 * **4. Once an idea has taken hold of the brain it's almost impossible to eradicate**
@@ -105,9 +109,11 @@
 
 > 🎬*Movie Quote :*
 > 
-> *“Arthur : Your subconscious is looking for the dreamer; me."*
-> 
->  *Inception (2010)*
+> *“Your subconscious is looking for the dreamer; me."*
+>
+> *Joseph Gordon-Levitt	as	Arthur*
+>
+> *Inception (2010)*
 
 <br>
 
@@ -117,7 +123,9 @@
 
 >🎬*Movie Quote :*
 >
-> *“Saito: Inception. Is it possible?"*
+> *“Inception. Is it possible?"*
+> 
+> *Ken Watanabe	as	Saito*
 > 
 >  *Inception (2010)*
 
@@ -148,7 +156,7 @@
   
 > 🎬*Movie Quote :*
 > 
-> *Cobb: "Inception. Now, before you bother telling me it's impossible"*
+> *"Inception. Now, before you bother telling me it's impossible"*
 >
 > *Leonardo DiCaprio as Cobb*
 >
