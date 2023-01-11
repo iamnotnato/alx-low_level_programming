@@ -58,7 +58,9 @@
 > 
 > *Cobb : "Well dreams, they feel real while we're in them, right? It's only when we wake up that we realize how things are actually strange."*
 >
-> *"Let me ask you a question, you, you never really remember the beginning of a dream do you? You always wind up right in the middle of what's going on."*
+> *"Let me ask you a question, you, you never really remember the beginning of a dream do you?"*
+> 
+> *"You always wind up right in the middle of what's going on."*
 >
 > *Inception (2010) - Elliot Page as Ariadne*
 <br>
@@ -84,9 +86,11 @@
 
 > 🎬 *Movie Quote :*
 > 
-> *"Once an idea has taken hold of the brain it's almost impossible to eradicate. An idea that is fully formed - fully understood - that sticks; right in there somewhere.*
+> *"Once an idea has taken hold of the brain it's almost impossible to eradicate."*
+> 
+> *"An idea that is fully formed - fully understood - that sticks; right in there somewhere."*
 >
->*Leonardo DiCaprio as Cobb - Inception (2010)*
+> *Leonardo DiCaprio as Cobb - Inception (2010)*
 
 <br>
   
