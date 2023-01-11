@@ -107,7 +107,7 @@
     * Required : A function that returns the natural square root of a number.
     * Expected Results : If n does not have a natural square root, the function should return -1.
 
-> 🎬*`Movie Quote` :*
+> 🎬 *Movie Quote :*
 > 
 > *“Your subconscious is looking for the dreamer; me."*
 >
@@ -121,7 +121,7 @@
   * File : [6-is_prime_number.c](./6-is_prime_number.c)
     * Required : A  a function that returns 1 if the input integer is a prime number, otherwise return 0.
 
->🎬*Movie Quote :*
+>🎬 *Movie Quote :*
 >
 > *“Inception. Is it possible?"*
 > 
@@ -136,7 +136,7 @@
     * Required : A function that returns 1 if a string is a palindrome and 0 if not.
     * Note : An empty string is a palindrome
 
-> 🎬*Movie Quote :*
+> 🎬 *Movie Quote :*
 > 
 > *"They say we only use a fraction of our brain's true potential. Now that's when we're awake."*
 >
@@ -154,7 +154,7 @@
       * **s2 can contain the special character *.**
       * **The special char * can replace any string (including an empty string)**
   
-> 🎬*Movie Quote :*
+> 🎬 *Movie Quote :*
 > 
 > *"Inception. Now, before you bother telling me it's impossible"*
 >
