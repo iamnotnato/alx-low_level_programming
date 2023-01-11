@@ -33,7 +33,9 @@
 >
 > *"A truth that she had once known,but chose to forget."*
 >
-> *-Christopher J. Nolan, Inception (2010).*
+> *-Christopher J. Nolan.*
+> 
+>  *Inception (2010).*
 
 <br>
 
@@ -61,8 +63,10 @@
 > *"Let me ask you a question, you, you never really remember the beginning of a dream do you?"*
 > 
 > *"You always wind up right in the middle of what's going on."*
->
-> *Inception (2010) - Elliot Page as Ariadne*
+> 
+> *Elliot Page as Ariadne*
+> 
+> *Inception (2010) -
 <br>
   
 * **3. You mustn't be afraid to dream a little bigger, darling**
@@ -76,7 +80,9 @@
 > 
 > *"You Mustn't Be Afraid To Dream A Little Bigger Darling".*
 >
-> *A memorable quote uttered by Tom Hardy to Joseph Gordon Levitt from the 2010 film Inception.*
+> *A memorable quote uttered by Tom Hardy to Joseph Gordon Levitt.
+> 
+> *2010 film Inception.*
 <br>
 
 * **4. Once an idea has taken hold of the brain it's almost impossible to eradicate**
@@ -90,7 +96,9 @@
 > 
 > *"An idea that is fully formed - fully understood - that sticks; right in there somewhere."*
 >
-> *Leonardo DiCaprio as Cobb - Inception (2010)*
+> *Leonardo DiCaprio as Cobb *
+> 
+> *Inception (2010)*
 
 <br>
   
