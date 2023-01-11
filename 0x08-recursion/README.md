@@ -111,7 +111,7 @@
 > 
 > *“Your subconscious is looking for the dreamer; me."*
 >
-> *`Joseph Gordon-Levitt	as	Arthur`*
+> *`Joseph Gordon-Levitt	as Arthur`*
 >
 > *Inception (2010)*
 
@@ -125,7 +125,7 @@
 >
 > *“Inception. Is it possible?"*
 > 
-> *`Ken Watanabe	as	Saito`*
+> *`Ken Watanabe	as Saito`*
 > 
 >  *Inception (2010)*
 
