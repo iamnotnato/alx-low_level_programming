@@ -1,5 +1,5 @@
 <h3>Project : 0x06-pointers_arrays_strings</h3>
-<hr>
+<br>
 
 <h4>Essentials:</h4>
 
@@ -25,31 +25,31 @@
 | `104-print_buffer.c` | `void print_buffer(char *b, int size);`                        |
 
 <h4>List of Tasks:</h4>
-<hr>
+<br>
 
 * **0. strcat**
   * File : [0-strcat.c](./0-strcat.c)
     * Required : A function that concatenates two strings.
     * Expected Results : Returns a pointer to the resulting string dest.
-<hr>
+<br>
 
 * **1. strncat**
   * File : [1-strncat.c](./1-strncat.c)
     * Required : A function that concatenates two strings.
     * Expected Results : Returns a pointer to the resulting string dest.
-<hr>
+<br>
   
 * **2. strncpy**
   * File : [2-strncpy.c](./2-strncpy.c)
     * Required : Your function should work exactly like strncpy.
     * Expected Results : Your function should work exactly like strncpy.
-<hr>
+<br>
   
 * **3. strcmp**
   * File : [3-strcmp.c](./3-strcmp.c)
     * Required : A function that compares two strings.
     * Expected Results : Your function should work exactly like strcmp.
-<hr>
+<br>
 
 * **4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy**
   * File : [4-rev_array.c](./4-rev_array.c)
@@ -58,13 +58,13 @@
     
 > 💬 *Quote : J.D. Salinger — "I'm a kind of paranoiac in reverse. I suspect people of plotting to make me happy."*
 
-<hr>
+<br>
   
 * **5. Always look up**
   * File : [5-string_toupper.c](./5-string_toupper.c)
     * Required : A function that changes all lowercase letters of a string to uppercase.
     * Expected Results : A function that changes all lowercase letters of a string to uppercase.
-<hr>
+<br>
 
 * **6. Expect the best. Prepare for the worst. Capitalize on what comes**
   * File : [6-cap_string.c](./6-cap_string.c)
@@ -73,7 +73,7 @@
     
 > 💬 *Quote : “Expect the best, prepare for the worst. Capitalize on what comes.” Zig Ziglar.*
 
-<hr>
+<br>
 
 * **7. Mozart composed his music not for the elite, but for everybody**
   * File : [7-leet.c](./7-leet.c)
@@ -82,7 +82,7 @@
     
 > 💬 *Quote : Mozart composed his music not for the elite, but for everybody. -Andre Rieu*
 
-<hr>
+<br>
 
 * **8. rot13**
   * File : [100-rot13.c](./100-rot13.c)
@@ -95,7 +95,7 @@
 > 
 > *ROT13 is a special case of the Caesar cipher which was developed in ancient Rome.*
 
-<hr>
+<br>
   
 * **9. Numbers have life; they're not just symbols on paper**
   * File : [101-print_number.c](./101-print_number.c)
@@ -104,7 +104,7 @@
     
 > 💬 *Quote : Shakuntala Devi : Numbers have life; they're not just symbols on paper.*
 
-<hr>
+<br>
 
 * **10. A dream doesn't become reality through magic; it takes sweat, determination and hard work**
   * File : [102-magic.c](./102-magic.c)
@@ -113,7 +113,7 @@
     
 > 💬 *Quote : A dream doesn't become reality through magic; it takes sweat, determination and hard work. -Colin Powell*
 
-<hr>
+<br>
   
 * **11. It is the addition of strangeness to beauty that constitutes the romantic character in art**
   * File : [103-infinite_add.c](./103-infinite_add.c)
@@ -126,7 +126,7 @@
 > 
 > *It is the addition of strangeness to beauty that constitutes the romantic character in art.*
 
-<hr>
+<br>
 
 
 * **12. Noise is a buffer, more effective than cubicles or booth walls**
