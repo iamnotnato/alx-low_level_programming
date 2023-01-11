@@ -9,7 +9,7 @@
     * Required : Complete the source code in order to print whether the number stored in the variable n is positive or negative.
     * Expected Results : The variable n will store a different value every time you will run this program.
         
-> 💡*Fun Fact : Quote by Elbert Hubbard: “Positive anything is better than negative nothing.”*
+> 💬 *Quote : Quote by Elbert Hubbard: “Positive anything is better than negative nothing.”*
 
 <br>
 
@@ -24,7 +24,7 @@
     * Required : A program that prints the alphabet in lowercase, followed by a new line.
     * Expected Results : You can only use the putchar function (every other function (printf, puts, etc…) is forbidden).
 
-> 💡*Fun Fact : Quote by Roz Chast: I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game.*
+> 💬 *Quote : Quote by Roz Chast: I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game.*
 
 <br>
 
@@ -39,7 +39,7 @@
     * Required : A program that prints the alphabet in lowercase, followed by a new line.
     * Expected Results : You can only use the putchar function (every other function (printf, puts, etc…) is forbidden)
 
-> 💡*Fun Fact : Quote by Vanna White: “When I was having that alphabet soup, I never thought that it would pay off.”*
+> 💬 *Quote : Quote by Vanna White: “When I was having that alphabet soup, I never thought that it would pay off.”*
 
 <br>
 
@@ -60,7 +60,7 @@
     * Required : A program that prints the lowercase alphabet in reverse, followed by a new line.
     * Expected Results : You can only use the putchar function (every other function (printf, puts, etc…) is forbidden).
 
-> 💡*Fun Fact : Quote by Yoko Ono : “Smile in the mirror. Do that every morning and you’ll start to see a big difference in your life.”*
+> 💬 *Quote : Quote by Yoko Ono : “Smile in the mirror. Do that every morning and you’ll start to see a big difference in your life.”*
 
 <br>
 
@@ -76,7 +76,7 @@
     * Required : A program that prints all possible combinations of single-digit numbers.
     * Expected Results : Numbers should be printed in ascending order.
 
-> 💡*Fun Fact : Quote by Napoleon Hill: “Patience, persistence and perspiration make an unbeatable combination for success.”*
+> 💬 *Quote : Quote by Napoleon Hill: “Patience, persistence and perspiration make an unbeatable combination for success.”*
 
 <br>
 
@@ -85,7 +85,7 @@
     * Required : A program that prints all possible different combinations of two digits.
     * Expected Results : You can only use the putchar function (every other function (printf, puts, etc…) is forbidden).
 
-> 💡*Fun Fact : Quote by Charles Kettering: “Inventing is a combination of brains and materials. The more brains you use, the less material you need.”*
+> 💬 *Quote : Quote by Charles Kettering: “Inventing is a combination of brains and materials. The more brains you use, the less material you need.”*
 
 <br>
 
@@ -94,7 +94,7 @@
     * Required : A program that prints all possible different combinations of three digits.
     * Expected Results : Print only the smallest combination of three digits.
 
-> 💡*Fun Fact : Quote by David Joseph Schwartz: “The success combination in business is: Do what you do better... and: do more of what you do.”*
+> 💬 *Quote : Quote by David Joseph Schwartz: “The success combination in business is: Do what you do better... and: do more of what you do.”*
 
 <br>
 
@@ -103,4 +103,4 @@
     * Required : A program that prints all possible combinations of two two-digit numbers.
     * Expected Results : The combinations of numbers should be printed in ascending order.
 
-> 💡*Fun Fact : Quote by Marc Andreessen: “Software is eating the World”*
+> 💬 *Quote : Quote by Marc Andreessen: “Software is eating the World”*
