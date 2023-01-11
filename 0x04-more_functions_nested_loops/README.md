@@ -1,5 +1,5 @@
 <h3>Project : 0x04-more_functions_nested_loops</h3>
-<hr>
+<br>
 
 <h4>Essentials:</h4>
 
@@ -25,7 +25,7 @@
 | `101-print_number.c`        | `void print_number(int n);`                                    |
 
 <h4>List of Tasks:</h4>
-<hr>
+<br>
 
 * **0. isupper**
   * File : [0-isupper.c](./0-isupper.c)
@@ -33,7 +33,7 @@
     * Expected Results :
       * *Returns 1 if c is uppercase.*
       * *Returns 0 otherwise.*
-<hr>
+<br>
 
 * **1. isdigit**
   * File : [1-isdigit.c](./1-isdigit.c)
@@ -41,7 +41,7 @@
     * Expected Results :
       * *Returns 1 if c is uppercase.*
       * *Returns 0 otherwise*
-<hr>
+<br>
     
 * **2. Collaboration is multiplication**
   * File : [2-mul.c](./2-mul.c)
@@ -49,7 +49,7 @@
     
 > 💡*Fun Fact : Collaboration is multiplication.” — John C. Maxwell*
 
-<hr>
+<br>
 
 * **3. The numbers speak for themselves**
   * File : [3-print_numbers.c](./3-print_numbers.c)
@@ -58,7 +58,7 @@
     
 > 💡*Fun Fact : The numbers (or figures) speak for themselves" is a fixed expression often used to mean "if you remain to be convinced, look at the statistics or financial accounts".*
 
-<hr>
+<br>
 
 * **4. I believe in numbers and signs**
   * File : [4-print_most_numbers.c](./4-print_most_numbers.c)
@@ -69,7 +69,7 @@
       
 > 💡*Fun Fact : “I believe in numbers and signs.” — Vikram Chatwal*
 
-<hr>
+<br>
 
 * **5. Numbers constitute the only universal language**
   * File : [5-more_numbers.c](./5-more_numbers.c)
@@ -78,7 +78,7 @@
     
 > 💡*Fun Fact : Quote by Nathanael West: “Numbers constitute the only universal language.”*
 
-<hr>
+<br>
 
 * **6. The shortest distance between two points is a straight line**
   * File : [6-print_line.c](./6-print_line.c)
@@ -91,7 +91,7 @@
       
 > 💡*Fun Fact : It was Archimedes who first articulated that the shortest path between two points is a straight line.*
 
-<hr>
+<br>
 
 * **7. I feel like I am diagonally parked in a parallel universe**
   * File : [7-print_diagonal.c](./7-print_diagonal.c)
@@ -104,7 +104,7 @@
       
 > 💡*Fun Fact : Diagonally-Parked in a Parallel Universe : Working Through Social Anxiety is a book by Signe A. Dayhoff*
 
-<hr>
+<br>
 
 * **8. You are so much sunshine in every square inch**
   * File : [8-print_square.c](./8-print_square.c)
@@ -117,7 +117,7 @@
       
 > 💡*Fun Fact : “Some people are so much sunshine to the square inch.” ― Walt Whitman*
 
-<hr>
+<br>
 
 * **9. Fizz-Buzz**
   * File : [9-fizz_buzz.c](./9-fizz_buzz.c)
@@ -133,7 +133,7 @@
 > - **Players take turns to count incrementally, replacing any number divisible by three with the word "fizz".**
 > - **Any number divisible by five with the word "buzz".**
 
-<hr>
+<br>
 
 * **10. Triangles**
   * File : [10-print_triangle.c](./10-print_triangle.c)
@@ -143,7 +143,7 @@
       * *Where size is the size of the triangle.*
       * *If size is 0 or less, the function should print only a new line.*
       * *Use the character # to print the triangle.*
-<hr>
+<br>
   
 * **11. The problem of distinguishing prime numbers from composite numbers and of resolving the latter into their prime factors is known to be one of the most important and useful in arithmetic**
   * File : [100-prime_factor.c](./100-prime_factor.c)
@@ -154,7 +154,7 @@
     
 > 💡*Fun Fact : The problem of distinguishing prime numbers from composite numbers and of resolving the latter into their prime factors is known to be one of the most important and useful in arithmetic. -Carl Friedrich Gauss*
 
-<hr>
+<br>
 
 * **12. Numbers have life; they're not just symbols on paper**
   * File : [101-print_number.c](./101-print_number.c)
