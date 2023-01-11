@@ -42,7 +42,7 @@
     * Required : A function that prints the alphabet, in lowercase, followed by a new line.
     * Expected Results : You can only use _putchar twice in your code
     
-> 💬 *Quote : Quote by Roz Chast "I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game."*
+> 💬 *Quote : Roz Chast "I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game."*
 
 <br>
 
@@ -100,7 +100,9 @@
   * File : [8-24_hours.c](./8-24_hours.c)
     * Required : A function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
     
-> 💬 *Quote : A great memorable quote from the 24, Day 1 show by Jack Bauer:*
+> 💬 *Quote : A great memorable quote from the 24.*
+> 
+> *Day 1 show by Jack Bauer:*
 > 
 > *"I'm federal agent Jack Bauer. This is the longest day of my life."*
 
@@ -157,7 +159,9 @@
 >
 > *In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers.* 
 >
-> *Instead, I wrote a program that would steal passwords of students. My teacher gave me an A. – Kevin Mitnick*
+> *Instead, I wrote a program that would steal passwords of students. My teacher gave me an A.*
+> 
+> *– Kevin Mitnick*
 
 <br>
 
@@ -182,4 +186,6 @@
 > 
 > *In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers.*
 > 
-> *Instead, I wrote a program that would steal passwords of students. My teacher gave me an A. – Kevin Mitnick*
+> *Instead, I wrote a program that would steal passwords of students. My teacher gave me an A.*
+> 
+> *– Kevin Mitnick*
