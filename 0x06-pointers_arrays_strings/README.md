@@ -90,7 +90,9 @@
     * Expected Results : You can only use if statement once in your code.
     
 > 💡*Fun Fact :*
+> 
 > *ROT13 is a simple letter substitution cipher that replaces a letter with the 13th letter after it in the alphabet.*
+> 
 > *ROT13 is a special case of the Caesar cipher which was developed in ancient Rome.*
 
 <hr>
@@ -119,7 +121,9 @@
     * Expected Results : RIf the result can not be stored in r the function must return 0.
     
 > 💡*Fun Fact :*
+> 
 > *Walter Horatio Pater (4 August 1839 – 30 July 1894) was an English essayist and literary critic.*
+> 
 > *It is the addition of strangeness to beauty that constitutes the romantic character in art.*
 
 <hr>
