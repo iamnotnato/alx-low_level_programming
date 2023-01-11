@@ -52,7 +52,7 @@
     * Required : A C program that prints the size of various types on the computer it is compiled and run on.
     * Expected Results : The output should be the same as the example provided.
     
-> 💡*Fun Fact : Size is not grandeur, and territory does not make a nation is a quote made by Thomas Henry Huxley*
+> 💬 *Quote : Size is not grandeur, and territory does not make a nation by Thomas Henry Huxley*
 
 <br>
 
