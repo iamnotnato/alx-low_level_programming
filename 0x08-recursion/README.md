@@ -107,11 +107,11 @@
     * Required : A function that returns the natural square root of a number.
     * Expected Results : If n does not have a natural square root, the function should return -1.
 
-> 🎬*Movie Quote :*
+> 🎬*`Movie Quote` :*
 > 
 > *“Your subconscious is looking for the dreamer; me."*
 >
-> *`Joseph Gordon-Levittas Arthur`*
+> *`Joseph Gordon-Levitt as Arthur`*
 >
 > *Inception (2010)*
 
