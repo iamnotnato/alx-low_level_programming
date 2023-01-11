@@ -1,19 +1,19 @@
 <h3>Project : 0x03-debugging</h3>
-<hr>
+<br>
 
 <h4>Essentials:</h4>
 
 * [main.h](./main.h) : A Header file containing prototypes for all functions written in the project.
 
 <h4>List of Tasks:</h4>
-<hr>
+<br>
 
 * **0. Multiple mains**
   * File : [0-main.c](./0-main.c)
   * File : [main.h](./main.h)
     * Required : This file must test that the function positive_or_negative() gives the correct output when given a case of 0.
     * Expected Results : You are not allowed to add or remove lines of code, you may change only one line in this task.
-<hr>
+<br>
   
 * **1. Like, comment, subscribe**
   * File : [1-main.c](./1-main.c)
@@ -22,7 +22,7 @@
 
 > 💡*Fun Fact: Like, Comment, Subscribe: Inside YouTube's Chaotic Rise to World Domination is a book by Mark Bergen*
 
-<hr>
+<br>
     
 * **2. 0 > 972?**
   * File : [2-largest_number.c](./2-largest_number.c)
@@ -32,7 +32,7 @@
     
 > 💡*Fun Fact : Pill with imprint b 972 1 0 is Blue, Elliptical/Oval and has been identified as Amphetamine and Dextroamphetamine 10 mg.*
 
-<hr>
+<br>
 
 * **3. Leap year**
   * File : [3-print_remaining_days.c](./3-print_remaining_days.c)
