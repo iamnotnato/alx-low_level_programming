@@ -42,7 +42,7 @@
     * Required : A function that prints the alphabet, in lowercase, followed by a new line.
     * Expected Results : You can only use _putchar twice in your code
     
-> 💡*Fun Fact : Quote by Roz Chast "I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game."*
+> 💬 *Quote : Quote by Roz Chast "I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game."*
 
 <br>
 
@@ -79,7 +79,7 @@
   * File : [6-abs.c](./6-abs.c)
     * Required : A function that computes the absolute value of an integer.
     
-> 💡*Fun Fact : Quote by Charles Dudley Warner: There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you.*
+> 💬 *Quote : Quote by Charles Dudley Warner: There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you.*
 
 <br>
 
@@ -88,7 +88,7 @@
     * Required : A function that prints the last digit of a number.
     * Expected Results : Returns the value of the last digit.
     
-> 💡*There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important. ~Jim Rohn*
+> 💬 *Quote : There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important. ~Jim Rohn*
 
 <div align="left">
 <img src="https://github.com/iamnotnato/alx-low_level_programming/blob/master/0x02-functions_nested_loops/images/important.jpg">
@@ -100,14 +100,16 @@
   * File : [8-24_hours.c](./8-24_hours.c)
     * Required : A function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
     
-> 💡*Fun Fact : A great memorable quote from the 24, Day 1 show by Jack Bauer: "I'm federal agent Jack Bauer. This is the longest day of my life."*
+> 💬 *Quote : A great memorable quote from the 24, Day 1 show by Jack Bauer: 
+> 
+> "I'm federal agent Jack Bauer. This is the longest day of my life."*
 
 <br>
 
 * **9. Learn your times table**
   * File : [9-times_table.c](./9-times_table.c)
     * Required : A function that prints the 9 times table, starting with 0.    
-<hr>
+<br>
 
 * **10. a + b**
   * File : [10-add.c](./10-add.c)
@@ -132,7 +134,7 @@
     * Required : A function that prints the n times table, starting with 0.
     * Expected Results : If n is greater than 15 or less than 0 the function should not print anything.
     
-> 💡*Fun Fact : Quote by Ralph Waldo Emerson : “The world looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself.”*
+> 💬 *Quote : Quote by Ralph Waldo Emerson : “The world looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself.”*
 
 <br>
 
@@ -140,7 +142,9 @@
    * File : [101-natural.c](./101-natural.c)
       * Required : A program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
       
-> 💡*Fun Fact : “Natural numbers were created by God, everything else is the work of men.” Kronecker in a lecture for the Berliner Naturforscher Versammlung (1886).*
+> 💬 *Quote : “Natural numbers were created by God, everything else is the work of men.” 
+> 
+> Kronecker in a lecture for the Berliner Naturforscher Versammlung (1886).*
  
 <br>
 
@@ -149,7 +153,11 @@
         * Required : A program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
         * Expected Results : The numbers must be separated by comma, followed by a space.
         
-> 💡*Fun Fact : I think it goes back to my high school days. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A. – Kevin Mitnick*
+> 💬 *Quote : I think it goes back to my high school days. 
+>
+>  In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. 
+>
+>  Instead, I wrote a program that would steal passwords of students. My teacher gave me an A. – Kevin Mitnick*
 
 <br>
 
@@ -170,4 +178,8 @@
         * *You are not allowed to use long long, malloc, pointers, arrays/tables, or structures*
         * *You are not allowed to hard code any Fibonacci number (except for 1 and 2)*
         
-> 💡*Fun Fact : I think it goes back to my high school days. In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. Instead, I wrote a program that would steal passwords of students. My teacher gave me an A. – Kevin Mitnick*
+> 💬 *Quote : I think it goes back to my high school days. 
+> 
+> In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers.
+> 
+>   Instead, I wrote a program that would steal passwords of students. My teacher gave me an A. – Kevin Mitnick*
