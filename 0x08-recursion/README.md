@@ -101,7 +101,9 @@
 
 > 🎬*Movie Quote :*
 > 
-> *“Arthur : Your subconscious is looking for the dreamer; me. Inception (2010)*
+> *“Arthur : Your subconscious is looking for the dreamer; me."*
+> 
+>  *Inception (2010)*
 
 <br>
 
@@ -111,7 +113,9 @@
 
 >🎬*Movie Quote :*
 >
-> *“Saito: Inception. Is it possible? Inception (2010)*
+> *“Saito: Inception. Is it possible?"*
+> 
+>  *Inception (2010)*
 
 <br>
 
