@@ -33,7 +33,7 @@
 >
 > *"A truth that she had once known,but chose to forget."*
 >
-> *Leonardo DiCaprio as Cobb*
+> *`Leonardo DiCaprio as Cobb`*
 >
 > *Inception (2010)*
 
@@ -49,9 +49,9 @@
 >
 > *Cobb : "Because, in my dreams we are together."*
 >
-> *Leonardo DiCaprio as Cobb*
+> *`Leonardo DiCaprio as Cobb`*
 >
-> *Elliot Page as Ariadne*
+> *`Elliot Page as Ariadne`*
 > 
 > *Inception (2010)*
 <br>
@@ -64,7 +64,7 @@
 > 
 > "Well dreams, they feel real while we're in them, right? It's only when we wake up that we realize how things are actually strange."*
 >
-> *Leonardo DiCaprio as Cobb*
+> *`Leonardo DiCaprio as Cobb`*
 >
 > *Inception (2010)*
 <br>
@@ -80,7 +80,7 @@
 > 
 > *"You Mustn't Be Afraid To Dream A Little Bigger Darling".*
 >
-> *Tom Hardy	as Eames*
+> *`Tom Hardy	as Eames`*
 >
 > *Inception (2010)*
 <br>
@@ -96,7 +96,7 @@
 > 
 > *"An idea that is fully formed - fully understood - that sticks; right in there somewhere."*
 >
-> *Leonardo DiCaprio as Cobb*
+> *`Leonardo DiCaprio as Cobb`*
 >
 > *Inception (2010)*
 
@@ -111,7 +111,7 @@
 > 
 > *“Your subconscious is looking for the dreamer; me."*
 >
-> *Joseph Gordon-Levitt	as	Arthur*
+> *`Joseph Gordon-Levitt	as	Arthur`*
 >
 > *Inception (2010)*
 
@@ -125,7 +125,7 @@
 >
 > *“Inception. Is it possible?"*
 > 
-> *Ken Watanabe	as	Saito*
+> *`Ken Watanabe	as	Saito`*
 > 
 >  *Inception (2010)*
 
@@ -142,7 +142,7 @@
 >
 > *"When we're asleep, we can do almost anything."*
 >
-> *Leonardo DiCaprio as Cobb*
+> *`Leonardo DiCaprio as Cobb`*
 >
 > *Inception (2010)*
 <br>
@@ -158,6 +158,6 @@
 > 
 > *"Inception. Now, before you bother telling me it's impossible"*
 >
-> *Leonardo DiCaprio as Cobb*
+> *`Leonardo DiCaprio as Cobb`*
 >
 > *Inception (2010)*
