@@ -33,9 +33,9 @@
 >
 > *"A truth that she had once known,but chose to forget."*
 >
-> *Cobb*
-> 
-> *Inception (2010).*
+> *Leonardo DiCaprio as Cobb*
+>
+> *Inception (2010)*
 
 <br>
 
@@ -58,7 +58,9 @@
 
 > 🎬 *Movie Quote :*
 > 
-> *Cobb : "Well dreams, they feel real while we're in them, right? It's only when we wake up that we realize how things are actually strange."*
+> "Well dreams, they feel real while we're in them, right? It's only when we wake up that we realize how things are actually strange."*
+>
+> *Leonardo DiCaprio as Cobb*
 >
 > *Inception (2010)*
 <br>
@@ -90,8 +92,8 @@
 > 
 > *"An idea that is fully formed - fully understood - that sticks; right in there somewhere."*
 >
-> *Leonardo DiCaprio as Cobb *
-> 
+> *Leonardo DiCaprio as Cobb*
+>
 > *Inception (2010)*
 
 <br>
@@ -128,7 +130,7 @@
 
 > 🎬*Movie Quote :*
 > 
-> *Cobb : "They say we only use a fraction of our brain's true potential. Now that's when we're awake."*
+> *"They say we only use a fraction of our brain's true potential. Now that's when we're awake."*
 >
 > *"When we're asleep, we can do almost anything."*
 >
