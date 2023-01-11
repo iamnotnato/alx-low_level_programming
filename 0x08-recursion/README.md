@@ -111,7 +111,7 @@
 > 
 > *“Your subconscious is looking for the dreamer; me."*
 >
-> *`Joseph Gordon-Levitt	as Arthur`*
+> *`Joseph Gordon-Levittas Arthur`*
 >
 > *Inception (2010)*
 
