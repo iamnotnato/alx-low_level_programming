@@ -56,7 +56,7 @@
     * Required : A function that reverses the content of an array of integers.
     * Expected Results : Where n is the number of elements of the array.
     
-> 💡*Fun Fact : Quote by J.D. Salinger — "I'm a kind of paranoiac in reverse. I suspect people of plotting to make me happy."*
+> 💬 *Quote : J.D. Salinger — "I'm a kind of paranoiac in reverse. I suspect people of plotting to make me happy."*
 
 <hr>
   
@@ -71,7 +71,7 @@
     * Required : Write a function that capitalizes all words of a string.
     * Expected Results : Separators of words: space, tabulation, new line, ,, ;, ., !, ?, ", (, ), {, and }
     
-> 💡*Fun Fact : “Expect the best, prepare for the worst. Capitalize on what comes.” Zig Ziglar.*
+> 💬 *Quote : “Expect the best, prepare for the worst. Capitalize on what comes.” Zig Ziglar.*
 
 <hr>
 
@@ -80,7 +80,7 @@
     * Required : A function that encodes a string into 1337.
     * Expected Results : You are not allowed to use any ternary operation.
     
-> 💡*Fun Fact : Mozart composed his music not for the elite, but for everybody. -Andre Rieu*
+> 💬 *Quote : Mozart composed his music not for the elite, but for everybody. -Andre Rieu*
 
 <hr>
 
@@ -89,9 +89,9 @@
     * Required : A function that encodes a string using rot13.
     * Expected Results : You can only use if statement once in your code.
     
-> 💡**Fun Fact :**
-> * **ROT13 is a simple letter substitution cipher that replaces a letter with the 13th letter after it in the alphabet.**
-> * **ROT13 is a special case of the Caesar cipher which was developed in ancient Rome.**
+> 💡*Fun Fact :*
+> *ROT13 is a simple letter substitution cipher that replaces a letter with the 13th letter after it in the alphabet.*
+> *ROT13 is a special case of the Caesar cipher which was developed in ancient Rome.*
 
 <hr>
   
@@ -100,7 +100,7 @@
     * Required : A function that prints an integer.
     * Expected Results : You can only use _putchar function to print.
     
-> 💡*Fun Fact : Quote by Shakuntala Devi : Numbers have life; they're not just symbols on paper.*
+> 💬 *Quote : Shakuntala Devi : Numbers have life; they're not just symbols on paper.*
 
 <hr>
 
@@ -109,7 +109,7 @@
     * Required : You are not allowed to code anything else than the line of expected line of code at the expected line.
     * Expected Results : Add one line to the code provided, so that the program prints a[2] = 98, followed by a new line.
     
-> 💡*Fun Fact : A dream doesn't become reality through magic; it takes sweat, determination and hard work. -Colin Powell*
+> 💬 *Quote : A dream doesn't become reality through magic; it takes sweat, determination and hard work. -Colin Powell*
 
 <hr>
   
@@ -118,9 +118,9 @@
     * Required : The function returns a pointer to the result
     * Expected Results : RIf the result can not be stored in r the function must return 0.
     
-> 💡**Fun Fact :**
-> * **Walter Horatio Pater (4 August 1839 – 30 July 1894) was an English essayist and literary critic.**
-> * **It is the addition of strangeness to beauty that constitutes the romantic character in art.**
+> 💡*Fun Fact :*
+> *Walter Horatio Pater (4 August 1839 – 30 July 1894) was an English essayist and literary critic.*
+> *It is the addition of strangeness to beauty that constitutes the romantic character in art.*
 
 <hr>
 
@@ -130,4 +130,4 @@
     * Required : The function must print the content of size bytes of the buffer pointed by b
     * Expected Results : The output should look like the example they provided and formatted exactly the same way.
     
-> 💡*Fun Fact : Margaret Heffernan Quote: “Noise is a buffer, more effective than cubicles or booth walls.”*
+> 💬 *Quote : Margaret Heffernan : “Noise is a buffer, more effective than cubicles or booth walls.”*
