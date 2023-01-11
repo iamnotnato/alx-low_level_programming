@@ -79,7 +79,7 @@
   * File : [6-abs.c](./6-abs.c)
     * Required : A function that computes the absolute value of an integer.
     
-> 💬 *Quote : Quote by Charles Dudley Warner: There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you.*
+> 💬 *Quote : Charles Dudley Warner: There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you.*
 
 <br>
 
@@ -100,9 +100,9 @@
   * File : [8-24_hours.c](./8-24_hours.c)
     * Required : A function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
     
-> 💬 *Quote : A great memorable quote from the 24, Day 1 show by Jack Bauer: 
+> 💬 *Quote : A great memorable quote from the 24, Day 1 show by Jack Bauer:*
 > 
-> "I'm federal agent Jack Bauer. This is the longest day of my life."*
+> *"I'm federal agent Jack Bauer. This is the longest day of my life."*
 
 <br>
 
@@ -134,7 +134,7 @@
     * Required : A function that prints the n times table, starting with 0.
     * Expected Results : If n is greater than 15 or less than 0 the function should not print anything.
     
-> 💬 *Quote : Quote by Ralph Waldo Emerson : “The world looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself.”*
+> 💬 *Quote : Ralph Waldo Emerson : “The world looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself.”*
 
 <br>
 
@@ -142,9 +142,9 @@
    * File : [101-natural.c](./101-natural.c)
       * Required : A program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
       
-> 💬 *Quote : “Natural numbers were created by God, everything else is the work of men.” 
+> 💬 *Quote : “Natural numbers were created by God, everything else is the work of men.”*
 > 
-> Kronecker in a lecture for the Berliner Naturforscher Versammlung (1886).*
+> *Kronecker in a lecture for the Berliner Naturforscher Versammlung (1886).*
  
 <br>
 
@@ -153,11 +153,11 @@
         * Required : A program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
         * Expected Results : The numbers must be separated by comma, followed by a space.
         
-> 💬 *Quote : I think it goes back to my high school days. 
+> 💬 *Quote : I think it goes back to my high school days.*
 >
->  In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers. 
+> *In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers.* 
 >
->  Instead, I wrote a program that would steal passwords of students. My teacher gave me an A. – Kevin Mitnick*
+> *Instead, I wrote a program that would steal passwords of students. My teacher gave me an A. – Kevin Mitnick*
 
 <br>
 
@@ -178,8 +178,8 @@
         * *You are not allowed to use long long, malloc, pointers, arrays/tables, or structures*
         * *You are not allowed to hard code any Fibonacci number (except for 1 and 2)*
         
-> 💬 *Quote : I think it goes back to my high school days. 
+> 💬 *Quote : I think it goes back to my high school days.* 
 > 
-> In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers.
+> *In computer class, the first assignment was to write a program to print the first 100 Fibonacci numbers.*
 > 
->   Instead, I wrote a program that would steal passwords of students. My teacher gave me an A. – Kevin Mitnick*
+> *Instead, I wrote a program that would steal passwords of students. My teacher gave me an A. – Kevin Mitnick*
