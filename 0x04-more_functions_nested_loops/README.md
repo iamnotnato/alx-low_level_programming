@@ -47,7 +47,7 @@
   * File : [2-mul.c](./2-mul.c)
     * Required : A function that multiplies two integers.
     
-> 💡*Fun Fact : Collaboration is multiplication.” — John C. Maxwell*
+> 💬 *Quote : Collaboration is multiplication.” — John C. Maxwell*
 
 <br>
 
@@ -56,7 +56,7 @@
     * Required : A function that prints the numbers, from 0 to 9, followed by a new line.
     * Expected Results : You can only use _putchar twice in your code
     
-> 💡*Fun Fact : The numbers (or figures) speak for themselves" is a fixed expression often used to mean "if you remain to be convinced, look at the statistics or financial accounts".*
+> 💭 *Expression : The numbers (or figures) speak for themselves" is a fixed expression often used to mean "if you remain to be convinced, look at the statistics or financial accounts".*
 
 <br>
 
@@ -67,7 +67,7 @@
       * *Do not print 2 and 4.*
       * *You can only use _putchar twice in your code.*
       
-> 💡*Fun Fact : “I believe in numbers and signs.” — Vikram Chatwal*
+> 💬 *Quote : “I believe in numbers and signs.” — Vikram Chatwal*
 
 <br>
 
@@ -76,7 +76,7 @@
     * Required : A function that prints 10 times the numbers, from 0 to 14, followed by a new line.
     * Expected Results : You can only use _putchar three times in your code
     
-> 💡*Fun Fact : Quote by Nathanael West: “Numbers constitute the only universal language.”*
+> 💬 *Quote : Nathanael West: “Numbers constitute the only universal language.”*
 
 <br>
 
@@ -102,7 +102,7 @@
       * *The diagonal should end with a \n.*
       * *If n is 0 or less, the function should only print \n.*
       
-> 💡*Fun Fact : Diagonally-Parked in a Parallel Universe : Working Through Social Anxiety is a book by Signe A. Dayhoff*
+> 📚 *Book : Diagonally-Parked in a Parallel Universe : Working Through Social Anxiety is a book by Signe A. Dayhoff*
 
 <br>
 
@@ -115,7 +115,7 @@
       * *If size is 0 or less, the function should print only a new line.*
       * *Use the character # to print the square.*
       
-> 💡*Fun Fact : “Some people are so much sunshine to the square inch.” ― Walt Whitman*
+> 💬 *Quote : “Some people are so much sunshine to the square inch.” ― Walt Whitman*
 
 <br>
 
@@ -130,7 +130,9 @@
 > 💡Fun Fact :
 >
 > - **Fizz buzz is a group word game for children to teach them about division.**
+> 
 > - **Players take turns to count incrementally, replacing any number divisible by three with the word "fizz".**
+> 
 > - **Any number divisible by five with the word "buzz".**
 
 <br>
@@ -152,7 +154,9 @@
         
     * **gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-prime_factor.c -o 100-prime_factor -lm**
     
-> 💡*Fun Fact : The problem of distinguishing prime numbers from composite numbers and of resolving the latter into their prime factors is known to be one of the most important and useful in arithmetic. -Carl Friedrich Gauss*
+> 💬 *Quote : The problem of distinguishing prime numbers from composite numbers and of resolving the latter into their prime factors is known to be one of the most important and useful in arithmetic.*
+> 
+> *-Carl Friedrich Gauss*
 
 <br>
 
@@ -165,4 +169,4 @@
     * *You are not allowed to use arrays or pointers.*
     * *You are not allowed to hard-code special values.*
     
-> 💡*Fun Fact : Quote by Shakuntala Devi : Numbers have life; they're not just symbols on paper.*
+> 💬 *Quote : Shakuntala Devi : Numbers have life; they're not just symbols on paper.*
