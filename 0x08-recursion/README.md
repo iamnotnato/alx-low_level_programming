@@ -28,6 +28,7 @@
     * Required : A function that prints a string, followed by a new line.
 
 > 🎬 *Movie Quote :*
+> 
 > *"She had locked something away,something deep inside."*
 >
 > *"A truth that she had once known,but chose to forget."*
@@ -41,6 +42,7 @@
     * Required : A function that prints a string in reverse.
    
 > 🎬 *Movie Quote :*
+> 
 > *Ariadne : "Why is it so important to dream?"*
 >
 > *Cobb : "Because, in my dreams we are together."*
@@ -53,6 +55,7 @@
     * Required : A function that returns the length of a string.
 
 > 🎬 *Movie Quote :*
+> 
 > *Cobb : "Well dreams, they feel real while we're in them, right? It's only when we wake up that we realize how things are actually strange."*
 >
 > *"Let me ask you a question, you, you never really remember the beginning of a dream do you? You always wind up right in the middle of what's going on."*
@@ -68,6 +71,7 @@
       * **Factorial of 0 is 1.**
 
 > 🎬 *Movie Quote :*
+> 
 > *"You Mustn't Be Afraid To Dream A Little Bigger Darling".*
 >
 >A memorable quote uttered by Tom Hardy to Joseph Gordon Levitt from the 2010 film Inception.*
@@ -79,6 +83,7 @@
     * Expected Results : If y is lower than 0, the function should return -1
 
 > 🎬 *Movie Quote :*
+> 
 > *"Once an idea has taken hold of the brain it's almost impossible to eradicate. An idea that is fully formed - fully understood - that sticks; right in there somewhere.*
 >
 >*Leonardo DiCaprio as Cobb - Inception (2010)*
@@ -91,6 +96,7 @@
     * Expected Results : If n does not have a natural square root, the function should return -1.
 
 > 🎬*Movie Quote :*
+> 
 > *“Arthur : Your subconscious is looking for the dreamer; me. Inception (2010)*
 
 <br>
@@ -100,6 +106,7 @@
     * Required : A  a function that returns 1 if the input integer is a prime number, otherwise return 0.
 
 >🎬*Movie Quote :*
+>
 > *“Saito: Inception. Is it possible? Inception (2010)*
 
 <br>
@@ -110,6 +117,7 @@
     * Note : An empty string is a palindrome
 
 > 🎬*Movie Quote :*
+> 
 > *Cobb : "They say we only use a fraction of our brain's true potential. Now that's when we're awake."*
 >
 > *"When we're asleep, we can do almost anything."*
@@ -125,7 +133,7 @@
       * **The special char * can replace any string (including an empty string)**
   
 > 🎬*Movie Quote :*
+> 
 > *Cobb: "Inception. Now, before you bother telling me it's impossible"*
 >
 > *Leonardo DiCaprio as Cobb*
-
