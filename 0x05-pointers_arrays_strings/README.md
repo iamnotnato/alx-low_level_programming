@@ -65,14 +65,14 @@
   * File : [5-rev_string.c](./5-rev_string.c)
     * Required : A function that reverses a string.
 
-> 💡**Fun Fact : “A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes.” — Quote by Helmut Jahn.**
+> 💬 *Quote : “A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes.” — Helmut Jahn.*
 <br>
 
 * **6. Half the lies they tell about me aren't true**
   * File : [6-puts2.c](./6-puts2.c)
     * Required : A function that prints every other character of a string, starting with the first character, followed by a new line.
 
-> 💡**Fun Fact : "Half the lies they tell about me aren't true." - Quote by Yogi Berra**
+> 💬 *Quote : "Half the lies they tell about me aren't true." - Yogi Berra*
 <br>
 
 * **7. Winning is only half of it. Having fun is the other half**
@@ -82,7 +82,7 @@
       * *The function should print the second half of the string.*
       * *If the number of characters is odd, the function should print the last n characters of the string, where n = (length_of_the_string - 1) / 2.*
 
-> 💡**Fun Fact : Quote by Bum Phillips: “Winning is only half of it. Having fun is the other half.”**
+> 💬 *Quote : Bum Phillips: “Winning is only half of it. Having fun is the other half.”*
 <br>
 
 * **8. Arrays are not pointers**
@@ -119,7 +119,7 @@
       * *You are not allowed to hard-code special values.*
       * *We will use the -fsanitize=signed-integer-overflow gcc flag to compile your code.*
 
-> 💡**Fun Fact : Quote by Simon Sinek : "Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers."**
+> 💬 *Quote : "Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers."*
 
 <br>
 
@@ -131,4 +131,4 @@
       * *man srand, rand, time.*
       * *gdb and objdump can help.*
 
-> 💡**Fun Fact : Don't Hate The Hacker Hate The Code - Hacking Security Notebook is a book by by Wanda Franks.**
+> 📚 *Book : Don't Hate The Hacker Hate The Code - Hacking Security Notebook is a book by by Wanda Franks.**
