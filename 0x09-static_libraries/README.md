@@ -1,4 +1,4 @@
-<h3>Project : 0x08-recursion</h3>
+<h3>Project : 0x09-static_libraries</h3>
 <hr>
 
 <h4>Essentials:</h4>
@@ -6,31 +6,43 @@
 * [main.h](./main.h) : A Header file containing prototypes for all functions written in the project.
 * [_putchar.c](./_putchar.c) : A C function that writes a character to `stdout`.
 
-<h4>Prototypes Required:</h4>
-
-| File                         | Prototype                               |
-| -----------------------------| ----------------------------------------|
-| `0-puts_recursion.c`         | `void _puts_recursion(char *s);`        |
-| `1-print_rev_recursion.c`    | `void _print_rev_recursion(char *s);`   |
-| `2-strlen_recursion.c`       | `int _strlen_recursion(char *s);`       |
-| `3-factorial.c`              | `int factorial(int n);`                 |
-| `4-pow_recursion.c`          | `int _pow_recursion(int x, int y);`     |
-| `5-sqrt_recursion.c`         | `int _sqrt_recursion(int n);`           |
-| `6-is_prime_number.c`        | `int is_prime_number(int n);`           |
-| `100-is_palindrome.c`        | `int is_palindrome(char *s);`           |
-| `101-wildcmp.c`              | `int wildcmp(char *s1, char *s2);`      |
-
 <h4>List of Tasks:</h4>
 <hr>
 
-* **0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget**
-  * File : [0-puts_recursion.c](./0-puts_recursion.c)
-    * Required : A function that prints a string, followed by a new line.
+* **0. A library is not a luxury but one of the necessities of life**
+  * File : 
+    * **[libmy.a](./libmy.a)**
+    * **[main.h](./main.h)**
+  * Required : A the static library libmy.a containing all the functions listed below:
+    
+| Prototype                                                   |
+| ------------------------------------------------------------|
+| `int _putchar(char c);`                                     |
+| `int _islower(int c);`                                      |
+| `int _isalpha(int c);`                                      |
+| `int _abs(int n);`                                          |
+| `int _isupper(int c);`                                      |
+| `int _isdigit(int c);`                                      |
+| `int _strlen(char *s);`                                     |
+| `void _puts(char *s);`                                      |
+| `char *_strcpy(char *dest, char *src);`                     |
+| `int _atoi(char *s);`                                       |
+| `char *_strcat(char *dest, char *src);`                     |
+| `char *_strncat(char *dest, char *src, int n);`             |
+| `char *_strncpy(char *dest, char *src, int n);`             |
+| `int _strcmp(char *s1, char *s2);`                          |
+| `char *_memset(char *s, char b, unsigned int n);`           |
+| `char *_memcpy(char *dest, char *src, unsigned int n);`     |
+| `char *_strchr(char *s, char c);`                           |
+| `unsigned int _strspn(char *s, char *accept);`              |
+| `char *_strpbrk(char *s, char *accept);`                    |
+| `char *_strstr(char *haystack, char *needle);`              |
 
-> 💡Fun Fact : 
-> - * **"She had locked something away,something deep inside."**
-> - * **"A truth that she had once known,but chose to forget."**
-> -  -Christopher J. Nolan, Inception (2010).
+> 💬 Quote : 
+> Henry Ward Beecher, American social reformer (1813-1887) said, 
+
+> **"A library is not a luxury but one of the necessities of life."**
+
 
 <hr>
 
