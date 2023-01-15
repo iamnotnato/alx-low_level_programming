@@ -115,3 +115,21 @@
 > **This line is spoken by Buzz Lightyear in the movie Toy Story (1995).**
 > 
 > **Buzz considers this his catchphrase…which it is, except that there happen to be a million Buzzes in toy stores around the world.**
+
+> Compiler:
+>
+> `$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-change.c -o change`
+
+
+> Sample test cases :
+> $ ./change 
+> Error
+> $ ./change 10
+> 1
+> $ ./change 100
+> 4
+> $ ./change 101
+> 5
+> $ ./change 13
+> 3
+> $ 
