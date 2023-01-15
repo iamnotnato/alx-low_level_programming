@@ -104,11 +104,11 @@
 
 <br>
 
-    * **📑 Task :** A program that prints the minimum number of coins to make change for an amount of money.
+   * **📑 Task :** A program that prints the minimum number of coins to make change for an amount of money.
 
 <br>
 
-    * **📝 Required :**
+   * **📝 Required :**
        
        * **Usage: ./change cents**
        * **Where cents is the amount of cents you need to give back**
