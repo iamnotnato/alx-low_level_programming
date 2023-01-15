@@ -98,10 +98,15 @@
   
 📁 **5. Minimal Number of Coins for Change**
 
+<br>
+
   * **💾 File** : [100-change.c](./100-change.c)
+
+<br>
 
     * **📑 Task :** A program that prints the minimum number of coins to make change for an amount of money.
 
+<br>
 
     * **📝 Required :**
        
