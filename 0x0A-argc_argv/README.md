@@ -108,7 +108,7 @@
 
 <br>
 
-   * **📝 Required :**
+> 📝 **Required :**
        
        > Usage: ./change cents**
        > 
