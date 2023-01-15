@@ -56,12 +56,14 @@
 
 <br>
   
-* **3. You mustn't be afraid to dream a little bigger, darling**
-  * File : [3-factorial.c](./3-factorial.c)
-    * Required : A function that returns the factorial of a given number.
+* **3. Neither irony nor sarcasm is argument**
+  * File : [3-mul.c](./3-mul.c)
+    * Required : A program that multiplies two numbers.
     * Expected Results : 
-      * **If n is lower than 0, the function should return -1 to indicate an error.**
-      * **Factorial of 0 is 1.**
+      * **Your program should print the result of the multiplication, followed by a new line**
+      * **You can assume that the two numbers and result of the multiplication can be stored in an integer**
+      * **If the program does not receive two arguments,
+        * **your program should print Error,followed by a new line, and return 1**
 
 > 💡Fun Fact :
 > * **"You Mustn't Be Afraid To Dream A Little Bigger Darling" is a memorable quote uttered by Tom Hardy to Joseph Gordon Levitt from the 2010 film Inception.**
