@@ -41,14 +41,19 @@
 
 <br>
   
-* **2. Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange**
-  * File : [2-strlen_recursion.c](./2-strlen_recursion.c)
-    * Required : A function that returns the length of a string.
+* **2. The best argument against democracy is a five-minute conversation with the average voter**
+  * File : [2-args.c](./2-args.c)
+    * Required : A program that prints all arguments it receives.
+    * Expected Results : 
+      * **All arguments should be printed, including the first one**
+      * **Only print one argument per line, ending with a new line**
 
-> 💡Fun Fact :
-> * **Cobb : "Well dreams, they feel real while we're in them, right? It's only when we wake up that we realize how things are actually strange."**
-> * **"Let me ask you a question, you, you never really remember the beginning of a dream do you? You always wind up right in the middle of what's going on."**
-> - -**Inception (2010) - Elliot Page as Ariadne**
+<br>
+
+> 💬 *Quote :*
+> 
+> **This quotation is usually attributed to Winston Churchill but there is no evidence he ever said it.**
+
 <br>
   
 * **3. You mustn't be afraid to dream a little bigger, darling**
