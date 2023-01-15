@@ -96,43 +96,22 @@
 
 <br>
   
-* **5. Your subconscious is looking for the dreamer**
-  * File : [5-sqrt_recursion.c](./5-sqrt_recursion.c)
-    * Required : A function that returns the natural square root of a number.
-    * Expected Results : If n does not have a natural square root, the function should return -1.
-
-> 💡**Fun Fact : “Arthur : Your subconscious is looking for the dreamer; me. Inception (2010)**
-
-<br>
-
-* **6. Inception. Is it possible?**
-  * File : [6-is_prime_number.c](./6-is_prime_number.c)
-    * Required : A  a function that returns 1 if the input integer is a prime number, otherwise return 0.
-
->💡*Fun Fact : “Saito: Inception. Is it possible? Inception (2010)*
-
-<br>
-
-* **7. They say we only use a fraction of our brain's true potential. Now that's when we're awake. When we're asleep, we can do almost anything**
-  * File : [100-is_palindrome.c](./100-is_palindrome.c)
-    * Required : A function that returns 1 if a string is a palindrome and 0 if not.
-    * Note : An empty string is a palindrome
-
-> 💡*Fun Fact :
-> - Cobb : "They say we only use a fraction of our brain's true potential. Now that's when we're awake."
-> - "When we're asleep, we can do almost anything."
-> - -**Leonardo DiCaprio as Cobb**
-<br>
-  
-* **8. Inception. Now, before you bother telling me it's impossible...**
-  * File : [101-wildcmp.c](./101-wildcmp.c)
-    * Required : A function that compares two strings and returns 1 if the strings can be considered identical, otherwise return 0.
+* **5. Minimal Number of Coins for Change**
+  * File : [100-change.c](./100-change.c)
+    * Required : A program that prints the minimum number of coins to make change for an amount of money.
     * Expected Results : 
-      * **s2 can contain the special character *.**
-      * **The special char * can replace any string (including an empty string)**
-  
-> 💡*Fun Fact : 
-> - **Cobb: "Inception. Now, before you bother telling me it's impossible"**
-> - **Leonardo DiCaprio as Cobb**
+      * **Usage: ./change cents**
+      * **Where cents is the amount of cents you need to give back**
+      * **You should use atoi to parse the parameter passed to your program**
+      * **If the number passed as the argument is negative, print 0, followed by a new line**
+      * **You can use an unlimited number of coins of values 25, 10, 5, 2, and 1 cent**
+      * **if the number of arguments passed to your program is not exactly 1**
+        * **Your program should print Error, followed by a new line, and return 1**
 
+<br>
 
+> 💬 *Quote :*
+> 
+> **This line is spoken by Buzz Lightyear in the movie Toy Story (1995).**
+> 
+> **Buzz considers this his catchphrase…which it is, except that there happen to be a million Buzzes in toy stores around the world.**
