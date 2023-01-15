@@ -38,9 +38,9 @@
 | `char *_strpbrk(char *s, char *accept);`                    |
 | `char *_strstr(char *haystack, char *needle);`              |
 
-> 💬 Quote : 
+> 💬 *Quote :*
 >
-> Henry Ward Beecher, American social reformer (1813-1887) said, 
+> *Henry Ward Beecher, American social reformer (1813-1887) said,* 
 >
 > **"A library is not a luxury but one of the necessities of life."**
 
@@ -50,7 +50,8 @@
   * File : [create_static_lib.sh](./create_static_lib.sh)
     * Required : A script called create_static_lib.sh that creates a static library called liball.a from all the .c files that are in the current directory.
    
-> 💬 Quote : 
-> Ray Bradbury once said, 
+> 💬 *Quote :* 
 > 
-> “Without Libraries what have we? We have no past and no future.” 
+> *Ray Bradbury once said,*
+> 
+> **“Without Libraries what have we? We have no past and no future.”**
