@@ -119,17 +119,17 @@
 > Sample test cases :
 
 ```
-julien@ubuntu:~/0x0A. argc, argv$ ./change 
+$ ./change 
 Error
-julien@ubuntu:~/0x0A. argc, argv$ ./change 10
+$ ./change 10
 1
-julien@ubuntu:~/0x0A. argc, argv$ ./change 100
+$ ./change 100
 4
-julien@ubuntu:~/0x0A. argc, argv$ ./change 101
+$ ./change 101
 5
-julien@ubuntu:~/0x0A. argc, argv$ ./change 13
+$ ./change 13
 3
-julien@ubuntu:~/0x0A. argc, argv$ 
+$ 
 
 ```
 
