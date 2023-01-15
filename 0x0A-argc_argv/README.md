@@ -96,7 +96,7 @@
 
 <br>
   
-* **📁 5. Minimal Number of Coins for Change**
+* 📁 **5. Minimal Number of Coins for Change**
 
   * **File** : [100-change.c](./100-change.c)
 
