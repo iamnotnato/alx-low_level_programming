@@ -119,29 +119,17 @@
 > Sample test cases :
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+julien@ubuntu:~/0x0A. argc, argv$ ./change 
+Error
+julien@ubuntu:~/0x0A. argc, argv$ ./change 10
+1
+julien@ubuntu:~/0x0A. argc, argv$ ./change 100
+4
+julien@ubuntu:~/0x0A. argc, argv$ ./change 101
+5
+julien@ubuntu:~/0x0A. argc, argv$ ./change 13
+3
+julien@ubuntu:~/0x0A. argc, argv$ 
+
 ```
 
-> `$ ./change` 
-> 
-> `Error`
-> 
-> `$ ./change 10`
-> 
-> `1`
-> 
-> `$ ./change 100`
-> 
-> `4`
-> 
-> `$ ./change 101`
-> 
->`5`
-> 
-> `$ ./change 13`
-> 
-> `3`
-> 
-> `$` 
