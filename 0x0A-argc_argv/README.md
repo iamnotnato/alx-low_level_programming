@@ -111,10 +111,15 @@
    * **📝 Required :**
        
        > Usage: ./change cents**
+       > 
        > Where cents is the amount of cents you need to give back**
+       > 
        > You should use atoi to parse the parameter passed to your program**
+       > 
        > If the number passed as the argument is negative, print 0, followed by a new line**
+       > 
        > You can use an unlimited number of coins of values 25, 10, 5, 2, and 1 cent**
+       > 
        > If the number of arguments passed to your program is not exactly 1**
            > Your program should print Error, followed by a new line, and return 1**
 
