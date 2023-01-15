@@ -118,6 +118,12 @@
 - [x] If the number of arguments passed to your program is not exactly 1**
       - [x] Your program should print Error, followed by a new line, and return 1**
 
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
 <br>
 
 > ⚙️ Compiler:
