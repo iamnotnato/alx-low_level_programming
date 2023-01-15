@@ -201,11 +201,15 @@
 
 > Mathematically, the fibonacci sequence  is represented with this formula  
 
-> F(n) = F(n-1) + F(n-2) (not  to be spoken in audio)  where n>1 
+> F(n) = F(n-1) + F(n-2) where n>1 
 
-> You can use this expression to find any ‘n’th digit in the sequence. This fascinating sequence is widely associated  with the mathematician, Leonardo Pisano, aka  Fibonacci. 
+> You can use this expression to find any ‘n’th digit in the sequence.
 
-> He hailed from the Republic of Pisa, which is why he is also known as Leonardo  of Pisa and was known as one of the most talented mathematicians of the Middle ages. 
+>This fascinating sequence is widely associated  with the mathematician, Leonardo Pisano, aka  Fibonacci. 
+
+> He hailed from the Republic of Pisa, which is why he is also known as Leonardo of Pisa.
+
+> He was known as one of the most talented mathematicians of the Middle ages. 
 
 > Fibonacci brought them to the western world in  1202 through his now-famous book Liber Abaci.  
 
