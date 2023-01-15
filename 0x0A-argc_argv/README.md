@@ -103,7 +103,7 @@
     * **📑 Required :** A program that prints the minimum number of coins to make change for an amount of money.
 
 
-    * **📑 Expected Results :**
+    * **📝 Expected Results :**
       * **Usage: ./change cents**
       * **Where cents is the amount of cents you need to give back**
       * **You should use atoi to parse the parameter passed to your program**
