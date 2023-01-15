@@ -119,10 +119,10 @@
       - [x] Your program should print Error, followed by a new line, and return 1**
 
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| Syntax |
+| ----------- |
+| Header | 
+| Paragraph |
 
 <br>
 
