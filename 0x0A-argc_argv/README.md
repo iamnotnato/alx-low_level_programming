@@ -112,7 +112,7 @@
 
 <br>
 
-|-| Guides |
+|| Guides |
 |-| ----------- |
 |-| Usage: ./change cents | 
 |-| Where cents is the amount of cents you need to give back |
