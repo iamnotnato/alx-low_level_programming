@@ -193,6 +193,8 @@
 
 <h4>Footnotes</h4>
 
+>In mathematics, the Fibonacci numbers, commonly denoted Fₙ
+
 > The Fibonacci sequence is a series of numbers in which a given number is the addition of the two numbers before it. So, if you start with 0, the next number will be 1, followed by 1, followed  by 2, followed by 3 and so on.  
 
 > 0, 1,  1, 2, 3, 5, 8, 13, 21, 34, 55…..  
