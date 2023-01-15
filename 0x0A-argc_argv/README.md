@@ -97,7 +97,9 @@
 <br>
   
 * **5. Minimal Number of Coins for Change**
+
   * File : [100-change.c](./100-change.c)
+
     * Required : A program that prints the minimum number of coins to make change for an amount of money.
     * Expected Results : 
       * **Usage: ./change cents**
