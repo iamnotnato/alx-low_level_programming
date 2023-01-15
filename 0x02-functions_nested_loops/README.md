@@ -90,6 +90,7 @@
     
 > 💬 *Quote : There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important. ~Jim Rohn*
 
+<br>
 <div align="left">
 <img src="https://github.com/iamnotnato/alx-low_level_programming/blob/master/0x02-functions_nested_loops/images/important.jpg">
  </div>
