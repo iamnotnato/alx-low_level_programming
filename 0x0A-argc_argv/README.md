@@ -114,16 +114,25 @@
 >
 > `$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-change.c -o change`
 
+<br>
 
 > Sample test cases :
+> 
 > $ ./change 
+> 
 > Error
 > $ ./change 10
+> 
 > 1
 > $ ./change 100
+> 
 > 4
 > $ ./change 101
+> 
 > 5
+> 
 > $ ./change 13
+> 
 > 3
+> 
 > $ 
