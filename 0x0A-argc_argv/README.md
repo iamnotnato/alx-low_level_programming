@@ -114,7 +114,7 @@
 
 |#| Guides |
 |--| ----------- |
-|1| Usage: ./change cents | 
+|-| Usage: ./change cents | 
 |2| Where cents is the amount of cents you need to give back |
 |3| You should use atoi to parse the parameter passed to your program | 
 |4| If the number passed as the argument is negative, print 0, followed by a new line |
