@@ -75,14 +75,24 @@
 
 <br>
 
-* **4. Once an idea has taken hold of the brain it's almost impossible to eradicate**
-  * File : [4-pow_recursion.c](./4-pow_recursion.c)
-    * Required : A function that returns the value of x raised to the power of y.
-    * Expected Results : If y is lower than 0, the function should return -1
+* **4. To infinity and beyond**
+  * File : [4-add.c](./4-add.c)
+    * Required : A program that adds positive numbers.
+    * Expected Results : 
+      * **Print the result, followed by a new line**
+      * **If no number is passed to the program, print 0, followed by a new line**
+      * **You can assume that numbers and the addition of all the numbers can be stored in an int**
+      * **If one of the number contains symbols that are not digits**
+        * **Your program should print Error, followed by a new line, and return 1**
 
-> 💡Fun Fact : 
-> * **"Once an idea has taken hold of the brain it's almost impossible to eradicate. An idea that is fully formed - fully understood - that sticks; right in there somewhere.**
->* **Leonardo DiCaprio as Cobb - Inception (2010) - IMDb**
+<br>
+
+> 💬 *Quote :*
+> 
+> **This line is spoken by Buzz Lightyear in the movie Toy Story (1995).**
+> 
+> **Buzz considers this his catchphrase…which it is, except that there happen to be a million Buzzes in toy stores around the world.**
+
 
 <br>
   
