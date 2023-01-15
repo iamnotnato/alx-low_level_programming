@@ -118,21 +118,24 @@
 
 > Sample test cases :
 > 
-> $ ./change 
+> `$ ./change` 
 > 
-> Error
-> $ ./change 10
+> `Error`
 > 
-> 1
-> $ ./change 100
+> `$ ./change 10`
 > 
-> 4
-> $ ./change 101
+> `1`
 > 
-> 5
+> `$ ./change 100`
 > 
-> $ ./change 13
+> `4`
 > 
-> 3
+> `$ ./change 101`
 > 
-> $ 
+>`5`
+> 
+> `$ ./change 13`
+> 
+> `3`
+> 
+> `$` 
