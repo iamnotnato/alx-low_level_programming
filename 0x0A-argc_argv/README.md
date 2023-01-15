@@ -65,8 +65,14 @@
       * **If the program does not receive two arguments,**
         * **Your program should print Error,followed by a new line, and return 1**
 
-> 💡Fun Fact :
-> * **"You Mustn't Be Afraid To Dream A Little Bigger Darling" is a memorable quote uttered by Tom Hardy to Joseph Gordon Levitt from the 2010 film Inception.**
+<br>
+
+> 💬 *Quote :*
+> 
+> **Neither irony or sarcasm is argument.**
+>
+> **Samuel Butler**
+
 <br>
 
 * **4. Once an idea has taken hold of the brain it's almost impossible to eradicate**
