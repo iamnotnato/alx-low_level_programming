@@ -24,14 +24,17 @@
 
 <br>
 
-* **1. Why is it so important to dream? Because, in my dreams we are together**
-  * File : [1-print_rev_recursion.c](./1-print_rev_recursion.c)
-    * Required : A function that prints a string in reverse.
+* **1. Silence is argument carried out by other means**
+  * File : [1-args.c](./1-args.c)
+    * Required : A program that prints the number of arguments passed into it.
+    * Expected Results : Your program should print a number, followed by a new line
    
-> 💡 Fun Fact : 
-> - **Ariadne : "Why is it so important to dream?"**
-> - **Cobb : "Because, in my dreams we are together."**
-> - -**Inception (2010)**
+> 💬 *Quote :*
+> 
+> **Silence is argument carried on by other means.**
+>
+> **Che Guevara.**
+
 <br>
   
 * **2. Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange**
