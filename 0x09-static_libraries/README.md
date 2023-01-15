@@ -38,6 +38,8 @@
 | `char *_strpbrk(char *s, char *accept);`                    |
 | `char *_strstr(char *haystack, char *needle);`              |
 
+<br>
+    
 > 💬 *Quote :*
 >
 > *Henry Ward Beecher, American social reformer (1813-1887) said,* 
