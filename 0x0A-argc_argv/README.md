@@ -114,16 +114,11 @@
 |-| If the number of arguments passed to your program is not exactly 1.                |
 | | Your program should print Error, followed by a new line, and return 1.             |
 
-
-<br>
-
 > ⚙️ Compiler:
 
 ```
 $ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-change.c -o change
 ```
-
-<br>
 
 > ✔️ Sample test cases :
 
