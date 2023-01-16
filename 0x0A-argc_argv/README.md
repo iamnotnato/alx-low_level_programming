@@ -1,118 +1,138 @@
-<h3>Project : 0x08-recursion</h3>
-<hr>
+<h3>Project : 0x0A. C - argc, argv</h3>
+<br>
 
 <h4>Essentials:</h4>
 
 * [main.h](./main.h) : A Header file containing prototypes for all functions written in the project.
 * [_putchar.c](./_putchar.c) : A C function that writes a character to `stdout`.
 
-<h4>Prototypes Required:</h4>
-
-| File                         | Prototype                               |
-| -----------------------------| ----------------------------------------|
-| `0-puts_recursion.c`         | `void _puts_recursion(char *s);`        |
-| `1-print_rev_recursion.c`    | `void _print_rev_recursion(char *s);`   |
-| `2-strlen_recursion.c`       | `int _strlen_recursion(char *s);`       |
-| `3-factorial.c`              | `int factorial(int n);`                 |
-| `4-pow_recursion.c`          | `int _pow_recursion(int x, int y);`     |
-| `5-sqrt_recursion.c`         | `int _sqrt_recursion(int n);`           |
-| `6-is_prime_number.c`        | `int is_prime_number(int n);`           |
-| `100-is_palindrome.c`        | `int is_palindrome(char *s);`           |
-| `101-wildcmp.c`              | `int wildcmp(char *s1, char *s2);`      |
-
 <h4>List of Tasks:</h4>
-<hr>
+<br>
 
-* **0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget**
-  * File : [0-puts_recursion.c](./0-puts_recursion.c)
-    * Required : A function that prints a string, followed by a new line.
+* **0. It ain't what they call you, it's what you answer to**
+  * File : [0-whatsmyname.c](./0-whatsmyname.c)
+    * Required : A program that prints its name, followed by a new line.
+    * Expected Results : 
+      * **If you rename the program, it will print the new name, without having to compile it again**
+      * **You should not remove the path before the name of the program**
 
-> 💡Fun Fact : 
-> - * **"She had locked something away,something deep inside."**
-> - * **"A truth that she had once known,but chose to forget."**
-> -  -Christopher J. Nolan, Inception (2010).
+<br>
 
-<hr>
+> 💬 *Quote :*
+> 
+> **It ain't what they call you, it's what you answer to.**
+>
+> **W. C. Fields**
 
-* **1. Why is it so important to dream? Because, in my dreams we are together**
-  * File : [1-print_rev_recursion.c](./1-print_rev_recursion.c)
-    * Required : A function that prints a string in reverse.
+<br>
+
+* **1. Silence is argument carried out by other means**
+  * File : [1-args.c](./1-args.c)
+    * Required : A program that prints the number of arguments passed into it.
+    * Expected Results : Your program should print a number, followed by a new line.
+
+<br>
    
-> 💡 Fun Fact : 
-> - **Ariadne : "Why is it so important to dream?"**
-> - **Cobb : "Because, in my dreams we are together."**
-> - -**Inception (2010)**
-<hr>
-  
-* **2. Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange**
-  * File : [2-strlen_recursion.c](./2-strlen_recursion.c)
-    * Required : A function that returns the length of a string.
+> 💬 *Quote :*
+> 
+> **Silence is argument carried on by other means.**
+>
+> **Che Guevara.**
 
-> 💡Fun Fact :
-> * **Cobb : "Well dreams, they feel real while we're in them, right? It's only when we wake up that we realize how things are actually strange."**
-> * **"Let me ask you a question, you, you never really remember the beginning of a dream do you? You always wind up right in the middle of what's going on."**
-> - -**Inception (2010) - Elliot Page as Ariadne**
-<hr>
+<br>
   
-* **3. You mustn't be afraid to dream a little bigger, darling**
-  * File : [3-factorial.c](./3-factorial.c)
-    * Required : A function that returns the factorial of a given number.
+* **2. The best argument against democracy is a five-minute conversation with the average voter**
+  * File : [2-args.c](./2-args.c)
+    * Required : A program that prints all arguments it receives.
     * Expected Results : 
-      * **If n is lower than 0, the function should return -1 to indicate an error.**
-      * **Factorial of 0 is 1.**
+      * **All arguments should be printed, including the first one**
+      * **Only print one argument per line, ending with a new line**
 
-> 💡Fun Fact :
-> * **"You Mustn't Be Afraid To Dream A Little Bigger Darling" is a memorable quote uttered by Tom Hardy to Joseph Gordon Levitt from the 2010 film Inception.**
-<hr>
+<br>
 
-* **4. Once an idea has taken hold of the brain it's almost impossible to eradicate**
-  * File : [4-pow_recursion.c](./4-pow_recursion.c)
-    * Required : A function that returns the value of x raised to the power of y.
-    * Expected Results : If y is lower than 0, the function should return -1
+> 💬 *Quote :*
+> 
+> **This quotation is usually attributed to Winston Churchill but there is no evidence he ever said it.**
 
-> 💡Fun Fact : 
-> * **"Once an idea has taken hold of the brain it's almost impossible to eradicate. An idea that is fully formed - fully understood - that sticks; right in there somewhere.**
->* **Leonardo DiCaprio as Cobb - Inception (2010) - IMDb**
-
-<hr>
+<br>
   
-* **5. Your subconscious is looking for the dreamer**
-  * File : [5-sqrt_recursion.c](./5-sqrt_recursion.c)
-    * Required : A function that returns the natural square root of a number.
-    * Expected Results : If n does not have a natural square root, the function should return -1.
-
-> 💡**Fun Fact : “Arthur : Your subconscious is looking for the dreamer; me. Inception (2010)**
-
-<hr>
-
-* **6. Inception. Is it possible?**
-  * File : [6-is_prime_number.c](./6-is_prime_number.c)
-    * Required : A  a function that returns 1 if the input integer is a prime number, otherwise return 0.
-
->💡*Fun Fact : “Saito: Inception. Is it possible? Inception (2010)*
-
-<hr>
-
-* **7. They say we only use a fraction of our brain's true potential. Now that's when we're awake. When we're asleep, we can do almost anything**
-  * File : [100-is_palindrome.c](./100-is_palindrome.c)
-    * Required : A function that returns 1 if a string is a palindrome and 0 if not.
-    * Note : An empty string is a palindrome
-
-> 💡*Fun Fact :
-> - Cobb : "They say we only use a fraction of our brain's true potential. Now that's when we're awake."
-> - "When we're asleep, we can do almost anything."
-> - -**Leonardo DiCaprio as Cobb**
-<hr>
-  
-* **8. Inception. Now, before you bother telling me it's impossible...**
-  * File : [101-wildcmp.c](./101-wildcmp.c)
-    * Required : A function that compares two strings and returns 1 if the strings can be considered identical, otherwise return 0.
+* **3. Neither irony nor sarcasm is argument**
+  * File : [3-mul.c](./3-mul.c)
+    * Required : A program that multiplies two numbers.
     * Expected Results : 
-      * **s2 can contain the special character *.**
-      * **The special char * can replace any string (including an empty string)**
-  
-> 💡*Fun Fact : 
-> - **Cobb: "Inception. Now, before you bother telling me it's impossible"**
-> - **Leonardo DiCaprio as Cobb**
+      * **Your program should print the result of the multiplication, followed by a new line**
+      * **You can assume that the two numbers and result of the multiplication can be stored in an integer**
+      * **If the program does not receive two arguments,**
+        * **Your program should print Error,followed by a new line, and return 1**
 
+<br>
+
+> 💬 *Quote :*
+> 
+> **Neither irony or sarcasm is argument.**
+>
+> **Samuel Butler**
+
+<br>
+
+* **4. To infinity and beyond**
+  * File : [4-add.c](./4-add.c)
+    * Required : A program that adds positive numbers.
+    * Expected Results : 
+      * **Print the result, followed by a new line**
+      * **If no number is passed to the program, print 0, followed by a new line**
+      * **You can assume that numbers and the addition of all the numbers can be stored in an int**
+      * **If one of the number contains symbols that are not digits**
+        * **Your program should print Error, followed by a new line, and return 1**
+
+<br>
+
+> 💬 *Quote :*
+> 
+> **This line is spoken by Buzz Lightyear in the movie Toy Story (1995).**
+> 
+> **Buzz considers this his catchphrase…which it is, except that there happen to be a million Buzzes in toy stores around the world.**
+
+
+<br>
+  
+📁 **5. Minimal Number of Coins for Change**
+
+> 💾 **File** : [100-change.c](./100-change.c)
+
+> 📑 **Task :** A program that prints the minimum number of coins to make change for an amount of money.
+
+> 📝 **Required :** 
+
+| | Guides                                                                             |
+|-| ---------------------------------------------------------------------------------- |
+|-| Usage: ./change cents.                                                             | 
+|-| Where cents is the amount of cents you need to give back.                          |
+|-| You should use atoi to parse the parameter passed to your program.                 | 
+|-| If the number passed as the argument is negative, print 0, followed by a new line. |
+|-| You can use an unlimited number of coins of values 25, 10, 5, 2, and 1 cent.       | 
+|-| If the number of arguments passed to your program is not exactly 1.                |
+| | Your program should print Error, followed by a new line, and return 1.             |
+
+> ⚙️ Compiler:
+
+```
+$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-change.c -o change
+```
+
+> ✔️ Sample test cases :
+
+```
+$ ./change 
+Error
+$ ./change 10
+1
+$ ./change 100
+4
+$ ./change 101
+5
+$ ./change 13
+3
+$
+```
 

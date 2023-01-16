@@ -43,5 +43,6 @@ These are projects that helped me understand a bit of low-level programming.
 * [0x09. - (hex) number | Decimal Equivalent 09 C - Static libraries](./0x09-static_libraries)
 * [0x0A. - (hex) number | Decimal Equivalent 10 C - argc, argv](./0x0A-argc_argv)
 * [0x0B. - (hex) number | Decimal Equivalent 11 C - malloc, free](./0x0B-malloc_free)
+* [0x0C. - (hex) number | Decimal Equivalent 12 C - More malloc, free](./0x0C-more_malloc_free)
 
 </center>

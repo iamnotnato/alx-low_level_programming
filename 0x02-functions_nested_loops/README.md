@@ -90,6 +90,7 @@
     
 > 💬 *Quote : There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important. ~Jim Rohn*
 
+<br>
 <div align="left">
 <img src="https://github.com/iamnotnato/alx-low_level_programming/blob/master/0x02-functions_nested_loops/images/important.jpg">
  </div>
@@ -189,3 +190,33 @@
 > *Instead, I wrote a program that would steal passwords of students. My teacher gave me an A.*
 > 
 > *– Kevin Mitnick*
+
+
+<h4>Footnotes</h4>
+
+>In mathematics, the Fibonacci numbers, commonly denoted Fₙ
+
+> The Fibonacci sequence is a series of numbers in which a given number is the addition of the two numbers before it. So, if you start with 0, the next number will be 1, followed by 1, followed  by 2, followed by 3 and so on.  
+
+> 0, 1,  1, 2, 3, 5, 8, 13, 21, 34, 55…..  
+
+> Mathematically, the fibonacci sequence  is represented with this formula  
+
+> F(n) = F(n-1) + F(n-2) where n>1 
+
+> You can use this expression to find any ‘n’th digit in the sequence.
+
+>This fascinating sequence is widely associated  with the mathematician, Leonardo Pisano, aka  Fibonacci. 
+
+> He hailed from the Republic of Pisa, which is why he is also known as Leonardo of Pisa.
+
+> He was known as one of the most talented mathematicians of the Middle ages. 
+
+> Fibonacci brought them to the western world in  1202 through his now-famous book Liber Abaci.  
+
+> There’s another exciting offshoot of the  Fibonacci sequence - the golden ratio.  
+
+> It’s represented by the Greek letter phi ( ϕ ). Write down the Fibonacci sequence on a piece  
+
+> Fibonacci numbers have the golden ratio,  the value of which is close to 1.618033…  
+
