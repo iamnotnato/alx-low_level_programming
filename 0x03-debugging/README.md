@@ -47,8 +47,30 @@
 > 📑 **Task :** This file must test that the function positive_or_negative() gives the correct output when given a case of 0.
 > 
 > 📝 **Required :**  You are not allowed to add or remove lines of code, you may change only one line in this task.
-> 
+
 <br>
+
+> ⚙️ Compiler:
+
+```
+$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-change.c -o change
+```
+
+> ✔️ Sample test cases :
+
+```
+$ ./change 
+Error
+$ ./change 10
+1
+$ ./change 100
+4
+$ ./change 101
+5
+$ ./change 13
+3
+$
+```
   
 > 📁 **1. Like, comment, subscribe**
 > 💾 **File** : [1-main.c](./1-main.c)
