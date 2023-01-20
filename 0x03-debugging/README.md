@@ -3,7 +3,7 @@
 <br>
 
 > 📝 **Summary:**
-
+>
 > These are projects that helped me understand The C Programming Language.
 
 <br>
