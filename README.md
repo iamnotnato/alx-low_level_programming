@@ -1,10 +1,14 @@
 > 🚧 **Project :** alx-low_level_programming
- 
+
+<br>
+
 <div>
   <a href="https://github.com/iamnotnato/alx-low_level_programming">
     <img src="https://github.com/iamnotnato/alx-low_level_programming/blob/master/images/icon.png" alt="Logo" width="100" height="100">
   </a>
 </div>
+
+<br>
 
 > 📝 **Summary:**
 
@@ -51,7 +55,7 @@
 | 09 | [0x09. - C - Static libraries](./0x09-static_libraries)                              |
 | 10 | [0x0A. - C - argc, argv](./0x0A-argc_argv)                                           | 
 | 11 | [0x0B. - C - malloc, free](./0x0B-malloc_free)                                       | 
-| 12 | [0x0C. - C - More malloc, free](./0x0C. C - More malloc, free)                       | 
+| 12 | [0x0C. - C - More malloc, free](./0x0C-more_malloc_free)                       | 
 | 13 | [0x0D. C - Preprocessor](./0x0D-preprocessor)                                        |
 | 14 | [0x0E. C - Structures, typedef](./0x0E-structures_typedef)                           | 
 | 15 | [0x0F. C - Function pointers](./0x0F-function_pointers)                              | 
