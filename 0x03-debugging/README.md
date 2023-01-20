@@ -53,25 +53,20 @@
 > ⚙️ Compiler:
 
 ```
-$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-change.c -o change
+$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 positive_or_negative.c 0-main.c -o 0-main
 ```
 
 > ✔️ Sample test cases :
 
 ```
-$ ./change 
-Error
-$ ./change 10
-1
-$ ./change 100
-4
-$ ./change 101
-5
-$ ./change 13
-3
-$
+$ ./0-main
+0 is zero
+$ wc -l 0-main.c
+16 1-main.c
 ```
-  
+
+<br>
+
 > 📁 **1. Like, comment, subscribe**
 > 💾 **File** : [1-main.c](./1-main.c)
 > 📑 **Task :** Comment out (don’t delete it!) the part of the code that is causing the output to go into an infinite loop.
