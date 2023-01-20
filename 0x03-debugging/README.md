@@ -39,10 +39,15 @@
 <br>
 
 > 📁 **0. Multiple mains**
+> 
 > 💾 **File** : [0-main.c](./0-main.c)
-  * File : [main.h](./main.h)
+> 
+> 💾 **File** : [main.h](./main.h)
+> 
 > 📑 **Task :** This file must test that the function positive_or_negative() gives the correct output when given a case of 0.
-    * Expected Results : You are not allowed to add or remove lines of code, you may change only one line in this task.
+> 
+> 📝 **Required :**  You are not allowed to add or remove lines of code, you may change only one line in this task.
+> 
 <br>
   
 > 📁 **1. Like, comment, subscribe**
