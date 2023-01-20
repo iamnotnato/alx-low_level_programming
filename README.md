@@ -1,14 +1,19 @@
+> 🚧 **Project :** alx-low_level_programming
+ 
 <div>
-  <h4>Project : alx-low_level_programming</h4>
   <a href="https://github.com/iamnotnato/alx-low_level_programming">
     <img src="https://github.com/iamnotnato/alx-low_level_programming/blob/master/images/icon.png" alt="Logo" width="100" height="100">
   </a>
 </div>
 
-<h4>Summary: </h4>
-These are projects that helped me understand a bit of low-level programming.
+> 📝 **Summary:**
 
-<h4>Languages Used</h4>
+> These are projects that helped me understand a bit of low-level programming.
+
+<br>
+
+> ⌨️ **Languages Used :**
+
 <table>
   <tr>
     <td><img alt="medium" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></td>
@@ -17,7 +22,10 @@ These are projects that helped me understand a bit of low-level programming.
   </tr>
 </table>
 
-<h4>Integrated Development Environment:</h4>
+<br>
+
+> 🖥️ **Integrated Development Environment:**
+
 <table>
   <tr>
 <td><img alt="medium" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white"></td>
@@ -27,22 +35,24 @@ These are projects that helped me understand a bit of low-level programming.
   
 ![Alt](https://repobeats.axiom.co/api/embed/50a392e676820ce03006d38197b98899827faf15.svg "Repobeats analytics image")
 
-  
+<br>
 
-<h4>Projects Guide: </h4>
-
-* [0x00. - (hex) number | Decimal Equivalent 00 C - Hello, World](./0x00-hello_world)
-* [0x01. - (hex) number | Decimal Equivalent 01 C - Variables, if, else, while](./0x01-variables_if_else_while)
-* [0x02. - (hex) number | Decimal Equivalent 02 C - Functions & Nested Loops](./0x02-functions_nested_loops)
-* [0x03. - (hex) number | Decimal Equivalent 03 C - Debugging](./0x03-debugging)
-* [0x04. - (hex) number | Decimal Equivalent 04 C - More functions & More Nested Loops](./0x04-more_functions_nested_loops)
-* [0x05. - (hex) number | Decimal Equivalent 05 C - Pointers, arrays and strings](./0x05-pointers_arrays_strings)
-* [0x06. - (hex) number | Decimal Equivalent 06 C - More pointers, arrays and strings](./0x06-pointers_arrays_strings)
-* [0x07. - (hex) number | Decimal Equivalent 07 C - Even more pointers, arrays and strings](./0x07-pointers_arrays_strings)
-* [0x08. - (hex) number | Decimal Equivalent 08 C - Recursion](./0x08-recursion)
-* [0x09. - (hex) number | Decimal Equivalent 09 C - Static libraries](./0x09-static_libraries)
-* [0x0A. - (hex) number | Decimal Equivalent 10 C - argc, argv](./0x0A-argc_argv)
-* [0x0B. - (hex) number | Decimal Equivalent 11 C - malloc, free](./0x0B-malloc_free)
-* [0x0C. - (hex) number | Decimal Equivalent 12 C - More malloc, free](./0x0C-more_malloc_free)
-
-</center>
+| #  | Projects Guide:                                                                      |
+|--- | ------------------------------------------------------------------------------------ |
+| 00 | [0x00. - C - Hello, World](./0x00-hello_world)                                       | 
+| 01 | [0x01. - C - Variables, if, else, while](./0x01-variables_if_else_while)             |
+| 02 | [0x02. - C - Functions & Nested Loops](./0x02-functions_nested_loops)                | 
+| 03 | [0x03. - C - Debugging](./0x03-debugging)                                            | 
+| 04 | [0x04. - C - More functions & More Nested Loops](./0x04-more_functions_nested_loops) | 
+| 05 | [0x05. - C - Pointers, arrays and strings](./0x05-pointers_arrays_strings)           |
+| 06 | [0x06. - C - More pointers, arrays and strings](./0x06-pointers_arrays_strings)      | 
+| 07 | [0x07. - C - Even more pointers, arrays and strings](./0x07-pointers_arrays_strings) | 
+| 08 | [0x08. - C - Recursion](./0x08-recursion)                                            | 
+| 09 | [0x09. - C - Static libraries](./0x09-static_libraries)                              |
+| 10 | [0x0A. - C - argc, argv](./0x0A-argc_argv)                                           | 
+| 11 | [0x0B. - C - malloc, free](./0x0B-malloc_free)                                       | 
+| 12 | [0x0C. - C - More malloc, free](./0x0C. C - More malloc, free)                       | 
+| 13 | [0x0D. C - Preprocessor](./0x0D-preprocessor)                                        |
+| 14 | [0x0E. C - Structures, typedef](./0x0E-structures_typedef)                           | 
+| 15 | [0x0F. C - Function pointers](./0x0F-function_pointers)                              | 
+| 16 | [0x10. C - Variadic functions](./0x10-variadic_functions)                            |
