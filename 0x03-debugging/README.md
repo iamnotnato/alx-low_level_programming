@@ -31,7 +31,9 @@
 
 > 🌟 **Essentials:**
 
-> * [main.h](./main.h) : A Header file containing prototypes for all functions written in the project.
+> [main.h](./main.h) : A Header file containing prototypes for all functions written in the project.
+
+<br>
 
 > ✒️ **List of Tasks:**
 <br>
