@@ -13,6 +13,7 @@
   * File : 
     * **[libmy.a](./libmy.a)**
     * **[main.h](./main.h)**
+    * **[main.c](./main.c)**
   * Required : A the static library libmy.a containing all the functions listed below:
     
 | Prototype                                                   |
