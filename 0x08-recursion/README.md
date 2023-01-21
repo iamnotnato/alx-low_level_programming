@@ -43,6 +43,8 @@
 | `100-is_palindrome.c`        | `int is_palindrome(char *s);`           |
 | `101-wildcmp.c`              | `int wildcmp(char *s1, char *s2);`      |
 
+<br>
+
 > ✒️ **List of Tasks:**
 
 <br>
