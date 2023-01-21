@@ -80,37 +80,132 @@
 
 <br>
 
-* **3. Name**
-  * File : [3-name](./3-name)
-    * Required : A script that compiles a C file and creates an executable named cisfun.
-    * Expected Results : The C file name will be saved in the variable $CFILE.
+> 📁 **3. Name**
+>
+> 💾 **File :** [3-name](./3-name)
+>
+> 📑 **Task :** A script that compiles a C file and creates an executable named cisfun.
+>
+> 📝 **Required :** 
+
+| | Guides                                                                                           |
+|-| ------------------------------------------------------------------------------------------------ |
+|-| The C file name will be saved in the variable $CFILE                                             |
+
 <br>
 
-* **4. Hello, puts**
-  * File : [4-puts.c](./4-puts.c)
-    * Required : A C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
-    * Expected Results :
-      * Use the function puts.
-      * You are not allowed to use printf.
-      * Your program should end with the value 0.
+> 📁 **4. Hello, puts**
+>
+> 💾 **File :** [4-puts.c](./4-puts.c)
+> 
+> 📑 **Task :**  A C program that prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
+> 
+> 📝 **Required :** 
+
+| | Guides                                              |
+|-| --------------------------------------------------- |
+|-| Use the function puts                               |
+|-| You are not allowed to use printf                   |
+|-| Your program should end with the value 0            |
+
 <br>
 
-* **5. Hello, printf**
-  * File : [5-printf.c](./5-printf.c)
-    * Required : a C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
-    * Expected Results : 
-      * Use the function printf.
-      * You are not allowed to use the function puts.
-      * Your program should return 0.
-      * Your program should compile without warning when using the -Wall gcc option.
+> ⚙️ Compiler:
+
+```
+~$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 4-puts.c && ./a.out
+```
+
+> ✔️ Sample test cases :
+
+```
+~$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 4-puts.c && ./a.out
+"Programming is like building a multilingual puzzle
+~$ echo $?
+0
+~$ 
+```
+
+> 📁 **5. Hello, printf**
+>
+> 💾 **File :** [5-printf.c](./5-printf.c)
+> 
+> 📑 **Task :** A C program that prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
+> 
+> 📝 **Required :** 
+
+| | Guides                                                                      |
+|-| --------------------------------------------------------------------------- |
+|-| Use the function printf                                                     |
+|-| You are not allowed to use the function puts                                |
+|-| Your program should return 0                                                |
+|-| Your program should compile without warning when using the -Wall gcc option |
+
 <br>
 
-* **6. Size is not grandeur, and territory does not make a nation**
-  * File : [6-size.c](./6-size.c)
-    * Required : A C program that prints the size of various types on the computer it is compiled and run on.
-    * Expected Results : The output should be the same as the example provided.
-    
+> ⚙️ Compiler:
+
+```
+~$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 5-printf.c
+```
+
+> ✔️ Sample test cases :
+
+```
+~$ ./a.out 
+with proper grammar, but the outcome is a piece of art,
+~$ echo $?
+0
+~$
+```
+
+<br>
+
+> 📁 **6. Size is not grandeur, and territory does not make a nation**
+>
+> 💾 **File :** [6-size.c](./6-size.c)
+> 
+> 📑 **Task :** A C program that prints the size of various types on the computer it is compiled and run on.
+>    
 > 💬 *Quote : Size is not grandeur, and territory does not make a nation by Thomas Henry Huxley*
+> 
+> 📝 **Required :** 
+
+| | Guides                                                                                         |
+|-| ---------------------------------------------------------------------------------------------- |
+|-| You should produce the exact same output as in the example                                     |
+|-| Warnings are allowed                                                                           |
+|-| Your program should return 0                                                                   |
+|-| You might have to install the package libc6-dev-i386 on your Linux to test the -m32 gcc option |
+
+<br>
+
+> ⚙️ Compiler:
+
+```
+~$ gcc 6-size.c -m32 -o size32 2> /tmp/32
+~$ gcc 6-size.c -m64 -o size64 2> /tmp/64
+```
+
+> ✔️ Sample test cases :
+
+```
+~$ ./size32
+Size of a char: 1 byte(s)
+Size of an int: 4 byte(s)
+Size of a long int: 4 byte(s)
+Size of a long long int: 8 byte(s)
+Size of a float: 4 byte(s)
+~$ ./size64
+Size of a char: 1 byte(s)
+Size of an int: 4 byte(s)
+Size of a long int: 8 byte(s)
+Size of a long long int: 8 byte(s)
+Size of a float: 4 byte(s)
+~$ echo $?
+0
+~$ 
+```
 
 <br>
 
