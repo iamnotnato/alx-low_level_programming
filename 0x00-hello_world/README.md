@@ -209,20 +209,63 @@ Size of a float: 4 byte(s)
 
 <br>
 
-* **7. Intel**
-  * File : [100-intel](./100-intel)
-    * Required : A script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
-    * Expected Results : The output file should be named the same as the C file, but with the extension .s instead of .c.
+> 📁 **7. Intel**
+>
+> 💾 **File :** [100-intel](./100-intel)
+> 
+> 📑 **Task :** A script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
+>
+> 💡*Fun Fact : Intel Corporation is one of the developers of the x86 series of instruction sets, the instruction sets found in most personal computers.*
+>
+> 📝 **Required :** 
+
+| | Guides                                                                                           |
+|-| ------------------------------------------------------------------------------------------------ |
+|-| The C file name will be saved in the variable $CFILE.                                            |
+|-| The output file should be named the same as the C file, but with the extension .s instead of .c. |
+
 <br>
 
-* **8. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity**
-  * File : [101-quote.c](./101-quote.c)
-    * Required :  A C program that prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error.
-    * Expected Results : 
-      * You are not allowed to use any functions listed in the NAME section of the man (3) printf or man (3) puts.
-      * Your program should return 1.
-      * Your program should compile without any warnings when using the -Wall gcc option.
-     
+> 📁 **8. UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity**
+>
+> 💾 **File :** [101-quote.c](./101-quote.c)
+> 
+> 📑 **Task :**  A C program that prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error.
+>
 > 💡*Fun Fact : UNIX is basically a simple operating system, but you have to be a genius to understand the simplicity was a quote made by Dennis Ritchie.*
-
+>
 > 💡*He is most well-known for creating the C programming language and, with long-time colleague Ken Thompson, the Unix operating system and B programming language.*
+>     
+> 📝 **Required :** 
+
+| | Guides                                                                                                    |
+|-| --------------------------------------------------------------------------------------------------------- |
+|-| You are not allowed to use any functions listed in the NAME section of the man (3) printf or man (3) puts |
+|-| Your program should return 1                                                                              |
+|-| Your program should return 0                                                                              |
+|-| Your program should compile without any warnings when using the -Wall gcc option                          |
+
+<br>
+
+> ⚙️ Compiler:
+
+```
+~$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 -o quote 101-quote.c
+```
+
+> ✔️ Sample test cases :
+
+```
+~$ ./quote
+and that piece of art is useful" - Dora Korpar, 2015-10-19
+~$ echo $?
+1
+~$ ./quote 2> q
+~$ cat q
+and that piece of art is useful" - Dora Korpar, 2015-10-19
+~$ grep printf < 101-quote.c
+~$ grep put < 101-quote.c
+~$ 
+```
+
+<br>
