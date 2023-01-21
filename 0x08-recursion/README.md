@@ -29,6 +29,13 @@
 
 <br>
 
+> 📑 **Essentials:**
+
+* [_putchar.c](./_putchar.c) : A C function that writes a character to `stdout`.
+* [main.h](./main.h) : A Header file containing prototypes for all functions written in the project.
+
+<br>
+
 > Prototypes Required:
 
 | File                         | Prototype                               |
@@ -49,10 +56,16 @@
 
 <br>
 
-* **0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget**
-  * File : [0-puts_recursion.c](./0-puts_recursion.c)
-    * Required : A function that prints a string, followed by a new line.
-
+> 📁 **0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget**
+>
+> 💾 **File :** [0-puts_recursion.c](./0-puts_recursion.c)
+>
+> 💾 **File :** [0-main.c](./0-main.c)
+> 
+> 📑 **Task :**  A function that prints a string, followed by a new line.
+>
+>  ℹ️  **Hint:** The standard library provides a similar function: puts. Run man puts to learn more.
+>
 > 🎬 *Movie Quote :*
 > 
 > *"She had locked something away,something deep inside."*
@@ -62,7 +75,25 @@
 > *`Leonardo DiCaprio as Cobb`*
 >
 > *Inception (2010)*
+>
 
+<br>
+
+> ⚙️ Compiler:
+
+```
+~$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 0-main.c 0-puts_recursion.c -o 0-puts_recursion
+```
+
+> ✔️ Sample test cases :
+
+```
+~$  ./0-puts_recursion 
+Puts with recursion
+~$  
+```
+
+<br>
 <br>
 
 * **1. Why is it so important to dream? Because, in my dreams we are together**
