@@ -1,12 +1,35 @@
-<h3>Project : 0x08-recursion</h3>
+> 🚧 **Project :  0x08-recursion**
+
 <br>
 
-<h4>Essentials:</h4>
+> 📝 **Summary:**
 
-* [main.h](./main.h) : A Header file containing prototypes for all functions written in the project.
-* [_putchar.c](./_putchar.c) : A C function that writes a character to `stdout`.
+> These are projects that helped me understand a bit of low-level programming.
 
-<h4>Prototypes Required:</h4>
+<br>
+
+> ⌨️ **Languages Used :**
+
+<table>
+  <tr>
+    <td><img alt="medium" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></td>
+    <td><img alt="medium" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></td>
+  </tr>
+</table>
+
+<br>
+
+> 🖥️ **Integrated Development Environment:**
+
+<table>
+  <tr>
+<td><img alt="medium" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white"></td>
+  </tr>
+</table>
+
+<br>
+
+> Prototypes Required:
 
 | File                         | Prototype                               |
 | -----------------------------| ----------------------------------------|
@@ -20,7 +43,8 @@
 | `100-is_palindrome.c`        | `int is_palindrome(char *s);`           |
 | `101-wildcmp.c`              | `int wildcmp(char *s1, char *s2);`      |
 
-<h4>List of Tasks:</h4>
+> ✒️ **List of Tasks:**
+
 <br>
 
 * **0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget**
