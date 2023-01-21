@@ -31,8 +31,9 @@
 
 > 📑 **Essentials:**
 
-* [_putchar.c](./_putchar.c) : A C function that writes a character to `stdout`.
-* [main.h](./main.h) : A Header file containing prototypes for all functions written in the project.
+> [_putchar.c](./_putchar.c) : A C function that writes a character to `stdout`.
+>
+> [main.h](./main.h) : A Header file containing prototypes for all functions written in the project.
 
 <br>
 
@@ -59,13 +60,13 @@
 > 📁 **0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget**
 >
 > 💾 **File :** [0-puts_recursion.c](./0-puts_recursion.c)
->
+
 > 💾 **File :** [0-main.c](./0-main.c)
-> 
+ 
 > 📑 **Task :**  A function that prints a string, followed by a new line.
->
+
 >  ℹ️  **Hint:** The standard library provides a similar function: puts. Run man puts to learn more.
->
+
 > 🎬 *Movie Quote :*
 > 
 > *"She had locked something away,something deep inside."*
