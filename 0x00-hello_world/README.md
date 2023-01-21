@@ -50,16 +50,32 @@
 
 <br>
 
-* **1. Compiler**
-  * File : [1-compiler](./1-compiler)
-     * Required : A script that compiles a C file but does not link.
-     * Expected Results : The output file should be named the same as the C file, but with the extension .o instead of .c.
+> 📁 **1. Compiler**
+> 
+> 💾 **File :** [1-compiler](./1-compiler)
+> 
+> 📑 **Task :** A script that compiles a C file but does not link.
+> 
+> 📝 **Required :** 
+
+| | Guides                                                                                           |
+|-| ------------------------------------------------------------------------------------------------ |
+|-| The output file should be named the same as the C file, but with the extension .o instead of .c. |
+|-| The C file name will be saved in the variable $CFILE                                             |
+
 <br>
 
-* **2. Assembler**
-  * File : [2-assembler](./2-assembler)
-     * Required : A script that generates the assembly code of a C code and save it in an output file.
-     * Expected Results : The output file should be named the same as the C file, but with the extension .s instead of .c.
+> 📁 **2. Assembler**
+> 💾 **File :**  [2-assembler](./2-assembler)
+> 📑 **Task :** A script that generates the assembly code of a C code and save it in an output file.
+> 
+> 📝 **Required :** 
+
+| | Guides                                                                                           |
+|-| ------------------------------------------------------------------------------------------------ |
+|-| The output file should be named the same as the C file, but with the extension .s instead of .c. |
+|-| The C file name will be saved in the variable $CFILE                                             |
+
 <br>
 
 * **3. Name**
