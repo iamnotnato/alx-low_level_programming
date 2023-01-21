@@ -53,7 +53,9 @@
 > 📁 **1. Compiler**
 > 
 > 💾 **File :** [1-compiler](./1-compiler)
-> 
+>
+> 💾 **File :** [main.c](./main.c) 
+>
 > 📑 **Task :** A script that compiles a C file but does not link.
 > 
 > 📝 **Required :** 
@@ -68,7 +70,9 @@
 > 📁 **2. Assembler**
 > 
 > 💾 **File :**  [2-assembler](./2-assembler)
-> 
+>
+> 💾 **File :** [main.c](./main.c) 
+>
 > 📑 **Task :** A script that generates the assembly code of a C code and save it in an output file.
 > 
 > 📝 **Required :** 
@@ -83,6 +87,8 @@
 > 📁 **3. Name**
 >
 > 💾 **File :** [3-name](./3-name)
+>
+> 💾 **File :** [main.c](./main.c) 
 >
 > 📑 **Task :** A script that compiles a C file and creates an executable named cisfun.
 >
@@ -214,7 +220,9 @@ Size of a float: 4 byte(s)
 > 📁 **7. Intel**
 >
 > 💾 **File :** [100-intel](./100-intel)
-> 
+>
+> 💾 **File :** [main.c](./main.c) 
+>
 > 📑 **Task :** A script that generates the assembly code (Intel syntax) of a C code and save it in an output file.
 >
 > 💡*Fun Fact : Intel Corporation is one of the developers of the x86 series of instruction sets, the instruction sets found in most personal computers.*
