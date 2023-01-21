@@ -1,7 +1,36 @@
-<h3>Project : 0x01-variables_if_else_while</h3>
+> 🚧 **Project : 0x01-variables_if_else_while**
+ 
 <br>
 
-<h4>List of Tasks:</h4>
+> 📝 **Summary:**
+
+> These are projects that helped me understand a bit of low-level programming.
+
+<br>
+
+> ⌨️ **Languages Used :**
+
+<table>
+  <tr>
+    <td><img alt="medium" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></td>
+    <td><img alt="medium" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></td>
+  </tr>
+</table>
+
+<br>
+
+> 🖥️ **Integrated Development Environment:**
+
+<table>
+  <tr>
+<td><img alt="medium" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white"></td>
+  </tr>
+</table>
+
+<br>
+
+> ✒️ **List of Tasks:**
+
 <br>
 
 * **0. Positive anything is better than negative nothing**
