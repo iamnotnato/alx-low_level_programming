@@ -66,7 +66,9 @@
 <br>
 
 > 📁 **2. Assembler**
+> 
 > 💾 **File :**  [2-assembler](./2-assembler)
+> 
 > 📑 **Task :** A script that generates the assembly code of a C code and save it in an output file.
 > 
 > 📝 **Required :** 
