@@ -43,6 +43,8 @@
 > 
 > 📝 **Required :** 
 
+<br>
+
 | | Guides                                               |
 |-| ---------------------------------------------------- |
 |-| The output should be saved in the file c.            |
@@ -59,6 +61,8 @@
 > 📑 **Task :** A script that compiles a C file but does not link.
 > 
 > 📝 **Required :** 
+
+<br>
 
 | | Guides                                                                                           |
 |-| ------------------------------------------------------------------------------------------------ |
@@ -77,6 +81,8 @@
 > 
 > 📝 **Required :** 
 
+<br>
+
 | | Guides                                                                                           |
 |-| ------------------------------------------------------------------------------------------------ |
 |-| The output file should be named the same as the C file, but with the extension .s instead of .c. |
@@ -94,6 +100,8 @@
 >
 > 📝 **Required :** 
 
+<br>
+
 | | Guides                                                                                           |
 |-| ------------------------------------------------------------------------------------------------ |
 |-| The C file name will be saved in the variable $CFILE                                             |
@@ -108,6 +116,8 @@
 > 
 > 📝 **Required :** 
 
+<br>
+
 | | Guides                                              |
 |-| --------------------------------------------------- |
 |-| Use the function puts                               |
@@ -121,6 +131,8 @@
 ```
 ~$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 4-puts.c && ./a.out
 ```
+
+<br>
 
 > ✔️ Sample test cases :
 
@@ -142,6 +154,8 @@
 > 
 > 📝 **Required :** 
 
+<br>
+
 | | Guides                                                                      |
 |-| --------------------------------------------------------------------------- |
 |-| Use the function printf                                                     |
@@ -156,6 +170,8 @@
 ```
 ~$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 5-printf.c
 ```
+
+<br>
 
 > ✔️ Sample test cases :
 
@@ -179,6 +195,8 @@ with proper grammar, but the outcome is a piece of art,
 > 
 > 📝 **Required :** 
 
+<br>
+
 | | Guides                                                                                         |
 |-| ---------------------------------------------------------------------------------------------- |
 |-| You should produce the exact same output as in the example                                     |
@@ -194,6 +212,8 @@ with proper grammar, but the outcome is a piece of art,
 ~$ gcc 6-size.c -m32 -o size32 2> /tmp/32
 ~$ gcc 6-size.c -m64 -o size64 2> /tmp/64
 ```
+
+<br>
 
 > ✔️ Sample test cases :
 
@@ -229,6 +249,8 @@ Size of a float: 4 byte(s)
 >
 > 📝 **Required :** 
 
+<br>
+
 | | Guides                                                                                           |
 |-| ------------------------------------------------------------------------------------------------ |
 |-| The C file name will be saved in the variable $CFILE.                                            |
@@ -248,6 +270,8 @@ Size of a float: 4 byte(s)
 >     
 > 📝 **Required :** 
 
+<br>
+
 | | Guides                                                                                                    |
 |-| --------------------------------------------------------------------------------------------------------- |
 |-| You are not allowed to use any functions listed in the NAME section of the man (3) printf or man (3) puts |
@@ -262,6 +286,8 @@ Size of a float: 4 byte(s)
 ```
 ~$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 -o quote 101-quote.c
 ```
+
+<br>
 
 > ✔️ Sample test cases :
 
