@@ -30,12 +30,24 @@
 <br>
 
 > ✒️ **List of Tasks:**
+
 <br>
 
-* **0. Preprocessor**
-  * File : [0-preprocessor](./0-preprocessor)
-    * Required : A script that runs a C file through the preprocessor and save the result into another file.
-    * Expected Results : The output should be saved in the file c.
+> 📁 **0. Preprocessor**
+> 
+> 💾 **File :** [0-preprocessor](./0-preprocessor)
+> 
+> 💾 **File :** [main.c](./main.c) 
+> 
+> 📑 **Task : A script that runs a C file through the preprocessor and save the result into another file.
+> 
+> 📝 **Required :** 
+
+| | Guides                                               |
+|-| ---------------------------------------------------- |
+|-| The output should be saved in the file c.            |
+|-| The C file name will be saved in the variable $CFILE | 
+
 <br>
 
 * **1. Compiler**
