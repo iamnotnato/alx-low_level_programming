@@ -1,7 +1,35 @@
-<h3>Project : 0x00-hello_world</h3>
+> 🚧 **Project : 0x00-hello_world**
+ 
 <br>
 
-<h4>List of Tasks:</h4>
+> 📝 **Summary:**
+
+> These are projects that helped me understand a bit of low-level programming.
+
+<br>
+
+> ⌨️ **Languages Used :**
+
+<table>
+  <tr>
+    <td><img alt="medium" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"></td>
+    <td><img alt="medium" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></td>
+  </tr>
+</table>
+
+<br>
+
+> 🖥️ **Integrated Development Environment:**
+
+<table>
+  <tr>
+<td><img alt="medium" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white"></td>
+  </tr>
+</table>
+
+<br>
+
+> ✒️ **List of Tasks:**
 <br>
 
 * **0. Preprocessor**
