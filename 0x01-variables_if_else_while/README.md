@@ -33,12 +33,56 @@
 
 <br>
 
-* **0. Positive anything is better than negative nothing**
-  * File : [0-positive_or_negative.c](./0-positive_or_negative.c)
-    * Required : Complete the source code in order to print whether the number stored in the variable n is positive or negative.
-    * Expected Results : The variable n will store a different value every time you will run this program.
-        
+> 📁 **0. Positive anything is better than negative nothing**
+>
+> 💾 **File :** [0-positive_or_negative.c](./0-positive_or_negative.c)
+> 
+> 📑 **Task :**  Complete the source code in order to print whether the number stored in the variable n is positive or negative.
+>
 > 💬 *Quote : Quote by Elbert Hubbard: “Positive anything is better than negative nothing.”*
+>
+> 📝 **Required :** 
+
+| | Guides                                              |
+|-| --------------------------------------------------- |
+|-| The variable n will store a different value every time you will run this program                             |
+|-| You don’t have to understand what rand, srand, RAND_MAX do.                   |
+|-| The output of the program should be:
+The number, followed by          |
+|-| -if the number is greater than 0: is positive                            |
+|-| -if the number is 0: is zero                 |
+|-| -if the number is less than 0: is negative          |
+|-| followed by a new line     |
+
+<br>
+
+> ⚙️ Compiler:
+
+```
+~$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-positive_or_negative.c -o 0-positive_or_negative
+```
+
+> ✔️ Sample test cases :
+
+```
+~$  ./0-positive_or_negative 
+-520693284 is negative
+~$  ./0-positive_or_negative 
+-973398895 is negative
+~$  ./0-positive_or_negative 
+-199220452 is negative
+~$  ./0-positive_or_negative 
+561319348 is positive
+~$  ./0-positive_or_negative 
+561319348 is positive
+~$  ./0-positive_or_negative 
+266853958 is positive
+~$  ./0-positive_or_negative 
+-48147767 is negative
+~$  ./0-positive_or_negative 
+0 is zero
+~$  
+```
 
 <br>
 
