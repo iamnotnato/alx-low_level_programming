@@ -39,7 +39,7 @@
 > 
 > 💾 **File :** [main.c](./main.c) 
 > 
-> 📑 **Task : A script that runs a C file through the preprocessor and save the result into another file.
+> 📑 **Task :** A script that runs a C file through the preprocessor and save the result into another file.
 > 
 > 📝 **Required :** 
 
