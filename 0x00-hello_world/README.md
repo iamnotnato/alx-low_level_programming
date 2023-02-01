@@ -31,17 +31,17 @@
 
 > ⚙️ **Compiler Flags:**
 
-> 🏁 gcc : Invokes the GNU C compiler. 
+> 🏁 **gcc** : Invokes the GNU C compiler. 
 >
-> 🏁 -Wall : This enables all the warnings about constructions that some users consider questionable, and that are easy to avoid (or modify to prevent the warning), even in conjunction with macros.
+> 🏁 **-Wall** : This enables all the warnings about constructions that some users consider questionable, and that are easy to avoid (or modify to prevent the warning), even in conjunction with macros.
 >
-> 🏁 -pedantic : Issue all the warnings demanded by strict ISO C and ISO C++; reject all programs that use forbidden extensions, and some other programs that do not follow ISO C and ISO C++. For ISO C, follows the version of the ISO C standard specified by any -std option used.
+> 🏁 **-pedantic** : Issue all the warnings demanded by strict ISO C and ISO C++; reject all programs that use forbidden extensions, and some other programs that do not follow ISO C and ISO C++. For ISO C, follows the version of the ISO C standard specified by any -std option used.
 >
-> 🏁 -Werror : Make all warnings into errors.
+> 🏁 **-Werror** : Make all warnings into errors.
 >
-> 🏁 -Wextra : This enables some extra warning flags that are not enabled by -Wall.
+> 🏁 **-Wextra** : This enables some extra warning flags that are not enabled by -Wall.
 >
-> 🏁 -std=gnu89 :  Determine the language standard.
+> 🏁 **-std=gnu89** :  Determine the language standard.
 > 
 > This option is currently only supported when compiling C or C++.
 > 
