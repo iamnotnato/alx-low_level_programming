@@ -32,7 +32,7 @@
 > ⚙️ **Compiler Flags:**
 
 > 🏁 **gcc** : Invokes the GNU C compiler. 
->
+<br>
 > 🏁 **-Wall** : This enables all the warnings about constructions that some users consider questionable, and that are easy to avoid (or modify to prevent the warning), even in conjunction with macros.
 >
 > 🏁 **-pedantic** : Issue all the warnings demanded by strict ISO C and ISO C++; reject all programs that use forbidden extensions, and some other programs that do not follow ISO C and ISO C++. For ISO C, follows the version of the ISO C standard specified by any -std option used.
