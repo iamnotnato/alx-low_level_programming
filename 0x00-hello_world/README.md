@@ -4,6 +4,8 @@
 
 > 📝 **Summary:**
 
+<br>
+
 > These are projects that helped me understand a bit of low-level programming.
 
 <br>
