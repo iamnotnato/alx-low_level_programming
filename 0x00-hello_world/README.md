@@ -74,7 +74,7 @@
 > 
 > Support all ISO C90 programs (certain GNU extensions that conflict with ISO C90 are disabled).
 > 
-> Same as -ansi for C code.|
+> Same as -ansi for C code.
 
 <br>
 
