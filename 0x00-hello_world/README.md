@@ -88,10 +88,12 @@
 
 > Several restrictions apply to the main function that don't apply to any other C functions. The main function:
 
-* **Can't be declared as inline.**
-* **Can't be declared as static.**
-* **Can't have its address taken.**
-* **Can't be called from your program.**
+> * **Can't be declared as inline.**
+> * **Can't be declared as static.**
+> * **Can't have its address taken.**
+> * **Can't be called from your program.**
+
+<br>
 
 > ✒️ **List of Tasks:**
 
