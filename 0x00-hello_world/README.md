@@ -42,20 +42,20 @@
 > 🏁 -Wextra : This enables some extra warning flags that are not enabled by -Wall.
 >
 > 🏁 -std=gnu89 :  Determine the language standard. See Language Standards Supported by GCC, for details of these standard versions. This option is currently only supported when compiling C or C++.
-> The compiler can accept several base standards, such as `c89' or `c++98', and GNU dialects of those standards, such as `gnu89' or `gnu++98'.
+> The compiler can accept several base standards, such as `c89` or `c++98`, and GNU dialects of those standards, such as `gnu89` or `gnu++98`.
 > 
 > By specifing a base standard, the compiler will accept all programs following that standard and those using GNU extensions that do not contradict it.
 > 
-> For example, `-std=c89' turns off certain features of GCC that are incompatible with ISO C90, such as the asm and typeof keywords, but not other GNU extensions that do not have a meaning in ISO C90, such as omitting the middle term of a ?: expression.
+> For example, `-std=c89` turns off certain features of GCC that are incompatible with ISO C90, such as the asm and typeof keywords, but not other GNU extensions that do not have a meaning in ISO C90, such as omitting the middle term of a ?: expression.
 > 
 > On the other hand, by specifing a GNU dialect of a standard, all features the compiler support are enabled, even when those features change the meaning of the base standard and some strict-conforming programs may be rejected. 
 > 
-> The particular standard is used by -pedantic to identify which features are GNU extensions given that version of the standard. For example `-std=gnu89 -pedantic' would warn about C++ style `//' comments, while `-std=gnu99 -pedantic' would not.
+> The particular standard is used by -pedantic to identify which features are GNU extensions given that version of the standard. For example `-std=gnu89 -pedantic` would warn about C++ style `//` comments, while `-std=gnu99 -pedantic` would not.
 > 
 > A value for this option must be provided; possible values are
 >
-> `c89'
-> `iso9899:1990'
+> `c89`
+> `iso9899:1990`
 > 
 > Support all ISO C90 programs (certain GNU extensions that conflict with ISO C90 are disabled). Same as -ansi for C code.|
 
