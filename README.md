@@ -62,3 +62,4 @@
 | 16 | [0x10. C - Variadic functions](./0x10-variadic_functions)                            |
 | 17 | 0x11. C - printf                                                                     |
 | 18 | [0x12. C - Singly linked lists](./0x12-singly_linked_lists)                          |
+| 19 | [0x13. C - More singly linked lists](./0x13-more_singly_linked_lists)                |
