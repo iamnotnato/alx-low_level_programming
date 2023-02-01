@@ -78,6 +78,21 @@
 
 <br>
 
+> 📝 **Notes:**
+
+> Every C program has a primary function that must be named main. 
+> 
+> The main function serves as the starting point for program execution. 
+> 
+> It usually controls program execution by directing the calls to other functions in the program.
+
+> Several restrictions apply to the main function that don't apply to any other C functions. The main function:
+
+* **Can't be declared as inline.**
+* **Can't be declared as static.**
+* **Can't have its address taken.**
+* **Can't be called from your program.**
+
 > ✒️ **List of Tasks:**
 
 <br>
