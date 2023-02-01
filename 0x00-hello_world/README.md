@@ -41,7 +41,10 @@
 >
 > 🏁 -Wextra : This enables some extra warning flags that are not enabled by -Wall.
 >
-> 🏁 -std=gnu89 :  Determine the language standard. See Language Standards Supported by GCC, for details of these standard versions. This option is currently only supported when compiling C or C++.
+> 🏁 -std=gnu89 :  Determine the language standard.
+> 
+> This option is currently only supported when compiling C or C++.
+> 
 > The compiler can accept several base standards, such as `c89` or `c++98`, and GNU dialects of those standards, such as `gnu89` or `gnu++98`.
 > 
 > By specifing a base standard, the compiler will accept all programs following that standard and those using GNU extensions that do not contradict it.
