@@ -63,3 +63,4 @@
 | 17 | [0x11. C - printf](https://github.com/iamnotnato/printf)                             |
 | 18 | [0x12. C - Singly linked lists](./0x12-singly_linked_lists)                          |
 | 19 | [0x13. C - More singly linked lists](./0x13-more_singly_linked_lists)                |
+| 20 | [0x14. C - Bit manipulation](./0x14-bit_manipulation)                                |
