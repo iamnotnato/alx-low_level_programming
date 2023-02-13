@@ -67,6 +67,8 @@
 | 21 | [0x15. C - File I/O](./0x15-file_io)                                                 |
 | 22 | [0x16. C - Simple Shell](https://github.com/iamnotnato/simple_shell)                 |
 
+<br>
+<br>
 
 > Footnotes : 
 
