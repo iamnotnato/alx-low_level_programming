@@ -217,14 +217,35 @@ $
 
 <br>
 
-* **2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**
-  * File : [2-print_alphabet.c](./2-print_alphabet.c)
-    * Required : A program that prints the alphabet in lowercase, followed by a new line.
-    * Expected Results : You can only use the putchar function (every other function (printf, puts, etc…) is forbidden).
-
+> 📁 **2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**
+> 💾 **File :** [2-print_alphabet.c](./2-print_alphabet.c)
+> 📑 **Task :** A program that prints the alphabet in lowercase, followed by a new line.
 > 💬 *Quote : Quote by Roz Chast: I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game.*
+> 📝 **Required :**  
 
 <br>
+
+| | Guides                                                                                         |
+|-| ---------------------------------------------------------------------------------------------- |
+|-| You can only use the putchar function (every other function (printf, puts, etc…) is forbidden).|
+|-| All your code should be in the main function                                                   |
+|-| You can only use putchar twice in your code                                                    |
+
+<br>
+
+> ⚙️ Compiler:
+
+```
+~$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-print_alphabet.c -o 2-print_alphabet
+```
+
+> ✔️ Sample test cases :
+
+```
+$ ./2-print_alphabet 
+abcdefghijklmnopqrstuvwxyz
+$
+```
 
 * **3. alphABET**
   * File : [3-print_alphabets.c](./3-print_alphabets.c)
