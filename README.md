@@ -70,7 +70,7 @@
 <br>
 <br>
 
-> Footnotes : 
+> 📝 **Footnotes**
 
 > ⚙️ **Compiler Flags:**
 
@@ -121,7 +121,7 @@
 
 <br>
 
-> 📝 **Notes:**
+> 📝 **Endnotes**
 
 > Every C program has a primary function that must be named main. 
 > 
