@@ -218,9 +218,13 @@ $
 <br>
 
 > 📁 **2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game**
+> 
 > 💾 **File :** [2-print_alphabet.c](./2-print_alphabet.c)
+> 
 > 📑 **Task :** A program that prints the alphabet in lowercase, followed by a new line.
+> 
 > 💬 *Quote : Quote by Roz Chast: I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game.*
+> 
 > 📝 **Required :**  
 
 <br>
