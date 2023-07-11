@@ -1,60 +1,39 @@
 #include "search_algos.h"
 
 /**
- * binary_search - binary search a ascending sorted array to find a value.
- * No duplicates in array. Must print subarray each split.
- * @array: pointer to first element in array to search in
- * @size: number of elements in array
- * @value: value to search for
- * Return: index of matched value in array or -1 if error or not found
- */
+  * binary_search - Searches for a value in a sorted array
+  *                 of integers using binary search.
+  * @array: A pointer to the first element of the array to search.
+  * @size: The number of elements in the array.
+  * @value: The value to search for.
+  *
+  * Return: If the value is not present or the array is NULL, -1.
+  *         Otherwise, the index where the value is located.
+  *
+  * Description: Prints the [sub]array being searched after each change.
+  */
 int binary_search(int *array, size_t size, int value)
 {
-	int tmp;
-	size_t b = 0;
+	size_t i, left, right;
 
-	if (array == NULL || size == 0)
+	if (array == NULL)
 		return (-1);
-	size--;
-	while (b <= size)
-	{
-		print_array(array, b, size);
 
-		tmp = (size - b) / 2 + b;
-		if (array[tmp] == value)
-			return (tmp);
-		else if (array[tmp] < value)
-		{
-			if (size % 2 == 1)
-				b = tmp + 1;
-			else
-				b = tmp;
-		}
+	for (left = 0, right = size - 1; right >= left;)
+	{
+		printf("Searching in array: ");
+		for (i = left; i < right; i++)
+			printf("%d, ", array[i]);
+		printf("%d\n", array[i]);
+
+		i = left + (right - left) / 2;
+		if (array[i] == value)
+			return (i);
+		if (array[i] > value)
+			right = i - 1;
 		else
-		{
-			if (size % 2 == 1)
-				size = tmp;
-			else
-				size = tmp - 1;
-		}
+			left = i + 1;
 	}
-	return (-1);
-}
 
-/**
- * print_array - print the current array given rules on format
- * @array: array to print
- * @inc: starting incrementer index
- * @size: increment up to this size
- */
-void print_array(int *array, size_t inc, size_t size)
-{
-	printf("Searching in array: ");
-	for (; inc <= size; inc++)
-	{
-		printf("%d", array[inc]);
-		if (inc < size)
-			printf(", ");
-	}
-	printf("\n");
+	return (-1);
 }
