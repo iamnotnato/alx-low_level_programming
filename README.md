@@ -38,9 +38,12 @@
 
 <table>
   <tr>
+<td><img alt="medium" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"></td>
+<td><img alt="medium" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"></td>
 <td><img alt="medium" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white"></td>
   </tr>
 </table>
+
 <br>
   
 ![Alt](https://repobeats.axiom.co/api/embed/50a392e676820ce03006d38197b98899827faf15.svg "Repobeats analytics image")
