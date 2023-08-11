@@ -53,36 +53,38 @@
 
 <br>
 
-| Hexadecimal Project # |  Decimal Equivalent # | Project Title                                                                                                                                                |
-| --------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|           0x00        |         00            | [Shell Basics](./0x00-shell_basics)                                                                                                                          | 
-|           0x01        |         01            | [Shell Permissions](./0x01-shell_permissions)                                                                                                                |
-|           0x02        |         02            | [Shell Redirections](./0x02-shell_redirections)                      	                                                                                       | 
-|           0x03        |         03            | [Shell Variables & Expansions](./0x03-shell_variables_expansions)                                                                                            | 
-|           0x04        |         04            | [Loops, conditions and parsing](./0x04-loops_conditions_and_parsing)                                                                                         | 
-|           0x05        |         05            | [Processes and signals](./0x05-processes_and_signals)                                                                                                        |
-|           0x06        |         06            | [Regular expression](./0x06-regular_expressions)                                                                                                             | 
-|           0x07        |         07            | [Networking basics #0](./0x07-networking_basics)                                                                                                             | 
-|           0x08        |         08            | [Networking basics #1](./0x08-networking_basics_2)                                                                                                           | 
-|           0x09        |         09            | [Web infrastructure design](./0x09-web_infrastructure_design)                                                                                                |
-|           0x0A        |         10            | [Configuration management](./0x0A-configuration_management)                                                                                                  | 
-|           0x0B        |         11            | [SSH](./0x0B-ssh)                                                                                                                                            | 
-|           0x0C        |         12            | [Web server](./0x0C-web_server)                                                                                                                              | 
-|           0x0D        |         13            | [Web stack debugging #0](./0x0D-web_stack_debugging_0)                                                                                                       | 
-|           0x0E        |         14            | [Web stack debugging #1](./0x0E-web_stack_debugging_1)                                                                                                       |
-|           0x0F        |         15            | [Load balancer](./0x0F-load_balancer)                                                                                                                        | 
-|           0x10        |         16            | [HTTPS SSL](./0x10-https_ssl)                                                                                                                                | 
-|           0x11        |         17            | [What happens when you type google.com in your browser and press Enter](./0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter)       |
-|           0x12        |         18            | [Web stack debugging #2](./0x12-web_stack_debugging_2)                                                                                                       | 
-|           0x13        |         19            | [Firewall](./0x13-firewall)                                                                                                                                  | 
-|           0x14        |         20            | [MySQL](./0x14-mysql)                                                                                                                                        | 
-|           0x15        |         21            | [API](./0x15-api)                                                                                                                                            |
-|           0x16        |         22            | [API advanced](./0x16-api_advanced)                                                                                                                          | 
-|           0x17        |         23            | [Web stack debugging #3](./0x17-web_stack_debugging_3)                                                                                                       |
-|           0x18        |         24            | [Webstack monitoring](./0x18-webstack_monitoring)                                                                                                            |
-|           0x19        |         25            | [Postmortem](./0x19-postmortem)                                                                                                                              | 
-|            -          |         -             | [Attack is the best defense](./attack_is_the_best_defense)                                                                                                   | 
-|            -          |         -             | [Command line for the win](./command_line_for_the_win)                                                                                                       |
+| Hexadecimal Project # |  Decimal Equivalent # | Project Title                                                                       |
+------------------------------------------------------------------------------------------------------------------------------------- |
+|           0x00        |         00            | [0x00. C - Hello, World](./0x00-hello_world)                                        | 
+|           0x01        |         01            | [0x01. C - Variables, if, else, while](./0x01-variables_if_else_while)              |
+|           0x02        |         02            | [0x02. C - Functions, nested loops](./0x02-functions_nested_loops)                  | 
+|           0x03        |         03            | [0x03. C - Debugging](./0x03-debugging)                                             | 
+|           0x04        |         04            | [0x04. C - More functions, more nested loops](./0x04-more_functions_nested_loops)   | 
+|           0x05        |         05            | [0x05. C - Pointers, arrays and strings](./0x05-pointers_arrays_strings)            |
+|           0x06        |         06            | [0x06. C - More pointers, arrays and strings](./0x06-pointers_arrays_strings)       |
+|           0x07        |         07            | [0x07. C - Even more pointers, arrays and strings](./0x07-pointers_arrays_strings)  | 
+|           0x08        |         08            | [0x08. C - Recursion](./0x08-recursion)                                             |
+|           0x09        |         09            | [0x09. C - Static libraries](./0x09-static_libraries)                               |
+|           0x0A        |         10            | [0x0A. C - argc, argv](./0x0A-argc_argv)                                            |
+|           0x0B        |         11            | [0x0B. C - malloc, free](./0x0B-malloc_free)                                        | 
+|           0x0C        |         12            | [0x0C. C - More malloc, free](./0x0C-more_malloc_free)                              |
+|           0x0D        |         13            | [0x0D. C - Preprocessor](./0x0D-preprocessor)                                       | 
+|           0x0E        |         14            | [0x0E. C - Structures, typedef](./0x0E-structures_typedef)                          | 
+|           0x0F        |         15            | [0x0F. C - Function pointers](./0x0F-function_pointers)                             |
+|           0x10        |         16            | [0x10. C - Variadic functions](./0x10-variadic_functions)                           | 
+|           0x11        |         17            | [0x11. C - printf](https://github.com/iamnotnato/printf)                            | 
+|           0x12        |         18            | [0x12. C - Singly linked lists](./0x12-singly_linked_lists)                         |
+|           0x13        |         19            | [0x13. C - More singly linked lists](./0x13-more_singly_linked_lists)               | 
+|           0x14        |         20            | [0x14. C - Bit manipulation](./0x14-bit_manipulationo)                              | 
+|           0x15        |         22            | [0x15. C - File I/O](./0x15-file_io)                                                | 
+|           0x16        |         23            | [0x16. C - Simple Shell](https://github.com/iamnotnato/simple_shell)                |
+|           0x17        |         24            | [0x17. C - Doubly linked lists](./0x17-doubly_linked_lists)                         | 
+|           0x18        |         25            | [0x18. C - Dynamic libraries](./0x18-dynamic_libraries)                             |
+|           0x19        |         26            | [0x19. C - Stacks, Queues - LIFO, FIFO ](https://github.com/iamnotnato/monty)       |
+|           0x1A        |         27            | [0x1A. C - Hash tables](./0x1A-hash_tables)                                         | 
+|           0x1C        |         28            | [0x1C. C - Makefiles ](./0x1C-makefiles)                                            | 
+|           0x1D        |         29            | [0x1D. C - Binary trees](https://github.com/iamnotnato/binary_trees)                |
+|           0x1E        |         30            | [0x1E. C - Search Algorithms](./0x1E-search_algorithms)                             |
 
 <br>
 
