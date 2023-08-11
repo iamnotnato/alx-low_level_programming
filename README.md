@@ -7,7 +7,13 @@
     <img src="https://github.com/iamnotnato/alx-low_level_programming/blob/master/images/lowlevel.png" alt="Logo" width="350" height="400">
   </a>
 </div>
-Image credit = https://www.investopedia.com/terms/a/assembly-language.asp
+
+<br>
+
+<div>
+ <a href="https://www.investopedia.com/terms/a/assembly-language.asp">Image by investopedia.com</a>
+  </div>
+  
 <br>
 
 > 📝 **Summary:**
