@@ -4,7 +4,7 @@
 
 <div>
   <a href="https://github.com/iamnotnato/alx-low_level_programming">
-    <img src="https://github.com/iamnotnato/alx-low_level_programming/blob/master/images/lowlevel.png" alt="Logo" width="350" height="400">
+    <img src="https://github.com/iamnotnato/alx-low_level_programming/blob/master/images/lowlevel.png" alt="Logo" width="400" height="400">
   </a>
 </div>
 
