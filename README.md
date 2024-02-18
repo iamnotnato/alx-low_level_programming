@@ -88,6 +88,62 @@
 
 <br>
 
+
+## ALX Low-Level Programming
+
+### Purpose
+
+This repository contains the codebase for the ALX Low-Level Programming course, which provides a foundation in low-level programming concepts and hands-on experience with C programming.
+
+### Features
+
+- Comprehensive C programming curriculum
+- Practical exercises and challenges
+- Step-by-step guidance through low-level programming concepts
+- Hands-on projects to reinforce learning
+
+### Technologies Used
+
+- C Programming Language
+- Linux Operating System
+
+### Getting Started
+
+**Git Clone**
+
+To clone the repository, run the following command:
+
+```
+git clone https://github.com/iamnotnato/alx-low_level_programming.git
+```
+
+**Prerequisites**
+
+- Basic understanding of programming concepts
+- Linux operating system
+- C compiler (e.g., gcc or clang)
+
+### Contribution Guidelines
+
+Contributions are welcome! Please follow these guidelines:
+
+- Create a new issue before submitting a pull request
+- Follow the C coding style as outlined in the course materials
+- Add documentation and comments to your code
+- Test your changes thoroughly
+
+### License
+
+This project is licensed under the MIT License. Please see the LICENSE file for details.
+
+### Contact
+
+For any questions or support, please contact the maintainer through [GitHub](https://github.com/iamnotnato).
+
+### Conclusion
+
+The ALX Low-Level Programming course and its associated codebase provide a valuable foundation for anyone interested in exploring the world of low-level programming and C language. With its comprehensive curriculum, practical exercises, and support community, this repository is an excellent resource for students and professionals alike.
+
 > 💡*Fun Fact :*
 > 
 > *The projects have memory addresses assigned to identify them.*
