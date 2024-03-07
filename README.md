@@ -81,7 +81,7 @@
 |           0x1C        |         28            | [C - Makefiles ](./0x1C-makefiles)                                            | 
 |           0x1D        |         29            | [C - Binary trees](https://github.com/iamnotnato/binary_trees)                |
 |           0x1E        |         30            | [C - Search Algorithms](./0x1E-search_algorithms)                             |
-
+<br>
 > 💡*Fun Fact :*
 > 
 > *The projects have memory addresses assigned to identify them.*
