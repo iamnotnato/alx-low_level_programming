@@ -135,10 +135,10 @@ git clone https://github.com/iamnotnato/alx-low_level_programming.git
 
 Contributions are welcome! Please follow these guidelines:
 
-- Create a new issue before submitting a pull request
-- Follow the C coding style as outlined in the course materials - https://github.com/alx-tools/Betty/wiki 
-- Add documentation and comments to your code
-- Test your changes thoroughly
+- Create a new issue before submitting a pull request.
+- Follow the C coding style as outlined in the course materials: https://github.com/alx-tools/Betty/wiki 
+- Add documentation and comments to your code.
+- Test your changes thoroughly.
 
 ### License
 
@@ -150,4 +150,4 @@ For any questions or support, please contact the maintainer through [GitHub](htt
 
 ### Conclusion
 
-The ALX Low-Level Programming course and its associated codebase provide a valuable foundation for anyone interested in exploring the world of low-level programming and C language. With its comprehensive curriculum, practical exercises, and support community, this repository is an excellent resource for students and professionals alike.
+The ALX Low-Level Programming course and its associated codebase provide a valuable foundation for anyone interested in exploring the world of low-level programming and the C language. With its comprehensive curriculum, practical exercises, and support community, this repository is an excellent resource for students and professionals alike.
