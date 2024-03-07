@@ -136,7 +136,7 @@ git clone https://github.com/iamnotnato/alx-low_level_programming.git
 Contributions are welcome! Please follow these guidelines:
 
 - Create a new issue before submitting a pull request
-- Follow the C coding style as outlined in the course materials
+- Follow the C coding style as outlined in the course materials - https://github.com/alx-tools/Betty/wiki 
 - Add documentation and comments to your code
 - Test your changes thoroughly
 
