@@ -88,6 +88,12 @@
 |           0x1D        |         29            | [C - Binary trees](https://github.com/iamnotnato/binary_trees)                |
 |           0x1E        |         30            | [C - Search Algorithms](./0x1E-search_algorithms)                             |
 
+> 💡*Fun Fact :*
+> 
+> *The projects have memory addresses assigned to identify them.*
+>
+> *Symbolizing how, over time,by understanding the ALX curriculum, it is stored in parts of our mind just like memory is stored in computers.*
+
 <br>
 
 
@@ -145,9 +151,3 @@ For any questions or support, please contact the maintainer through [GitHub](htt
 ### Conclusion
 
 The ALX Low-Level Programming course and its associated codebase provide a valuable foundation for anyone interested in exploring the world of low-level programming and C language. With its comprehensive curriculum, practical exercises, and support community, this repository is an excellent resource for students and professionals alike.
-
-> 💡*Fun Fact :*
-> 
-> *The projects have memory addresses assigned to identify them.*
->
-> *Symbolizing how, over time,by understanding the ALX curriculum, it is stored in parts of our mind just like memory is stored in computers.*
