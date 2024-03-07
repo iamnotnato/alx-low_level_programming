@@ -145,8 +145,6 @@ Contributions are welcome! Please follow these guidelines:
 - Add documentation and comments to your code.
 - Test your changes thoroughly.
 
-<br><br>
-
 ### License
 
 This project is licensed under the MIT License. Please see the LICENSE file for details.
