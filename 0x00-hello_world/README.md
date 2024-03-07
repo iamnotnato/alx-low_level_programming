@@ -49,6 +49,7 @@
 >  The gcc -E option is used with the GNU Compiler Collection (GCC) to stop the compilation process after the preprocessing stage.
 > 
 > The C preprocessor modifies C source code before compilation by handling directives like macro expansion, file inclusion, and conditional compilation.
+>
 > 
 > 📝 **Required :** 
 
@@ -59,6 +60,7 @@
 |-| The output should be saved in the file c.            |
 |-| The C file name will be saved in the variable $CFILE | 
 
+<br>
 <br>
 
 > 📁 **1. Compiler**
