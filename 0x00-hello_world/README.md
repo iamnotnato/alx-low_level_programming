@@ -19,7 +19,7 @@
 
 <br>
 
-> 🖥️ **Integrated Development Environment:**
+> 🖥️ **Developer's Toolkit:**
 
 <table>
   <tr>
