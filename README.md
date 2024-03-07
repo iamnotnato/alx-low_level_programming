@@ -121,7 +121,7 @@ git clone https://github.com/iamnotnato/alx-low_level_programming.git
 
 - Basic understanding of programming concepts
 - Linux operating system
-- C compiler (e.g., gcc or clang)
+- C compiler (gcc)
 
 ### Contribution Guidelines
 
