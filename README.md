@@ -18,7 +18,7 @@
 
 > 📝 **Summary:**
 
-> These are projects that helped me understand a bit of low-level programming.
+> These are the projects that have improved my understanding of basic programming.
 
 <br>
 
