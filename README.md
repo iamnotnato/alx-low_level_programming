@@ -132,8 +132,6 @@ git clone https://github.com/iamnotnato/alx-low_level_programming.git
 Interested in contributing? Check out our [CONTRIBUTING.md](CONTRIBUTING.md) to find
 resources around contributing along with a guide on how to set up a development environment.
 
-#### Join our amazing community as a code contributor, and help accelerate
-
 Contributions are welcome! Please follow these guidelines:
 
 - Create a new issue before submitting a pull request.
