@@ -52,13 +52,11 @@
 >
 > 
 > 📝 **Required :** 
-
-<br>
-
-| | Guides                                               |
-|-| ---------------------------------------------------- |
-|-| The output should be saved in the file c.            |
-|-| The C file name will be saved in the variable $CFILE | 
+>
+> | | Guides                                               |
+> |-| ---------------------------------------------------- |
+> |-| The output should be saved in the file c.            |
+> |-| The C file name will be saved in the variable $CFILE | 
 
 <br>
 <br>
