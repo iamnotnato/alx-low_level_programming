@@ -4,15 +4,9 @@
 
 <div>
   <a href="https://github.com/iamnotnato/alx-low_level_programming">
-    <img src="https://github.com/iamnotnato/alx-low_level_programming/blob/master/images/lowlevel.png" alt="Logo" width="400" height="400">
+    <img src="https://github.com/iamnotnato/alx-low_level_programming/blob/master/images/logo.jpg" alt="Logo" width="400" height="400">
   </a>
 </div>
-
-<br>
-
-<div>
- <a href="https://www.investopedia.com/terms/a/assembly-language.asp">Image by investopedia.com</a>
-  </div>
   
 <br>
 
