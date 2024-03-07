@@ -4,7 +4,7 @@
 
 > 📝 **Summary:**
 
-> These are projects that helped me understand a bit of low-level programming.
+> These are the projects that have improved my understanding of basic programming.
 
 <br>
 
@@ -13,7 +13,6 @@
 <table>
   <tr>
     <td><img alt="medium" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></td>
-    <td><img alt="medium" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></td>
    
   </tr>
 </table>
