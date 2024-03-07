@@ -14,6 +14,7 @@
   <tr>
     <td><img alt="medium" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></td>
     <td><img alt="medium" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></td>
+   <td><img alt="medium" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></td>
   </tr>
 </table>
 
@@ -24,6 +25,7 @@
 <table>
   <tr>
 <td><img alt="medium" src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white"></td>
+   <td><img alt="medium" src="https://img.shields.io/badge/nano-4A90E2?style=for-the-badge&logo=nano&logoColor=white"></td>
   </tr>
 </table>
 
