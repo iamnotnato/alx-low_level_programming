@@ -12,7 +12,7 @@
 
 > 📝 **Summary:**
 
-> These are the projects that have improved my understanding of basic programming.
+> This repository contains the codebase for the ALX Low-Level Programming course, which provides a foundation in low-level programming concepts and hands-on experience with C programming.
 
 <br>
 
@@ -91,16 +91,3 @@
 > *Symbolizing how, over time,by understanding the ALX curriculum, it is stored in parts of our mind just like memory is stored in computers.*
 
 <br>
-
-
-## ALX Low-Level Programming
-
-This repository contains the codebase for the ALX Low-Level Programming course, which provides a foundation in low-level programming concepts and hands-on experience with C programming.
-
-### License
-
-This project is licensed under the MIT License. Please see the LICENSE file for details.
-
-### Contact
-
-For any questions or support, please contact the maintainer through [GitHub](https://github.com/iamnotnato).
