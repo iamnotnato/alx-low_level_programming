@@ -183,11 +183,12 @@ nato@Nato:~$
 > ✔️ Sample test cases :
 
 ```
-~$ ./a.out 
+nato@Nato:~$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 5-printf.c
+nato@Nato:~$ ./a.out
 with proper grammar, but the outcome is a piece of art,
-~$ echo $?
+nato@Nato:~$ echo $?
 0
-~$
+nato@Nato:~$
 ```
 
 <br>
