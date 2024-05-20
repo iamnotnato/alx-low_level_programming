@@ -226,21 +226,23 @@ nato@Nato:~$
 > ✔️ Sample test cases :
 
 ```
-~$ ./size32
+nato@Nato:~$ gcc 6-size.c -m32 -o size32 2> /tmp/32
+nato@Nato:~$ gcc 6-size.c -m64 -o size64 2> /tmp/64
+nato@Nato:~$ ./size32
 Size of a char: 1 byte(s)
 Size of an int: 4 byte(s)
 Size of a long int: 4 byte(s)
 Size of a long long int: 8 byte(s)
 Size of a float: 4 byte(s)
-~$ ./size64
+nato@Nato:~$ ./size64
 Size of a char: 1 byte(s)
 Size of an int: 4 byte(s)
 Size of a long int: 8 byte(s)
 Size of a long long int: 8 byte(s)
 Size of a float: 4 byte(s)
-~$ echo $?
+nato@Nato:~$ echo $?
 0
-~$ 
+nato@Nato:~$
 ```
 
 <br>
