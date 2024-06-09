@@ -1,17 +1,23 @@
 #include <stdio.h>
 /**
- * main -Entry Point
- * Description : Prints all the numbers of base 16 in lowercase.
+ * main - Entry Point
+ * Description: Prints all single digit numbers of base 10 starting from 0.
  * Return: Always 0.
  */
 int main(void)
 {
-int num;
-char letter;
-for (num = 0; num < 10; num++)
-putchar((num % 10) + '0');
-for (letter = 'a'; letter <= 'f'; letter++)
-putchar(letter);
+int i;
+for (i = 1; i <= 15; i++)
+{
+	if (i < 10)
+	{
+		putchar('0' + i);
+	}
+	else
+	{
+	putchar('a' + (i - 10));
+	}
+}
 putchar('\n');
 return (0);
 }
