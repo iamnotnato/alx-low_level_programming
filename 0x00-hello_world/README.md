@@ -135,24 +135,6 @@
 
 <br>
 
-> ⚙️ Compiler:
-
-```
-~$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 4-puts.c && ./a.out
-```
-
-<br>
-
-> ✔️ Sample test cases :
-
-```
-nato@Nato:~$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 4-puts.c && ./a.out
-Programming is like building a multilingual puzzle
-nato@Nato:~$ 
-```
-
-<br>
-
 > 📁 **5. Hello, printf**
 >
 > 💾 **File :** [5-printf.c](./5-printf.c)
@@ -169,27 +151,6 @@ nato@Nato:~$
 |-| You are not allowed to use the function puts                                |
 |-| Your program should return 0                                                |
 |-| Your program should compile without warning when using the -Wall gcc option |
-
-<br>
-
-> ⚙️ Compiler:
-
-```
-~$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 5-printf.c
-```
-
-<br>
-
-> ✔️ Sample test cases :
-
-```
-nato@Nato:~$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 5-printf.c
-nato@Nato:~$ ./a.out
-with proper grammar, but the outcome is a piece of art,
-nato@Nato:~$ echo $?
-0
-nato@Nato:~$
-```
 
 <br>
 
@@ -211,39 +172,6 @@ nato@Nato:~$
 |-| Warnings are allowed                                                                           |
 |-| Your program should return 0                                                                   |
 |-| You might have to install the package libc6-dev-i386 on your Linux to test the -m32 gcc option |
-
-<br>
-
-> ⚙️ Compiler:
-
-```
-~$ gcc 6-size.c -m32 -o size32 2> /tmp/32
-~$ gcc 6-size.c -m64 -o size64 2> /tmp/64
-```
-
-<br>
-
-> ✔️ Sample test cases :
-
-```
-nato@Nato:~$ gcc 6-size.c -m32 -o size32 2> /tmp/32
-nato@Nato:~$ gcc 6-size.c -m64 -o size64 2> /tmp/64
-nato@Nato:~$ ./size32
-Size of a char: 1 byte(s)
-Size of an int: 4 byte(s)
-Size of a long int: 4 byte(s)
-Size of a long long int: 8 byte(s)
-Size of a float: 4 byte(s)
-nato@Nato:~$ ./size64
-Size of a char: 1 byte(s)
-Size of an int: 4 byte(s)
-Size of a long int: 8 byte(s)
-Size of a long long int: 8 byte(s)
-Size of a float: 4 byte(s)
-nato@Nato:~$ echo $?
-0
-nato@Nato:~$
-```
 
 <br>
 
@@ -288,30 +216,3 @@ nato@Nato:~$
 |-| Your program should return 1                                                                              |
 |-| Your program should return 0                                                                              |
 |-| Your program should compile without any warnings when using the -Wall gcc option                          |
-
-<br>
-
-> ⚙️ Compiler:
-
-```
-~$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 -o quote 101-quote.c
-```
-
-<br>
-
-> ✔️ Sample test cases :
-
-```
-~$ ./quote
-and that piece of art is useful" - Dora Korpar, 2015-10-19
-~$ echo $?
-1
-~$ ./quote 2> q
-~$ cat q
-and that piece of art is useful" - Dora Korpar, 2015-10-19
-~$ grep printf < 101-quote.c
-~$ grep put < 101-quote.c
-~$ 
-```
-
-<br>
