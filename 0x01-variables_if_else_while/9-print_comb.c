@@ -1,24 +1,16 @@
 #include <stdio.h>
 /**
- * main - entry point for program
- *
- * Description: print all ints followed by ', '
- * using putchar
- *
- * Return: always 0 (success)
+ * main - Entry Point
+ * Description: Prints all single digit numbers of base 10 starting from 0.
+ * Return: Always 0.
  */
 int main(void)
 {
-	int i;
-
-	for (i = 48; i < 58; i++)
-	{
-		putchar(i);
-		if (i == 57)
-			continue;
-		putchar(44);
-		putchar(32);
-	}
-	putchar(10);
-	return (0);
+int i;
+for (i = '0'; i <= '9'; i++)
+{
+	putchar(i);
+}
+putchar('\n');
+return (0);
 }
