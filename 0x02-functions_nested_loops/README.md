@@ -202,7 +202,7 @@
 > 
 > 💾 **File :** [104-fibonacci.c](./104-fibonacci.c)
 > 
-> 📑 **Task :**A program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
+> 📑 **Task :** A program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
 > 
 > 📝 **Required :** If n is greater than 15 or less than 0 the function should not print anything.
  
