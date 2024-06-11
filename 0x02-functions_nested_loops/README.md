@@ -36,8 +36,6 @@
 
 <h4>List of Tasks:</h4>
 
-<br>
-
 > 📁 **0. _putchar**
 > 
 > 💾 **File :** [0-putchar.c](./0-putchar.c)
