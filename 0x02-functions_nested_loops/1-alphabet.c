@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - Entry Point
+ * print_alphabet - Entry Point
  * Description: a function that prints the alphabet
  * in lowercase, followed by a new line
  * Return: Always 0.
