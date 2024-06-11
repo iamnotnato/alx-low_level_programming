@@ -1,4 +1,33 @@
-<h3>Project : 0x02-functions_nested_loops</h3>
+> 🚧 **Project : 0x02-functions_nested_loops**
+ 
+<br>
+
+> 📝 **Summary:**
+
+> These are projects that helped me understand a bit of low-level programming.
+
+<br>
+
+> ⌨️ **Languages Used :**
+
+<table>
+  <tr>
+    <td><img alt="medium" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></td>
+    <td><img alt="medium" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></td>
+  </tr>
+</table>
+
+<br>
+
+> 🖥️ **Integrated Development Environment:**
+
+<table>
+  <tr>
+   <td><img alt="medium" src="https://img.shields.io/badge/nano-4A90E2?style=for-the-badge&logo=nano&logoColor=white"></td>
+   <td><img alt="medium" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></td>
+  </tr>
+</table>
+
 <br>
 
 <h4>Essentials:</h4>
