@@ -28,8 +28,6 @@
   </tr>
 </table>
 
-<br>
-
 <h4>Essentials:</h4>
 
 * [_putchar.c](./_putchar.c) : A C function that writes a character to `stdout`.
