@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * print_alphabet - Entry Point
+ * print_alphabet_x10 - Entry Point
  * Description: a function that prints the alphabet
  * 10 times the alphabet, in lowercase
  * followed by a new line.
