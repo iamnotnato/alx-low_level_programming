@@ -27,5 +27,5 @@ int x;
 		x = 0;
 	}
 putchar('\n');
-return x;
+return (x);
 }
