@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * main - main function
+ * main - entry point
  * Return: 0
  * A program that displays Programming is like building a multilingual puzzle
  * followed by a new line.
