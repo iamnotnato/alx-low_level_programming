@@ -42,14 +42,6 @@
 > 💾 **File :** [main.c](./main.c) 
 > 
 > 📑 **Task :** A script that runs a C file through the preprocessor and save the result into another file.
->
->
->  📝 **Notes :** 
->
->  The gcc -E option is used with the GNU Compiler Collection (GCC) to stop the compilation process after the preprocessing stage.
-> 
-> The C preprocessor modifies C source code before compilation by handling directives like macro expansion, file inclusion, and conditional compilation.
->
 > 
 > 📝 **Required :** 
 >
