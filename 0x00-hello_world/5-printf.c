@@ -1,12 +1,16 @@
 #include <stdio.h>
+
 /**
-* main - main function
-* return 0
-* program prints with proper grammar, but the outcome is a piece of art
-* followed by a new line.
-*/
+ * main - Entry Point
+ * Description: a program that prints
+ * exactly with proper grammar,
+ * but the outcome is a piece of art,
+ * followed by a new line
+ * Return: Always 0.
+ */
+
 int main(void)
 {
 printf("with proper grammar, but the outcome is a piece of art,\n");
-return 0;
+return (0);
 }
