@@ -229,12 +229,15 @@
 > 
 > 📑 **Task :** A program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
 > 
-> 📝 **Required :** If n is greater than 15 or less than 0 the function should not print anything.
- 
-        * *Numbers must be separated by a comma, followed by a space*
-        * *You are not allowed to use any other library (You can’t use GMP etc…)*
-        * *You are not allowed to use long long, malloc, pointers, arrays/tables, or structures*
-        * *You are not allowed to hard code any Fibonacci number (except for 1 and 2)*
+> 📝 **Required :**
+>
+| | Guides                                                                                         |
+|-| ---------------------------------------------------------------------------------------------- |
+|-| If n is greater than 15 or less than 0 the function should not print anything.                 |
+|-| Numbers must be separated by a comma, followed by a space                                      |
+|-| You are not allowed to use any other library (You can’t use GMP etc…)                          |
+|-| You are not allowed to use long long, malloc, pointers, arrays/tables, or structure            |
+|-| You are not allowed to hard code any Fibonacci number (except for 1 and 2)                     |
         
 > 💬 *Quote : I think it goes back to my high school days.* 
 > 
