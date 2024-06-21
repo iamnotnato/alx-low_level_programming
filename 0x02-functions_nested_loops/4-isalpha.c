@@ -4,7 +4,7 @@
  * int _isalpha - Entry Point
  * @c : parameter
  * Description: a function that
- * checks for lowercase character
+ * checks for alphabetic character.
  * Return: Always 0.
  */
 

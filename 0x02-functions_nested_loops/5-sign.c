@@ -4,7 +4,7 @@
  * print_sign - Entry Point
  * @n : parameter
  * Description: a function that
- * checks for lowercase character
+ * prints the sign of a number.
  * Return: Always 0.
  */
 
