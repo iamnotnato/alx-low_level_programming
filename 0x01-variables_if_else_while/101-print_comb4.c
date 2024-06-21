@@ -2,7 +2,8 @@
 
 /**
  * main - Entry Point
- * Description: Prints all single digit numbers of base 10 starting from 0.
+ * Description: prints all possible different
+ * combinations of three digits.
  * Return: Always 0.
  */
 
