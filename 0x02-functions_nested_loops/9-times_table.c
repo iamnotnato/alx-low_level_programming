@@ -19,13 +19,11 @@ for (i = 0; i <= 9; i++)
 	{
 	if (j != 9)
 	{
-	printf("%d", i * j);
-	putchar(',');
-	putchar(' ');
+	printf("%2d, ", i * j);
 	}
 	else
 	{
-	printf("%d", i * j);
+	printf("%2d", i * j);
 	}
 	}
 	printf("\n");
