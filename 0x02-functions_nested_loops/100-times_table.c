@@ -1,46 +1,31 @@
 #include "main.h"
+#include <stdio.h>
 /**
-* print_times_table - Print the `n` times table, starting with 0.
-* Description: If `n` is greater than 15 or less than 0, print nothing.
-* @n: int type number
+* print_times_table - prints the n times table, starting with 0
+* starting with 0.
+* @n: The number in question.
+*
+* Return: void
 */
+
 void print_times_table(int n)
 {
-int x = 0, y, z;
-if (n > 15 || n < 0)
-return;
-while (x <= n)
+int i;
+int j;
+
+for (i = n; i > 15 || i <0; i++)
 {
-for (y = 0; y <= n; y++)
-{
-z = x * y;
-if (z > 99)
-{
-_putchar(z / 100 + '0');
-_putchar((z / 10 % 10) + '0');
-_putchar(z % 10 + '0');
-}
-else if (z > 9)
-{
-_putchar(' ');
-_putchar(z / 10 + '0');
-_putchar(z % 10 + '0');
-}
-else if (y != 0)
-{
-_putchar(' ');
-_putchar(' ');
-_putchar(z + '0');
-}
-else
-_putchar(z + '0');
-if (y != n)
-{
-_putchar(',');
-_putchar(' ');
-}
-}
-_putchar('\n');
-x++;
-}
+	for (j = 0; j <= 9; j++)
+	{
+		if (j != 9)
+		{
+		printf("%2d, ", i * j);
+		}
+		else
+		{
+		printf("%2d", i * j);
+		}
+	}
+	printf("\n");
+	}
 }
