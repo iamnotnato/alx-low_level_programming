@@ -11,13 +11,29 @@
 void print_times_table(int n)
 {
 int i;
+int j;
 
-	if (n < 0 || n > 15)
+
+if (n > 15 || n < 0)
+{
+return;
+}
+else
+{
+for (i = 0; i <= n; i++)
+{
+	for (j = 0; j <= n; j++)
 	{
-	return;
+		if (j != 9)
+		{
+		printf("%2d, ", i * j);
+		}
+		else
+		{
+		printf("%2d", i * j);
+		}
 	}
-	for (i = 0; i <= 10; ++i)
-	{
-		printf("%d * %d = %d\n", n, i, n * i);
+	printf("\n");
 	}
+}
 }
