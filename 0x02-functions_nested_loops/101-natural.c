@@ -7,18 +7,32 @@
 *
 * Return: void
 */
+void print_natural_numbers();
+
+int main(void)
+{
+int x = 10;
+print_natural_numbers(x);
+putchar('\n');
+return (0);
+}
+
 
 void print_natural_numbers(int n)
 {
 int k = 5;
 int m = 3;
+int i;
 
-multiples = 10;
-for (i = 0; i < n; i++)
+for (i = 0; i <= n; i++)
 {
-	if (multiples % n == 0)
+	/**if (n % m == 0)
 	{
-	putchar(i);
-	}
+*/
+putchar(i);
+printf("%d , i");
+/*	}
+
+*/
 }
 }
